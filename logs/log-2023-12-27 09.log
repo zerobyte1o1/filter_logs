@@ -1,0 +1,1379 @@
+12-27 09:07:44.396  1883  1883 E Tinker.TinkerManager: NOT tinker ApplicationLike object
+12-27 09:07:44.534  1883  1915 E Bundle  : putString->_track_generation:null
+12-27 09:07:44.637  1883  1915 E Bundle  : putString->_track_generation:null
+12-27 09:07:45.991  1883  1883 E Bundle  : putString->_prefix:textclassifier/
+12-27 09:07:45.991  1883  1883 E Bundle  : putString->_track_generation:null
+12-27 09:07:46.006  1883  1883 E checkLicense: checkLicense
+12-27 09:07:46.550  1883  1883 E checkLicense sfAuthErrorCode:      true
+12-27 09:07:46.552  1883  1883 E SysEventReceiver: 重启完成
+12-27 09:07:46.563  1883  1883 E paymentProviderType: {"channelName":"测试","paymentProviderType":"ppt_SF_Test"}
+12-27 09:07:47.192  1883  2382 E loadModel: ---true
+12-27 09:07:48.218  1883  2382 E loadModel: 1    /storage/emulated/0/shifang/ai_dish/model/dish_v5.1.1.rk.sfm
+12-27 09:07:48.250  1883  2382 E linker  : library "/vendor/lib64/libvpu.so" ("/vendor/lib64/libvpu.so") needed or dlopened by "/data/app/~~yw0SHc6wyqxW-Ab8dJ1TUg==/com.shifang.aidish.offline-ms9WJMmDuF9gAFk-LUJe3g==/lib/arm64/libarcsoft_face.so" is not accessible for the namespace: [name="classloader-namespace", ld_library_paths="", default_library_paths="/data/app/~~yw0SHc6wyqxW-Ab8dJ1TUg==/com.shifang.aidish.offline-ms9WJMmDuF9gAFk-LUJe3g==/lib/arm64:/data/app/~~yw0SHc6wyqxW-Ab8dJ1TUg==/com.shifang.aidish.offline-ms9WJMmDuF9gAFk-LUJe3g==/base.apk!/lib/arm64-v8a", permitted_paths="/data:/mnt/expand:/data/user/0/com.shifang.aidish.offline"]
+12-27 09:07:48.402  1883  2382 E activeFaceSdk: 98310 
+12-27 09:07:48.402  1883  2382 E SdkInitService_initFaceSdk: false   
+12-27 10:46:21.020  1883  1883 E Bundle  : putString->_track_generation:null
+12-27 10:46:21.141  1883  9297 E SyncDataService_onStartCommand: false
+12-27 10:46:21.144  1883  9297 E PaymentProvider__syncData: 11 
+12-27 10:46:21.147  1883  9305 E syncSubImage: 0 
+12-27 10:46:21.251  1883  9293 E getNewVersion: null
+12-27 10:46:24.515  1883  1883 E Bundle  : putString->args_tag:null
+12-27 10:46:24.515  1883  1883 E Bundle  : putString->args_tag:null
+12-27 10:46:24.515  1883  1883 E Bundle  : putString->args_tag:null
+12-27 10:46:24.516  1883  1883 E Bundle  : putString->args_tag:null
+12-27 10:46:24.570  1883  1883 E language: ch
+12-27 10:46:24.753  1883  1883 E TradeOrderPresenter__doSearchTradeOrder  srcUserName:  
+12-27 10:46:24.753  1883  1883 E getTradeOrders:       2023-12-27 00:00:00 2023-12-27 10:49:59
+12-27 10:46:24.760  1883  1883 E findTraderOrders: 0   5
+12-27 10:46:24.761  1883  1883 E doSearchTradeOrder: 0  5  
+12-27 10:46:24.764  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:46:25.089  1883  1883 E TradeOrderPresenter__doSearchTradeOrder  srcUserName:  
+12-27 10:46:25.089  1883  1883 E getTradeOrders:       2023-12-27 00:00:00 2023-12-27 10:49:59
+12-27 10:46:25.095  1883  1883 E findTraderOrders: 0   5
+12-27 10:46:25.096  1883  1883 E doSearchTradeOrder: 0  5  
+12-27 10:46:25.098  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:46:25.115  1883  9338 E ts_scan_state_fun: 1 
+12-27 10:46:25.152  1883  9341 E ywl5320 : fbo success
+12-27 10:46:25.152  1883  9341 E mali_so : encounter the first gles_error : 0x0001; gles_state_error_info : <param> is not an accepted value (gles_texturep_tex_parameteri_input_param_validation at hardware/arm/maliT760/driver/product/gles/src/texture/mali_gles_texture_helpers.c:1095)
+12-27 10:46:26.233  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:46:27.233  1883  9369 E innerRecognize: recognizeByFilter2
+12-27 10:46:27.233  1883  9369 E recognize: 424ms   /storage/emulated/0/shifang/ai_dish/image/20231227/7fd8aa91-43a0-4237-970c-6d1b75491924.jpg  
+12-27 10:46:27.336  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:46:32.277  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:46:32.701  1883  9385 E innerRecognize: recognizeByFilter2
+12-27 10:46:32.701  1883  9385 E recognize: 389ms   /storage/emulated/0/shifang/ai_dish/image/20231227/abd7dd3e-c856-4216-823f-eefcfd91018a.jpg  
+12-27 10:46:32.745  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:46:58.121  1883  1883 E surfaceDestroyed: ------
+12-27 10:46:58.122  1883  9341 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.DetectCalcActivity]#5(BLAST Consumer)5](id:75b00000005,api:0,p:-1,c:1883) dequeueBuffer: BufferQueue has no connected producer
+12-27 10:46:58.122  1883  9341 E mali_so : encounter the first mali_error : 0x0002 : failed to allocate CPU memory (gles_fb_first_operation_cb at hardware/arm/maliT760/driver/product/gles/src/fb/mali_gles_fb_module_api.c:987)
+12-27 10:46:58.122  1883  9341 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.DetectCalcActivity]#5(BLAST Consumer)5](id:75b00000005,api:0,p:-1,c:1883) dequeueBuffer: BufferQueue has no connected producer
+12-27 10:46:58.123  1883  9341 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.DetectCalcActivity]#5(BLAST Consumer)5](id:75b00000005,api:0,p:-1,c:1883) disconnect: not connected (req=1)
+12-27 10:46:58.123  1883  1883 E surfaceDestroyed: ------
+12-27 10:46:58.131  1883  9343 E BufferQueueProducer: [SurfaceView[]#6(BLAST Consumer)6](id:75b00000007,api:0,p:-1,c:1883) dequeueBuffer: BufferQueue has no connected producer
+12-27 10:46:58.131  1883  9343 E mali_so : encounter the first mali_error : 0x0002 : failed to allocate CPU memory (gles_fb_first_operation_cb at hardware/arm/maliT760/driver/product/gles/src/fb/mali_gles_fb_module_api.c:987)
+12-27 10:46:58.131  1883  9343 E BufferQueueProducer: [SurfaceView[]#6(BLAST Consumer)6](id:75b00000007,api:0,p:-1,c:1883) dequeueBuffer: BufferQueue has no connected producer
+12-27 10:46:58.132  1883  9343 E BufferQueueProducer: [SurfaceView[]#6(BLAST Consumer)6](id:75b00000007,api:0,p:-1,c:1883) disconnect: not connected (req=1)
+12-27 10:46:58.249  1883  1883 E TradeOrderPresenter__doSearchTradeOrder  srcUserName:  
+12-27 10:46:58.249  1883  1883 E getTradeOrders:       2023-12-27 00:00:00 2023-12-27 10:49:59
+12-27 10:46:58.255  1883  1883 E findTraderOrders: 0   5
+12-27 10:46:58.257  1883  1883 E doSearchTradeOrder: 0  5  
+12-27 10:46:58.259  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:46:58.299  1883  9580 E ywl5320 : fbo success
+12-27 10:46:58.299  1883  9580 E mali_so : encounter the first gles_error : 0x0001; gles_state_error_info : <param> is not an accepted value (gles_texturep_tex_parameteri_input_param_validation at hardware/arm/maliT760/driver/product/gles/src/texture/mali_gles_texture_helpers.c:1095)
+12-27 10:46:58.986  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:46:59.714  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:46:59.955  1883  9597 E innerRecognize: recognizeByFilter2
+12-27 10:46:59.955  1883  9597 E recognize: 425ms   /storage/emulated/0/shifang/ai_dish/image/20231227/ec1e7acd-3c7e-4106-8175-d2f186cd01ef.jpg  
+12-27 10:47:00.035  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:47:00.385  1883  9598 E innerRecognize: recognizeByFilter2
+12-27 10:47:00.385  1883  9598 E recognize: 363ms   /storage/emulated/0/shifang/ai_dish/image/20231227/1d1a60bc-f39a-414b-86cd-291ccacd90d8.jpg  
+12-27 10:47:00.446  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:47:02.139  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:47:02.574  1883  9611 E innerRecognize: recognizeByFilter2
+12-27 10:47:02.574  1883  9611 E recognize: 393ms   /storage/emulated/0/shifang/ai_dish/image/20231227/7c9614c0-ca11-47f1-84c7-e482ae390f7f.jpg  
+12-27 10:47:02.641  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:47:04.335  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:47:04.802  1883  9617 E innerRecognize: recognizeByFilter2
+12-27 10:47:04.802  1883  9617 E recognize: 427ms   /storage/emulated/0/shifang/ai_dish/image/20231227/a8054b86-f415-4d98-b77a-4f7f89c37dc6.jpg  
+12-27 10:47:04.855  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:47:06.521  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:47:06.902  1883  9623 E innerRecognize: recognizeByFilter2
+12-27 10:47:06.902  1883  9623 E recognize: 346ms   /storage/emulated/0/shifang/ai_dish/image/20231227/843b4cc6-dd4f-4ea6-9398-b0768703b7a0.jpg  
+12-27 10:47:06.970  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:47:08.645  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:47:09.020  1883  9631 E innerRecognize: recognizeByFilter2
+12-27 10:47:09.020  1883  9631 E recognize: 335ms   /storage/emulated/0/shifang/ai_dish/image/20231227/6ddc35e4-87ca-4c42-8005-4937edf46a7f.jpg  
+12-27 10:47:09.068  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:47:09.716  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:47:10.119  1883  9636 E innerRecognize: recognizeByFilter2
+12-27 10:47:10.120  1883  9636 E recognize: 358ms   /storage/emulated/0/shifang/ai_dish/image/20231227/04a212e9-1ff3-40f6-8052-fb07bb2dfbe0.jpg  
+12-27 10:47:10.185  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:47:11.851  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:47:12.245  1883  9642 E innerRecognize: recognizeByFilter2
+12-27 10:47:12.245  1883  9642 E recognize: 358ms   /storage/emulated/0/shifang/ai_dish/image/20231227/fd9d5b1f-0c7c-408d-a304-57f42385c4ad.jpg  
+12-27 10:47:12.279  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:47:13.960  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:47:14.342  1883  9648 E innerRecognize: recognizeByFilter2
+12-27 10:47:14.342  1883  9648 E recognize: 336ms   /storage/emulated/0/shifang/ai_dish/image/20231227/31a93794-b709-4f3d-88d1-7e001851446b.jpg  
+12-27 10:47:14.392  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:47:15.028  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:47:15.495  1883  9653 E innerRecognize: recognizeByFilter2
+12-27 10:47:15.495  1883  9653 E recognize: 418ms   /storage/emulated/0/shifang/ai_dish/image/20231227/0b387578-70ae-4aac-bd2e-8fa948d3e507.jpg  
+12-27 10:47:15.535  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:47:17.209  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:47:17.623  1883  9659 E innerRecognize: recognizeByFilter2
+12-27 10:47:17.623  1883  9659 E recognize: 365ms   /storage/emulated/0/shifang/ai_dish/image/20231227/4329130f-f8dd-4518-bcd1-ea4058a68c72.jpg  
+12-27 10:47:17.670  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:47:19.338  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:47:19.728  1883  9665 E innerRecognize: recognizeByFilter2
+12-27 10:47:19.729  1883  9665 E recognize: 353ms   /storage/emulated/0/shifang/ai_dish/image/20231227/419e345e-e9d3-485e-bfd9-73c361cad8d3.jpg  
+12-27 10:47:19.783  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:47:21.162  1883  9305 E syncSubImage: 14 
+12-27 10:47:21.458  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:47:21.826  1883  9673 E innerRecognize: recognizeByFilter2
+12-27 10:47:21.826  1883  9673 E recognize: 319ms   /storage/emulated/0/shifang/ai_dish/image/20231227/76be08b1-bff7-4b4e-be02-4b69286def0f.jpg  
+12-27 10:47:21.858  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:47:23.520  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:47:23.909  1883  9679 E innerRecognize: recognizeByFilter2
+12-27 10:47:23.909  1883  9679 E recognize: 358ms   /storage/emulated/0/shifang/ai_dish/image/20231227/84f75836-89a3-49f6-8396-5cd0abb13755.jpg  
+12-27 10:47:23.950  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:47:25.621  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:47:25.977  1883  9685 E innerRecognize: recognizeByFilter2
+12-27 10:47:25.977  1883  9685 E recognize: 330ms   /storage/emulated/0/shifang/ai_dish/image/20231227/4b841dd2-7ed9-417a-a278-9a460051876a.jpg  
+12-27 10:47:26.013  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:47:27.666  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:47:28.079  1883  9369 E innerRecognize: recognizeByFilter2
+12-27 10:47:28.079  1883  9369 E recognize: 387ms   /storage/emulated/0/shifang/ai_dish/image/20231227/40475ba3-3579-4a11-a2fd-87467f9afa60.jpg  
+12-27 10:47:28.139  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:47:29.805  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:47:30.200  1883  9385 E innerRecognize: recognizeByFilter2
+12-27 10:47:30.200  1883  9385 E recognize: 357ms   /storage/emulated/0/shifang/ai_dish/image/20231227/89e4082f-db70-42b3-8b65-b2e19fd09902.jpg  
+12-27 10:47:30.252  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:47:31.910  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:47:32.309  1883  9597 E innerRecognize: recognizeByFilter2
+12-27 10:47:32.309  1883  9597 E recognize: 372ms   /storage/emulated/0/shifang/ai_dish/image/20231227/0d632163-7670-412d-bfff-d981e2b0d280.jpg  
+12-27 10:47:32.343  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:47:34.009  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:47:34.434  1883  9598 E innerRecognize: recognizeByFilter2
+12-27 10:47:34.434  1883  9598 E recognize: 385ms   /storage/emulated/0/shifang/ai_dish/image/20231227/98fe4d16-7184-4012-88e1-e42694c3fcfb.jpg  
+12-27 10:47:34.469  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:47:36.106  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:47:36.507  1883  9611 E innerRecognize: recognizeByFilter2
+12-27 10:47:36.507  1883  9611 E recognize: 360ms   /storage/emulated/0/shifang/ai_dish/image/20231227/6b444256-d00b-4a2f-9418-1d1de42cf8ed.jpg  
+12-27 10:47:36.552  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:47:38.210  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:47:38.690  1883  9617 E innerRecognize: recognizeByFilter2
+12-27 10:47:38.690  1883  9617 E recognize: 420ms   /storage/emulated/0/shifang/ai_dish/image/20231227/d4ce7e6c-ebfb-4a99-a679-3c76890774c0.jpg  
+12-27 10:47:38.723  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:47:40.406  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:47:40.845  1883  9623 E innerRecognize: recognizeByFilter2
+12-27 10:47:40.845  1883  9623 E recognize: 388ms   /storage/emulated/0/shifang/ai_dish/image/20231227/d6204848-3e8c-4e9f-9cc1-c292ab6266c0.jpg  
+12-27 10:47:40.891  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:47:41.512  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:47:41.878  1883  9631 E innerRecognize: recognizeByFilter2
+12-27 10:47:41.878  1883  9631 E recognize: 337ms   /storage/emulated/0/shifang/ai_dish/image/20231227/862c6b5f-ee7f-4f0d-84d8-06fe4de56fb1.jpg  
+12-27 10:47:41.930  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:47:43.640  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:47:44.040  1883  9636 E innerRecognize: recognizeByFilter2
+12-27 10:47:44.040  1883  9636 E recognize: 372ms   /storage/emulated/0/shifang/ai_dish/image/20231227/01b98577-fa29-490b-a47a-3526956af343.jpg  
+12-27 10:47:44.090  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:47:45.764  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:47:46.145  1883  9642 E innerRecognize: recognizeByFilter2
+12-27 10:47:46.145  1883  9642 E recognize: 355ms   /storage/emulated/0/shifang/ai_dish/image/20231227/4a18632e-3931-431c-b7c7-bbadfaa99c74.jpg  
+12-27 10:47:46.193  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:47:47.890  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:47:48.291  1883  9648 E innerRecognize: recognizeByFilter2
+12-27 10:47:48.292  1883  9648 E recognize: 354ms   /storage/emulated/0/shifang/ai_dish/image/20231227/840a8b2d-ae4c-4598-92c2-48ffcc2dc577.jpg  
+12-27 10:47:48.340  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:47:49.983  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:47:50.422  1883  9653 E innerRecognize: recognizeByFilter2
+12-27 10:47:50.422  1883  9653 E recognize: 399ms   /storage/emulated/0/shifang/ai_dish/image/20231227/2f971bf2-6e94-4f25-beee-b3e7f5e49ed7.jpg  
+12-27 10:47:50.486  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:47:52.118  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:47:52.496  1883  9659 E innerRecognize: recognizeByFilter2
+12-27 10:47:52.496  1883  9659 E recognize: 333ms   /storage/emulated/0/shifang/ai_dish/image/20231227/c3ae224e-5ae7-49ed-86b0-b6cd7197c743.jpg  
+12-27 10:47:52.530  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:47:54.220  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:47:54.620  1883  9665 E innerRecognize: recognizeByFilter2
+12-27 10:47:54.620  1883  9665 E recognize: 360ms   /storage/emulated/0/shifang/ai_dish/image/20231227/0080baf7-9fea-426a-8873-2c92f6f3e4f0.jpg  
+12-27 10:47:54.669  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:47:56.359  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:47:56.848  1883  9673 E innerRecognize: recognizeByFilter2
+12-27 10:47:56.848  1883  9673 E recognize: 444ms   /storage/emulated/0/shifang/ai_dish/image/20231227/47e420ce-bc0c-4305-8d18-16716a673875.jpg  
+12-27 10:47:56.911  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:47:58.566  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:47:59.002  1883  9679 E innerRecognize: recognizeByFilter2
+12-27 10:47:59.002  1883  9679 E recognize: 399ms   /storage/emulated/0/shifang/ai_dish/image/20231227/ff389e80-d626-49e7-a773-34b8a77a5b68.jpg  
+12-27 10:47:59.057  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:48:00.745  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:48:01.239  1883  9685 E innerRecognize: recognizeByFilter3
+12-27 10:48:01.239  1883  9685 E recognize: 459ms   /storage/emulated/0/shifang/ai_dish/image/20231227/fd8f63bc-a563-430e-be43-a4ed05ed382d.jpg  
+12-27 10:48:01.285  1883  1883 E resultDishCount: 3 个菜品
+12-27 10:48:02.945  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:48:03.287  1883  9369 E innerRecognize: recognizeByFilter2
+12-27 10:48:03.287  1883  9369 E recognize: 317ms   /storage/emulated/0/shifang/ai_dish/image/20231227/b44645c4-cb74-43fb-96f9-ff4fdda2a023.jpg  
+12-27 10:48:03.338  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:48:05.015  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:48:05.361  1883  9385 E innerRecognize: recognizeByFilter2
+12-27 10:48:05.361  1883  9385 E recognize: 313ms   /storage/emulated/0/shifang/ai_dish/image/20231227/43d6bad2-7794-4844-b89e-bf8e8556f721.jpg  
+12-27 10:48:05.390  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:48:07.648  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:48:08.052  1883  9597 E innerRecognize: recognizeByFilter2
+12-27 10:48:08.052  1883  9597 E recognize: 356ms   /storage/emulated/0/shifang/ai_dish/image/20231227/95d83d0d-2758-4377-9bbc-1934c73f912a.jpg  
+12-27 10:48:08.109  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:48:10.222  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:48:10.624  1883  9598 E innerRecognize: recognizeByFilter2
+12-27 10:48:10.624  1883  9598 E recognize: 359ms   /storage/emulated/0/shifang/ai_dish/image/20231227/93d0eef5-8b22-4126-a630-725f835b7d18.jpg  
+12-27 10:48:10.651  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:48:12.609  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:48:12.995  1883  9611 E innerRecognize: recognizeByFilter2
+12-27 10:48:12.995  1883  9611 E recognize: 333ms   /storage/emulated/0/shifang/ai_dish/image/20231227/c0633e52-23c6-4f8f-8f84-c37bdff428da.jpg  
+12-27 10:48:13.039  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:48:14.705  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:48:15.081  1883  9617 E innerRecognize: recognizeByFilter2
+12-27 10:48:15.081  1883  9617 E recognize: 338ms   /storage/emulated/0/shifang/ai_dish/image/20231227/2ce5d574-6f74-4a14-9795-fdb863f3de10.jpg  
+12-27 10:48:15.115  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:48:16.821  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:48:17.236  1883  9623 E innerRecognize: recognizeByFilter2
+12-27 10:48:17.236  1883  9623 E recognize: 387ms   /storage/emulated/0/shifang/ai_dish/image/20231227/ee025713-77b6-4be4-a858-64fe0140b65f.jpg  
+12-27 10:48:17.269  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:48:18.959  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:48:19.366  1883  9631 E innerRecognize: recognizeByFilter2
+12-27 10:48:19.366  1883  9631 E recognize: 362ms   /storage/emulated/0/shifang/ai_dish/image/20231227/d0482557-d1ea-4a77-a9df-016705ebd1f2.jpg  
+12-27 10:48:19.417  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:48:21.086  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:48:21.458  1883  9636 E innerRecognize: recognizeByFilter2
+12-27 10:48:21.458  1883  9636 E recognize: 341ms   /storage/emulated/0/shifang/ai_dish/image/20231227/7adcda81-cce1-4ecf-92fe-d6c5fc55ff3b.jpg  
+12-27 10:48:21.513  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:48:21.655  1883  9305 E syncSubImage: 29 
+12-27 10:48:23.169  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:48:23.599  1883  9642 E innerRecognize: recognizeByFilter2
+12-27 10:48:23.599  1883  9642 E recognize: 386ms   /storage/emulated/0/shifang/ai_dish/image/20231227/86e0d24a-9b76-41bf-9c5d-394519a91f11.jpg  
+12-27 10:48:23.660  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:48:25.322  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:48:25.741  1883  9648 E innerRecognize: recognizeByFilter2
+12-27 10:48:25.741  1883  9648 E recognize: 368ms   /storage/emulated/0/shifang/ai_dish/image/20231227/ca36907d-5345-4962-9069-ee7b1deb519e.jpg  
+12-27 10:48:25.805  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:48:26.437  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:48:26.846  1883  9653 E innerRecognize: recognizeByFilter2
+12-27 10:48:26.846  1883  9653 E recognize: 383ms   /storage/emulated/0/shifang/ai_dish/image/20231227/0a37f0e6-75ed-43bf-a577-7b444956948a.jpg  
+12-27 10:48:26.902  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:48:28.549  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:48:28.968  1883  9659 E innerRecognize: recognizeByFilter2
+12-27 10:48:28.968  1883  9659 E recognize: 380ms   /storage/emulated/0/shifang/ai_dish/image/20231227/fde94ea8-d733-4d4b-b817-a450f5c67316.jpg  
+12-27 10:48:29.036  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:48:30.686  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:48:31.076  1883  9665 E innerRecognize: recognizeByFilter2
+12-27 10:48:31.076  1883  9665 E recognize: 353ms   /storage/emulated/0/shifang/ai_dish/image/20231227/4a9202ac-bab2-4b5c-bb0a-f976ecf79135.jpg  
+12-27 10:48:31.117  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:48:32.765  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:48:33.175  1883  9673 E innerRecognize: recognizeByFilter2
+12-27 10:48:33.175  1883  9673 E recognize: 388ms   /storage/emulated/0/shifang/ai_dish/image/20231227/18c3a16c-bc56-4d5a-8406-171bc39aa24f.jpg  
+12-27 10:48:33.224  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:48:34.885  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:48:35.278  1883  9679 E innerRecognize: recognizeByFilter2
+12-27 10:48:35.278  1883  9679 E recognize: 362ms   /storage/emulated/0/shifang/ai_dish/image/20231227/e93deca1-27e9-4447-be26-b5b1ad324b5d.jpg  
+12-27 10:48:35.312  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:48:36.989  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:48:37.391  1883  9685 E innerRecognize: recognizeByFilter2
+12-27 10:48:37.391  1883  9685 E recognize: 364ms   /storage/emulated/0/shifang/ai_dish/image/20231227/d7f28ce3-b89c-4987-b28d-214f19dcaff9.jpg  
+12-27 10:48:37.453  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:48:39.103  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:48:39.521  1883  9369 E innerRecognize: recognizeByFilter2
+12-27 10:48:39.521  1883  9369 E recognize: 382ms   /storage/emulated/0/shifang/ai_dish/image/20231227/22c61592-346c-4ea8-9e1e-939a8bfae4fe.jpg  
+12-27 10:48:39.556  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:48:41.206  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:48:41.714  1883  9385 E innerRecognize: recognizeByFilter3
+12-27 10:48:41.714  1883  9385 E recognize: 484ms   /storage/emulated/0/shifang/ai_dish/image/20231227/1a8a895e-5b7b-468c-bfdb-45fbb00ffc0b.jpg  
+12-27 10:48:41.757  1883  1883 E resultDishCount: 3 个菜品
+12-27 10:48:43.411  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:48:43.767  1883  9597 E innerRecognize: recognizeByFilter2
+12-27 10:48:43.767  1883  9597 E recognize: 330ms   /storage/emulated/0/shifang/ai_dish/image/20231227/48b31d48-d371-46f8-84aa-1f8664c3c63f.jpg  
+12-27 10:48:43.816  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:48:45.483  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:48:45.864  1883  9598 E innerRecognize: recognizeByFilter2
+12-27 10:48:45.864  1883  9598 E recognize: 348ms   /storage/emulated/0/shifang/ai_dish/image/20231227/5d38f912-0f34-4c22-81d6-e0c720db8edc.jpg  
+12-27 10:48:45.916  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:48:47.581  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:48:48.012  1883  9611 E innerRecognize: recognizeByFilter2
+12-27 10:48:48.012  1883  9611 E recognize: 394ms   /storage/emulated/0/shifang/ai_dish/image/20231227/46d661e1-c964-4603-9606-9113a1c7760d.jpg  
+12-27 10:48:48.057  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:48:49.719  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:48:50.177  1883  9617 E innerRecognize: recognizeByFilter2
+12-27 10:48:50.177  1883  9617 E recognize: 416ms   /storage/emulated/0/shifang/ai_dish/image/20231227/b4fbe27c-da8c-4c47-818b-f9e646d2ed41.jpg  
+12-27 10:48:50.244  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:48:50.865  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:48:51.312  1883  9623 E innerRecognize: recognizeByFilter2
+12-27 10:48:51.312  1883  9623 E recognize: 412ms   /storage/emulated/0/shifang/ai_dish/image/20231227/a5770ea7-c6da-473a-af64-3067e8dd9f9d.jpg  
+12-27 10:48:51.348  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:48:53.000  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:48:53.365  1883  9631 E innerRecognize: recognizeByFilter2
+12-27 10:48:53.365  1883  9631 E recognize: 341ms   /storage/emulated/0/shifang/ai_dish/image/20231227/cbc2de72-bcd8-4760-bb31-529a386417e8.jpg  
+12-27 10:48:53.421  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:48:55.081  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:48:55.510  1883  9636 E innerRecognize: recognizeByFilter2
+12-27 10:48:55.510  1883  9636 E recognize: 406ms   /storage/emulated/0/shifang/ai_dish/image/20231227/92b1597c-7c18-4776-8b10-51f0ab6cab3e.jpg  
+12-27 10:48:55.550  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:48:57.199  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:48:57.636  1883  9642 E innerRecognize: recognizeByFilter2
+12-27 10:48:57.637  1883  9642 E recognize: 399ms   /storage/emulated/0/shifang/ai_dish/image/20231227/9283cf09-909e-4537-b9db-fe494b81d65e.jpg  
+12-27 10:48:57.687  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:48:59.336  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:48:59.785  1883  9648 E innerRecognize: recognizeByFilter2
+12-27 10:48:59.785  1883  9648 E recognize: 410ms   /storage/emulated/0/shifang/ai_dish/image/20231227/7b0bcbfa-b0db-4680-a17b-5eb9d9eb4eec.jpg  
+12-27 10:48:59.824  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:49:01.561  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:49:01.922  1883  9653 E innerRecognize: recognizeByFilter2
+12-27 10:49:01.922  1883  9653 E recognize: 336ms   /storage/emulated/0/shifang/ai_dish/image/20231227/4e8306da-b2cf-4c75-b39c-755f3eda1521.jpg  
+12-27 10:49:01.967  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:49:03.631  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:49:04.059  1883  9659 E innerRecognize: recognizeByFilter2
+12-27 10:49:04.059  1883  9659 E recognize: 394ms   /storage/emulated/0/shifang/ai_dish/image/20231227/7d046d3e-0f43-4097-8e2d-62fc3bbbfd33.jpg  
+12-27 10:49:04.091  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:49:05.739  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:49:06.189  1883  9665 E innerRecognize: recognizeByFilter2
+12-27 10:49:06.189  1883  9665 E recognize: 418ms   /storage/emulated/0/shifang/ai_dish/image/20231227/14983cb1-8c00-4c81-b32c-cd7f905c9c4b.jpg  
+12-27 10:49:06.213  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:49:07.882  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:49:08.304  1883  9673 E innerRecognize: recognizeByFilter2
+12-27 10:49:08.304  1883  9673 E recognize: 381ms   /storage/emulated/0/shifang/ai_dish/image/20231227/bac4d0d5-e39e-46d8-9ec6-116f2e8e13ed.jpg  
+12-27 10:49:08.353  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:49:10.017  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:49:10.413  1883  9679 E innerRecognize: recognizeByFilter2
+12-27 10:49:10.413  1883  9679 E recognize: 358ms   /storage/emulated/0/shifang/ai_dish/image/20231227/3c164703-ec19-4ae1-afa8-bfd7900ea5f1.jpg  
+12-27 10:49:10.446  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:49:12.124  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:49:12.561  1883  9685 E innerRecognize: recognizeByFilter2
+12-27 10:49:12.561  1883  9685 E recognize: 380ms   /storage/emulated/0/shifang/ai_dish/image/20231227/690cf0e1-d6b0-4d35-957a-faf012727cdd.jpg  
+12-27 10:49:12.592  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:49:14.239  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:49:14.646  1883  9369 E innerRecognize: recognizeByFilter2
+12-27 10:49:14.646  1883  9369 E recognize: 367ms   /storage/emulated/0/shifang/ai_dish/image/20231227/aa64b8ac-d301-441d-aba5-f87d7040a2d9.jpg  
+12-27 10:49:14.684  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:49:16.339  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:49:16.700  1883  9385 E innerRecognize: recognizeByFilter2
+12-27 10:49:16.700  1883  9385 E recognize: 339ms   /storage/emulated/0/shifang/ai_dish/image/20231227/0e147c2e-bd15-494d-bc48-4b639f4c29e9.jpg  
+12-27 10:49:16.730  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:49:18.402  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:49:18.825  1883  9597 E innerRecognize: recognizeByFilter2
+12-27 10:49:18.825  1883  9597 E recognize: 385ms   /storage/emulated/0/shifang/ai_dish/image/20231227/319ac5a7-1fd2-478b-a8a4-c3dd6d95feea.jpg  
+12-27 10:49:18.867  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:49:20.557  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:49:20.962  1883  9598 E innerRecognize: recognizeByFilter2
+12-27 10:49:20.962  1883  9598 E recognize: 382ms   /storage/emulated/0/shifang/ai_dish/image/20231227/2420aa74-2adb-4130-b8b9-2db1df561259.jpg  
+12-27 10:49:20.994  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:49:22.482  1883  9305 E syncSubImage: 29 
+12-27 10:49:22.656  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:49:23.028  1883  9611 E innerRecognize: recognizeByFilter2
+12-27 10:49:23.028  1883  9611 E recognize: 349ms   /storage/emulated/0/shifang/ai_dish/image/20231227/36b934ad-a4b2-490d-b33e-d7fb5b7e5773.jpg  
+12-27 10:49:23.319  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:49:24.382  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:49:24.832  1883  9617 E innerRecognize: recognizeByFilter2
+12-27 10:49:24.832  1883  9617 E recognize: 410ms   /storage/emulated/0/shifang/ai_dish/image/20231227/30d68562-a499-4e47-b6c6-681013f5cc8a.jpg  
+12-27 10:49:24.881  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:49:26.574  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:49:26.966  1883  9623 E innerRecognize: recognizeByFilter2
+12-27 10:49:26.966  1883  9623 E recognize: 342ms   /storage/emulated/0/shifang/ai_dish/image/20231227/6beb3d96-6a1d-410e-b7b1-ba477262f275.jpg  
+12-27 10:49:26.999  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:49:28.678  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:49:29.099  1883  9631 E innerRecognize: recognizeByFilter2
+12-27 10:49:29.099  1883  9631 E recognize: 373ms   /storage/emulated/0/shifang/ai_dish/image/20231227/0ce86b27-9ff6-41d2-880e-c5e3584ad3f4.jpg  
+12-27 10:49:29.144  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:49:30.794  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:49:31.197  1883  9636 E innerRecognize: recognizeByFilter2
+12-27 10:49:31.197  1883  9636 E recognize: 375ms   /storage/emulated/0/shifang/ai_dish/image/20231227/421c9ca4-c062-440a-8747-d1ab7c7a22b9.jpg  
+12-27 10:49:31.232  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:49:32.926  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:49:33.379  1883  9642 E innerRecognize: recognizeByFilter2
+12-27 10:49:33.379  1883  9642 E recognize: 431ms   /storage/emulated/0/shifang/ai_dish/image/20231227/29cc881c-3cf7-4828-bec2-822978ed773c.jpg  
+12-27 10:49:33.429  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:49:35.080  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:49:35.466  1883  9648 E innerRecognize: recognizeByFilter2
+12-27 10:49:35.466  1883  9648 E recognize: 362ms   /storage/emulated/0/shifang/ai_dish/image/20231227/3b0bb269-9d24-400b-a90b-0dcf150609af.jpg  
+12-27 10:49:35.500  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:49:37.169  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:49:37.602  1883  9653 E innerRecognize: recognizeByFilter2
+12-27 10:49:37.602  1883  9653 E recognize: 386ms   /storage/emulated/0/shifang/ai_dish/image/20231227/c8e205fe-f5b7-482e-b9dd-ee9347bc829b.jpg  
+12-27 10:49:37.628  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:49:39.283  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:49:39.713  1883  9659 E innerRecognize: recognizeByFilter2
+12-27 10:49:39.713  1883  9659 E recognize: 391ms   /storage/emulated/0/shifang/ai_dish/image/20231227/8d634107-1f31-4612-972e-9a3b8f277f92.jpg  
+12-27 10:49:39.764  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:49:41.457  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:49:42.042  1883  9665 E innerRecognize: recognizeByFilter3
+12-27 10:49:42.042  1883  9665 E recognize: 544ms   /storage/emulated/0/shifang/ai_dish/image/20231227/da0ba377-6b44-4b64-aa81-41a0d69a087b.jpg  
+12-27 10:49:42.070  1883  1883 E resultDishCount: 3 个菜品
+12-27 10:49:43.126  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:49:43.525  1883  9673 E innerRecognize: recognizeByFilter2
+12-27 10:49:43.525  1883  9673 E recognize: 367ms   /storage/emulated/0/shifang/ai_dish/image/20231227/969e587a-8713-4d53-a716-8875275e4c83.jpg  
+12-27 10:49:43.561  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:49:45.249  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:49:45.668  1883  9679 E innerRecognize: recognizeByFilter2
+12-27 10:49:45.668  1883  9679 E recognize: 377ms   /storage/emulated/0/shifang/ai_dish/image/20231227/94a9eefd-e787-41ea-b054-42ebc51fbe94.jpg  
+12-27 10:49:45.713  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:49:47.440  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:49:47.901  1883  9685 E innerRecognize: recognizeByFilter2
+12-27 10:49:47.902  1883  9685 E recognize: 436ms   /storage/emulated/0/shifang/ai_dish/image/20231227/3ef89c49-a126-466d-9123-0ecb106f419e.jpg  
+12-27 10:49:47.960  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:49:49.605  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:49:49.997  1883  9369 E innerRecognize: recognizeByFilter2
+12-27 10:49:49.997  1883  9369 E recognize: 364ms   /storage/emulated/0/shifang/ai_dish/image/20231227/6ee9eeb5-d1c7-46f3-b977-f1634fd45ed2.jpg  
+12-27 10:49:50.024  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:49:51.706  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:49:52.116  1883  9385 E innerRecognize: recognizeByFilter2
+12-27 10:49:52.116  1883  9385 E recognize: 385ms   /storage/emulated/0/shifang/ai_dish/image/20231227/7a1939de-8d55-4449-8676-419acf0a80f2.jpg  
+12-27 10:49:52.151  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:49:53.814  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:49:54.230  1883  9597 E innerRecognize: recognizeByFilter2
+12-27 10:49:54.230  1883  9597 E recognize: 368ms   /storage/emulated/0/shifang/ai_dish/image/20231227/6c72fdd8-fae1-4ce2-ae8c-8952082b7b46.jpg  
+12-27 10:49:54.257  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:49:55.931  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:49:56.373  1883  9598 E innerRecognize: recognizeByFilter2
+12-27 10:49:56.373  1883  9598 E recognize: 395ms   /storage/emulated/0/shifang/ai_dish/image/20231227/b85756a4-c2ba-4bf3-b337-d2b23d7efcb9.jpg  
+12-27 10:49:56.407  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:49:58.044  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:49:58.542  1883  9611 E innerRecognize: recognizeByFilter2
+12-27 10:49:58.542  1883  9611 E recognize: 463ms   /storage/emulated/0/shifang/ai_dish/image/20231227/89e7912e-a1eb-454e-98e8-e58240b8fc08.jpg  
+12-27 10:49:58.594  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:50:00.650  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:50:01.028  1883  9617 E innerRecognize: recognizeByFilter2
+12-27 10:50:01.028  1883  9617 E recognize: 347ms   /storage/emulated/0/shifang/ai_dish/image/20231227/496ee007-f047-4a5c-a1bd-804670a1245d.jpg  
+12-27 10:50:01.088  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:50:02.753  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:50:03.201  1883  9623 E innerRecognize: recognizeByFilter2
+12-27 10:50:03.201  1883  9623 E recognize: 399ms   /storage/emulated/0/shifang/ai_dish/image/20231227/765d579d-10c8-4331-aa57-68a845469f6b.jpg  
+12-27 10:50:03.229  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:50:04.901  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:50:05.294  1883  9631 E innerRecognize: recognizeByFilter2
+12-27 10:50:05.294  1883  9631 E recognize: 362ms   /storage/emulated/0/shifang/ai_dish/image/20231227/2204f487-8a2d-40ea-9658-56d39820b0fa.jpg  
+12-27 10:50:05.329  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:50:07.002  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:50:07.392  1883  9636 E innerRecognize: recognizeByFilter2
+12-27 10:50:07.392  1883  9636 E recognize: 364ms   /storage/emulated/0/shifang/ai_dish/image/20231227/0009a3f4-d938-4269-9fdc-397d92cef3cd.jpg  
+12-27 10:50:07.437  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:50:09.084  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:50:09.535  1883  9642 E innerRecognize: recognizeByFilter2
+12-27 10:50:09.535  1883  9642 E recognize: 415ms   /storage/emulated/0/shifang/ai_dish/image/20231227/5862509d-17b3-4c61-b8df-e4e3909752d4.jpg  
+12-27 10:50:09.572  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:50:11.220  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:50:11.625  1883  9648 E innerRecognize: recognizeByFilter2
+12-27 10:50:11.625  1883  9648 E recognize: 382ms   /storage/emulated/0/shifang/ai_dish/image/20231227/35a7e744-5da3-4cd8-bb01-960810091c21.jpg  
+12-27 10:50:11.673  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:50:13.321  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:50:13.724  1883  9653 E innerRecognize: recognizeByFilter2
+12-27 10:50:13.725  1883  9653 E recognize: 380ms   /storage/emulated/0/shifang/ai_dish/image/20231227/9b23ea08-a2ac-40fb-bba7-3de6febe3d82.jpg  
+12-27 10:50:13.767  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:50:15.422  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:50:15.845  1883  9659 E innerRecognize: recognizeByFilter2
+12-27 10:50:15.845  1883  9659 E recognize: 386ms   /storage/emulated/0/shifang/ai_dish/image/20231227/e8a89024-73ac-4490-bcfa-bcb43cab7a78.jpg  
+12-27 10:50:15.893  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:50:17.540  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:50:17.935  1883  9665 E innerRecognize: recognizeByFilter2
+12-27 10:50:17.935  1883  9665 E recognize: 372ms   /storage/emulated/0/shifang/ai_dish/image/20231227/02368ade-cfd3-4a74-aa83-27d233323f17.jpg  
+12-27 10:50:17.968  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:50:19.627  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:50:20.059  1883  9673 E innerRecognize: recognizeByFilter2
+12-27 10:50:20.059  1883  9673 E recognize: 373ms   /storage/emulated/0/shifang/ai_dish/image/20231227/4c95cf12-3294-4491-815d-9f3c9fe336f7.jpg  
+12-27 10:50:20.124  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:50:21.782  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:50:22.199  1883  9679 E innerRecognize: recognizeByFilter2
+12-27 10:50:22.199  1883  9679 E recognize: 368ms   /storage/emulated/0/shifang/ai_dish/image/20231227/edc40c02-3414-4569-8753-7804e2a3a831.jpg  
+12-27 10:50:22.243  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:50:23.317  1883  9305 E syncSubImage: 29 
+12-27 10:50:23.878  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:50:24.281  1883  9685 E innerRecognize: recognizeByFilter2
+12-27 10:50:24.281  1883  9685 E recognize: 380ms   /storage/emulated/0/shifang/ai_dish/image/20231227/7ec4d215-9b66-45d3-87bc-4ec106d9cf50.jpg  
+12-27 10:50:24.313  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:50:26.002  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:50:26.446  1883  9369 E innerRecognize: recognizeByFilter2
+12-27 10:50:26.446  1883  9369 E recognize: 400ms   /storage/emulated/0/shifang/ai_dish/image/20231227/d2c50a9f-2bf3-48f8-b809-e5d790f9c044.jpg  
+12-27 10:50:26.478  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:50:28.150  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:50:28.524  1883  9385 E innerRecognize: recognizeByFilter2
+12-27 10:50:28.524  1883  9385 E recognize: 350ms   /storage/emulated/0/shifang/ai_dish/image/20231227/e0f20474-ffbe-4dac-8b42-a3a6e6862931.jpg  
+12-27 10:50:28.561  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:50:30.203  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:50:30.615  1883  9597 E innerRecognize: recognizeByFilter2
+12-27 10:50:30.615  1883  9597 E recognize: 366ms   /storage/emulated/0/shifang/ai_dish/image/20231227/b1d75d87-ef2e-4b47-ac40-47b1caac197b.jpg  
+12-27 10:50:30.668  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:50:32.333  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:50:32.761  1883  9598 E innerRecognize: recognizeByFilter2
+12-27 10:50:32.761  1883  9598 E recognize: 392ms   /storage/emulated/0/shifang/ai_dish/image/20231227/a658f853-1f36-4a40-a70a-fd2316f9dfb0.jpg  
+12-27 10:50:32.798  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:50:34.471  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:50:34.880  1883  9611 E innerRecognize: recognizeByFilter2
+12-27 10:50:34.880  1883  9611 E recognize: 374ms   /storage/emulated/0/shifang/ai_dish/image/20231227/54b004c9-f106-481e-9d3a-f73edfd298e9.jpg  
+12-27 10:50:34.918  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:50:36.570  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:50:36.958  1883  9617 E innerRecognize: recognizeByFilter2
+12-27 10:50:36.958  1883  9617 E recognize: 347ms   /storage/emulated/0/shifang/ai_dish/image/20231227/8fbeb9aa-701f-4564-b77d-ba2de794011e.jpg  
+12-27 10:50:36.993  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:50:38.635  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:50:39.052  1883  9623 E innerRecognize: recognizeByFilter2
+12-27 10:50:39.052  1883  9623 E recognize: 383ms   /storage/emulated/0/shifang/ai_dish/image/20231227/90d3a6c3-ebf4-4451-bca3-d92b3cae6d1a.jpg  
+12-27 10:50:39.081  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:50:40.736  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:50:41.142  1883  9631 E innerRecognize: recognizeByFilter2
+12-27 10:50:41.142  1883  9631 E recognize: 385ms   /storage/emulated/0/shifang/ai_dish/image/20231227/5c6adb57-a238-440a-8a69-766b9486fd0e.jpg  
+12-27 10:50:41.172  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:50:42.842  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:50:43.280  1883  9636 E innerRecognize: recognizeByFilter2
+12-27 10:50:43.280  1883  9636 E recognize: 394ms   /storage/emulated/0/shifang/ai_dish/image/20231227/d829b200-c026-4e66-8dd9-d60d08cd4480.jpg  
+12-27 10:50:43.306  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:50:44.954  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:50:45.457  1883  9642 E innerRecognize: recognizeByFilter2
+12-27 10:50:45.457  1883  9642 E recognize: 461ms   /storage/emulated/0/shifang/ai_dish/image/20231227/7b19b527-93d0-49d1-b054-a5d7cad637e0.jpg  
+12-27 10:50:45.508  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:50:47.165  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:50:47.729  1883  9648 E innerRecognize: recognizeByFilter3
+12-27 10:50:47.729  1883  9648 E recognize: 519ms   /storage/emulated/0/shifang/ai_dish/image/20231227/058cd72c-d7d2-4650-8b58-7f7c2ae5f3c6.jpg  
+12-27 10:50:47.770  1883  1883 E resultDishCount: 3 个菜品
+12-27 10:50:49.407  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:50:49.811  1883  9653 E innerRecognize: recognizeByFilter2
+12-27 10:50:49.811  1883  9653 E recognize: 371ms   /storage/emulated/0/shifang/ai_dish/image/20231227/78f0ed91-d393-410f-a128-70a1ee8cedac.jpg  
+12-27 10:50:49.840  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:50:51.532  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:50:51.988  1883  9659 E innerRecognize: recognizeByFilter2
+12-27 10:50:51.988  1883  9659 E recognize: 412ms   /storage/emulated/0/shifang/ai_dish/image/20231227/fe380c28-9480-48e1-ab5f-60d823caa731.jpg  
+12-27 10:50:52.015  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:50:53.661  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:50:54.079  1883  9665 E innerRecognize: recognizeByFilter2
+12-27 10:50:54.079  1883  9665 E recognize: 396ms   /storage/emulated/0/shifang/ai_dish/image/20231227/c164c2db-a6bd-49fc-8fad-0471ca7557e9.jpg  
+12-27 10:50:54.108  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:50:55.787  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:50:56.186  1883  9673 E innerRecognize: recognizeByFilter2
+12-27 10:50:56.186  1883  9673 E recognize: 367ms   /storage/emulated/0/shifang/ai_dish/image/20231227/5204333a-418f-4613-95bb-d50d72053227.jpg  
+12-27 10:50:56.210  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:50:57.885  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:50:58.319  1883  9679 E innerRecognize: recognizeByFilter2
+12-27 10:50:58.319  1883  9679 E recognize: 394ms   /storage/emulated/0/shifang/ai_dish/image/20231227/05862f91-38a2-4a94-b1b9-9742760bcb25.jpg  
+12-27 10:50:58.346  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:51:00.020  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:51:00.461  1883  9685 E innerRecognize: recognizeByFilter2
+12-27 10:51:00.461  1883  9685 E recognize: 399ms   /storage/emulated/0/shifang/ai_dish/image/20231227/e334fabc-44be-4be7-964f-3245ad88f4dd.jpg  
+12-27 10:51:00.486  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:51:02.141  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:51:02.595  1883  9369 E innerRecognize: recognizeByFilter2
+12-27 10:51:02.595  1883  9369 E recognize: 393ms   /storage/emulated/0/shifang/ai_dish/image/20231227/822efbe5-2c0b-4aa8-8635-61059ac8286d.jpg  
+12-27 10:51:02.622  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:51:04.273  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:51:04.722  1883  9385 E innerRecognize: recognizeByFilter2
+12-27 10:51:04.722  1883  9385 E recognize: 412ms   /storage/emulated/0/shifang/ai_dish/image/20231227/914c4bcd-cc18-4b6b-a4cf-d70d18ae3797.jpg  
+12-27 10:51:04.782  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:51:06.482  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:51:06.924  1883  9597 E innerRecognize: recognizeByFilter2
+12-27 10:51:06.925  1883  9597 E recognize: 404ms   /storage/emulated/0/shifang/ai_dish/image/20231227/0af5aea9-1b7d-4b26-a142-4550b382a828.jpg  
+12-27 10:51:06.962  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:51:08.621  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:51:09.035  1883  9598 E innerRecognize: recognizeByFilter2
+12-27 10:51:09.035  1883  9598 E recognize: 370ms   /storage/emulated/0/shifang/ai_dish/image/20231227/f9623607-ffa9-45cf-be3d-e15084c6f830.jpg  
+12-27 10:51:09.081  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:51:10.735  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:51:11.148  1883  9611 E innerRecognize: recognizeByFilter2
+12-27 10:51:11.149  1883  9611 E recognize: 378ms   /storage/emulated/0/shifang/ai_dish/image/20231227/4181e733-cfc1-4b3e-9a32-39ae31015c37.jpg  
+12-27 10:51:11.201  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:51:12.852  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:51:13.310  1883  9617 E innerRecognize: recognizeByFilter2
+12-27 10:51:13.310  1883  9617 E recognize: 418ms   /storage/emulated/0/shifang/ai_dish/image/20231227/8f370a64-d31a-4f3b-883b-a0977530bd82.jpg  
+12-27 10:51:13.336  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:51:15.008  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:51:15.419  1883  9623 E innerRecognize: recognizeByFilter2
+12-27 10:51:15.419  1883  9623 E recognize: 377ms   /storage/emulated/0/shifang/ai_dish/image/20231227/84c7f32a-a60a-4246-8f7b-c06821ce3965.jpg  
+12-27 10:51:15.455  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:51:17.109  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:51:17.509  1883  9631 E innerRecognize: recognizeByFilter2
+12-27 10:51:17.509  1883  9631 E recognize: 369ms   /storage/emulated/0/shifang/ai_dish/image/20231227/81e2d2a6-6705-43cb-ba00-45f39357a50c.jpg  
+12-27 10:51:17.539  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:51:19.190  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:51:19.637  1883  9636 E innerRecognize: recognizeByFilter2
+12-27 10:51:19.637  1883  9636 E recognize: 393ms   /storage/emulated/0/shifang/ai_dish/image/20231227/26d547a3-230a-429e-9750-4181879edf1a.jpg  
+12-27 10:51:19.692  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:51:21.347  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:51:21.747  1883  9642 E innerRecognize: recognizeByFilter2
+12-27 10:51:21.747  1883  9642 E recognize: 356ms   /storage/emulated/0/shifang/ai_dish/image/20231227/5ceca90c-a10c-4dca-bf4d-142ab1965c8b.jpg  
+12-27 10:51:21.794  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:51:23.464  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:51:23.875  1883  9648 E innerRecognize: recognizeByFilter2
+12-27 10:51:23.875  1883  9648 E recognize: 376ms   /storage/emulated/0/shifang/ai_dish/image/20231227/a3f30d94-4c31-487c-bd69-156895a05939.jpg  
+12-27 10:51:23.910  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:51:24.208  1883  9305 E syncSubImage: 29 
+12-27 10:51:25.605  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:51:26.078  1883  9653 E innerRecognize: recognizeByFilter2
+12-27 10:51:26.078  1883  9653 E recognize: 417ms   /storage/emulated/0/shifang/ai_dish/image/20231227/5e13e84a-2751-4ac5-bb22-481f717866a7.jpg  
+12-27 10:51:26.126  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:51:27.791  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:51:28.251  1883  9659 E innerRecognize: recognizeByFilter2
+12-27 10:51:28.252  1883  9659 E recognize: 419ms   /storage/emulated/0/shifang/ai_dish/image/20231227/bf70e57b-afed-4295-b721-8da35e09eada.jpg  
+12-27 10:51:28.285  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:51:29.962  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:51:30.323  1883  9665 E innerRecognize: recognizeByFilter2
+12-27 10:51:30.324  1883  9665 E recognize: 337ms   /storage/emulated/0/shifang/ai_dish/image/20231227/ee95ff93-a553-4b5e-a0c4-785434f9c662.jpg  
+12-27 10:51:30.357  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:51:31.991  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:51:32.448  1883  9673 E innerRecognize: recognizeByFilter2
+12-27 10:51:32.448  1883  9673 E recognize: 408ms   /storage/emulated/0/shifang/ai_dish/image/20231227/e251be98-f7b8-4b87-aa75-1624dd07acb2.jpg  
+12-27 10:51:32.492  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:51:34.148  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:51:34.589  1883  9679 E innerRecognize: recognizeByFilter2
+12-27 10:51:34.589  1883  9679 E recognize: 404ms   /storage/emulated/0/shifang/ai_dish/image/20231227/f3961972-b669-4e69-8bb9-c7ec41514aa8.jpg  
+12-27 10:51:34.611  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:51:36.290  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:51:36.702  1883  9685 E innerRecognize: recognizeByFilter2
+12-27 10:51:36.702  1883  9685 E recognize: 365ms   /storage/emulated/0/shifang/ai_dish/image/20231227/1b53d063-2a85-4690-aca5-4cc001224c3b.jpg  
+12-27 10:51:36.754  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:51:38.430  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:51:38.892  1883  9369 E innerRecognize: recognizeByFilter2
+12-27 10:51:38.892  1883  9369 E recognize: 418ms   /storage/emulated/0/shifang/ai_dish/image/20231227/35c4098d-e17e-48fb-a372-b66f4aae1d7c.jpg  
+12-27 10:51:38.949  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:51:40.613  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:51:41.027  1883  9385 E innerRecognize: recognizeByFilter2
+12-27 10:51:41.027  1883  9385 E recognize: 390ms   /storage/emulated/0/shifang/ai_dish/image/20231227/c81614c0-f0bf-4494-9bb2-18103a8b2651.jpg  
+12-27 10:51:41.066  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:51:42.735  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:51:43.160  1883  9597 E innerRecognize: recognizeByFilter2
+12-27 10:51:43.160  1883  9597 E recognize: 381ms   /storage/emulated/0/shifang/ai_dish/image/20231227/044883d1-0ebd-46b1-bc89-1398ae872f77.jpg  
+12-27 10:51:43.192  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:51:44.865  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:51:45.257  1883  9598 E innerRecognize: recognizeByFilter2
+12-27 10:51:45.257  1883  9598 E recognize: 352ms   /storage/emulated/0/shifang/ai_dish/image/20231227/cdf77002-dbc1-49f8-ad72-e3b57f9fb708.jpg  
+12-27 10:51:45.302  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:51:46.937  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:51:47.378  1883  9611 E innerRecognize: recognizeByFilter2
+12-27 10:51:47.378  1883  9611 E recognize: 408ms   /storage/emulated/0/shifang/ai_dish/image/20231227/bd94af00-2b19-4388-95d0-5578bdf82ee9.jpg  
+12-27 10:51:47.425  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:51:49.089  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:51:49.509  1883  9617 E innerRecognize: recognizeByFilter2
+12-27 10:51:49.509  1883  9617 E recognize: 378ms   /storage/emulated/0/shifang/ai_dish/image/20231227/aacfcf16-4c9e-4c1f-9fb0-28cd077a04c3.jpg  
+12-27 10:51:49.556  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:51:51.200  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:51:51.701  1883  9623 E innerRecognize: recognizeByFilter3
+12-27 10:51:51.701  1883  9623 E recognize: 476ms   /storage/emulated/0/shifang/ai_dish/image/20231227/c0a4608a-6177-4719-96ce-7ecc2f52b40c.jpg  
+12-27 10:51:51.744  1883  1883 E resultDishCount: 3 个菜品
+12-27 10:51:53.409  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:51:53.790  1883  9631 E innerRecognize: recognizeByFilter2
+12-27 10:51:53.790  1883  9631 E recognize: 357ms   /storage/emulated/0/shifang/ai_dish/image/20231227/a49343a0-86e0-4cc5-a42c-7764a5ffd58b.jpg  
+12-27 10:51:53.829  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:51:55.473  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:51:55.909  1883  9636 E innerRecognize: recognizeByFilter2
+12-27 10:51:55.909  1883  9636 E recognize: 409ms   /storage/emulated/0/shifang/ai_dish/image/20231227/e387c9b5-3752-4780-97c3-68f0eff92b6e.jpg  
+12-27 10:51:55.957  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:51:57.616  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:51:58.051  1883  9642 E innerRecognize: recognizeByFilter2
+12-27 10:51:58.051  1883  9642 E recognize: 381ms   /storage/emulated/0/shifang/ai_dish/image/20231227/694b5ca4-e0c0-4d96-adcb-decfd87229b2.jpg  
+12-27 10:51:58.093  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:51:59.766  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:52:00.148  1883  9648 E innerRecognize: recognizeByFilter2
+12-27 10:52:00.148  1883  9648 E recognize: 343ms   /storage/emulated/0/shifang/ai_dish/image/20231227/1f15d71a-4779-49b6-bb83-20b6715ff9c2.jpg  
+12-27 10:52:00.177  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:52:01.869  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:52:02.297  1883  9653 E innerRecognize: recognizeByFilter2
+12-27 10:52:02.297  1883  9653 E recognize: 394ms   /storage/emulated/0/shifang/ai_dish/image/20231227/622de3a8-2d24-4cad-a476-eaae28fe0c03.jpg  
+12-27 10:52:02.330  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:52:04.010  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:52:04.435  1883  9659 E innerRecognize: recognizeByFilter2
+12-27 10:52:04.436  1883  9659 E recognize: 402ms   /storage/emulated/0/shifang/ai_dish/image/20231227/8d4892a0-88ae-4cac-8b61-bea3e6a2fb69.jpg  
+12-27 10:52:04.466  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:52:06.123  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:52:06.562  1883  9665 E innerRecognize: recognizeByFilter2
+12-27 10:52:06.562  1883  9665 E recognize: 408ms   /storage/emulated/0/shifang/ai_dish/image/20231227/418934c7-4295-4a19-a5cc-e0114e8d50ca.jpg  
+12-27 10:52:06.616  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:52:08.294  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:52:08.680  1883  9673 E innerRecognize: recognizeByFilter2
+12-27 10:52:08.680  1883  9673 E recognize: 361ms   /storage/emulated/0/shifang/ai_dish/image/20231227/28b6cb2a-0c4e-4fcb-baf7-1ad8acfc9e3c.jpg  
+12-27 10:52:08.703  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:52:10.394  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:52:10.817  1883  9679 E innerRecognize: recognizeByFilter2
+12-27 10:52:10.817  1883  9679 E recognize: 398ms   /storage/emulated/0/shifang/ai_dish/image/20231227/520d23d1-7e2c-48b7-bc30-1272badc5a59.jpg  
+12-27 10:52:10.848  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:52:12.495  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:52:12.893  1883  9685 E innerRecognize: recognizeByFilter2
+12-27 10:52:12.893  1883  9685 E recognize: 362ms   /storage/emulated/0/shifang/ai_dish/image/20231227/ec1408c8-0299-448b-a747-502ff4ccee66.jpg  
+12-27 10:52:12.941  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:52:14.594  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:52:14.987  1883  9369 E innerRecognize: recognizeByFilter2
+12-27 10:52:14.987  1883  9369 E recognize: 359ms   /storage/emulated/0/shifang/ai_dish/image/20231227/457854aa-ef94-4bf8-9f0f-8b107ff0a6ef.jpg  
+12-27 10:52:15.036  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:52:16.695  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:52:17.068  1883  9385 E innerRecognize: recognizeByFilter2
+12-27 10:52:17.068  1883  9385 E recognize: 347ms   /storage/emulated/0/shifang/ai_dish/image/20231227/c5a096a3-47b1-4846-add0-f02f4719b807.jpg  
+12-27 10:52:17.106  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:52:18.740  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:52:19.198  1883  9597 E innerRecognize: recognizeByFilter2
+12-27 10:52:19.198  1883  9597 E recognize: 429ms   /storage/emulated/0/shifang/ai_dish/image/20231227/47702c7a-0a5f-43dd-9b80-f49ed6726a10.jpg  
+12-27 10:52:19.230  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:52:20.880  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:52:21.328  1883  9598 E innerRecognize: recognizeByFilter2
+12-27 10:52:21.328  1883  9598 E recognize: 397ms   /storage/emulated/0/shifang/ai_dish/image/20231227/172aa79c-4602-47a1-b14f-f99edec8620a.jpg  
+12-27 10:52:21.361  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:52:23.015  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:52:23.500  1883  9611 E innerRecognize: recognizeByFilter2
+12-27 10:52:23.501  1883  9611 E recognize: 433ms   /storage/emulated/0/shifang/ai_dish/image/20231227/e8e71ce6-3089-44e2-a228-9f5a101426b3.jpg  
+12-27 10:52:23.562  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:52:25.051  1883  9305 E syncSubImage: 28 
+12-27 10:52:25.205  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:52:25.626  1883  9617 E innerRecognize: recognizeByFilter2
+12-27 10:52:25.626  1883  9617 E recognize: 383ms   /storage/emulated/0/shifang/ai_dish/image/20231227/066800c1-976b-4414-a18d-c2905ecff15f.jpg  
+12-27 10:52:25.866  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:52:26.876  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:52:27.257  1883  9623 E innerRecognize: recognizeByFilter2
+12-27 10:52:27.257  1883  9623 E recognize: 350ms   /storage/emulated/0/shifang/ai_dish/image/20231227/55505d84-0d52-48f2-a5cc-e19e69c0143a.jpg  
+12-27 10:52:27.309  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:52:28.992  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:52:29.419  1883  9631 E innerRecognize: recognizeByFilter3
+12-27 10:52:29.419  1883  9631 E recognize: 406ms   /storage/emulated/0/shifang/ai_dish/image/20231227/40a60c7b-ec73-4762-b112-4be6a84bd5ef.jpg  
+12-27 10:52:29.449  1883  1883 E resultDishCount: 3 个菜品
+12-27 10:52:31.112  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:52:31.539  1883  9636 E innerRecognize: recognizeByFilter2
+12-27 10:52:31.539  1883  9636 E recognize: 393ms   /storage/emulated/0/shifang/ai_dish/image/20231227/4d2a7f89-a9dd-4f27-83ad-f436631fcf48.jpg  
+12-27 10:52:31.578  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:52:33.247  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:52:33.745  1883  9642 E innerRecognize: recognizeByFilter2
+12-27 10:52:33.745  1883  9642 E recognize: 477ms   /storage/emulated/0/shifang/ai_dish/image/20231227/0e0b1b11-16a8-4a64-a876-92ae13fc78d7.jpg  
+12-27 10:52:33.784  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:52:35.419  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:52:35.893  1883  9648 E innerRecognize: recognizeByFilter2
+12-27 10:52:35.893  1883  9648 E recognize: 438ms   /storage/emulated/0/shifang/ai_dish/image/20231227/a52ee00d-2476-4f7d-b8aa-b00692aebff4.jpg  
+12-27 10:52:35.939  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:52:37.596  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:52:38.016  1883  9653 E innerRecognize: recognizeByFilter2
+12-27 10:52:38.016  1883  9653 E recognize: 358ms   /storage/emulated/0/shifang/ai_dish/image/20231227/890e81ba-7510-4d52-84e6-56195912aa47.jpg  
+12-27 10:52:38.057  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:52:39.712  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:52:40.111  1883  9659 E innerRecognize: recognizeByFilter2
+12-27 10:52:40.112  1883  9659 E recognize: 352ms   /storage/emulated/0/shifang/ai_dish/image/20231227/b9c0c1f6-9a92-4ff2-94b9-9a99fd95f20f.jpg  
+12-27 10:52:40.156  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:52:41.831  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:52:42.215  1883  9665 E innerRecognize: recognizeByFilter2
+12-27 10:52:42.215  1883  9665 E recognize: 361ms   /storage/emulated/0/shifang/ai_dish/image/20231227/116fb32c-75b7-4385-a4bb-6b57f4363e46.jpg  
+12-27 10:52:42.264  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:52:43.914  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:52:44.368  1883  9673 E innerRecognize: recognizeByFilter2
+12-27 10:52:44.368  1883  9673 E recognize: 417ms   /storage/emulated/0/shifang/ai_dish/image/20231227/4c96e611-d89c-4d79-8495-035b30f6c38f.jpg  
+12-27 10:52:44.424  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:52:46.067  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:52:46.466  1883  9679 E innerRecognize: recognizeByFilter2
+12-27 10:52:46.466  1883  9679 E recognize: 363ms   /storage/emulated/0/shifang/ai_dish/image/20231227/bb20065d-0b2d-4a34-bb73-4cbf7140f893.jpg  
+12-27 10:52:46.505  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:52:48.156  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:52:48.563  1883  9685 E innerRecognize: recognizeByFilter2
+12-27 10:52:48.563  1883  9685 E recognize: 374ms   /storage/emulated/0/shifang/ai_dish/image/20231227/d12e28df-07cb-4b76-831d-400e4fd36ea9.jpg  
+12-27 10:52:48.624  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:52:50.290  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:52:50.702  1883  9369 E innerRecognize: recognizeByFilter2
+12-27 10:52:50.702  1883  9369 E recognize: 384ms   /storage/emulated/0/shifang/ai_dish/image/20231227/840e856b-5fe9-45b7-9d93-1f13403fa650.jpg  
+12-27 10:52:50.732  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:52:52.390  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:52:52.802  1883  9385 E innerRecognize: recognizeByFilter2
+12-27 10:52:52.802  1883  9385 E recognize: 372ms   /storage/emulated/0/shifang/ai_dish/image/20231227/65bb4579-e5c4-469c-a881-f4fe1cacb532.jpg  
+12-27 10:52:52.838  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:52:54.508  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:52:54.948  1883  9597 E innerRecognize: recognizeByFilter2
+12-27 10:52:54.948  1883  9597 E recognize: 405ms   /storage/emulated/0/shifang/ai_dish/image/20231227/a639bf91-9ac6-42e9-a9b7-c9f1f8b19d6b.jpg  
+12-27 10:52:54.995  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:52:56.661  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:52:57.078  1883  9598 E innerRecognize: recognizeByFilter2
+12-27 10:52:57.078  1883  9598 E recognize: 389ms   /storage/emulated/0/shifang/ai_dish/image/20231227/543fcba7-d55a-4df6-a4e4-b0e3bfe2ac08.jpg  
+12-27 10:52:57.112  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:52:58.819  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:52:59.335  1883  9611 E innerRecognize: recognizeByFilter3
+12-27 10:52:59.336  1883  9611 E recognize: 473ms   /storage/emulated/0/shifang/ai_dish/image/20231227/772d76f4-bf99-48d4-a749-29c2f7b0420b.jpg  
+12-27 10:52:59.393  1883  1883 E resultDishCount: 3 个菜品
+12-27 10:53:01.040  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:53:01.424  1883  9617 E innerRecognize: recognizeByFilter2
+12-27 10:53:01.424  1883  9617 E recognize: 357ms   /storage/emulated/0/shifang/ai_dish/image/20231227/4cbdd0a2-45ba-461c-9f3e-239f8c376f64.jpg  
+12-27 10:53:01.456  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:53:03.103  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:53:03.518  1883  9623 E innerRecognize: recognizeByFilter2
+12-27 10:53:03.518  1883  9623 E recognize: 377ms   /storage/emulated/0/shifang/ai_dish/image/20231227/fba422e6-2e9e-40b4-9f88-944f5971f4c9.jpg  
+12-27 10:53:03.568  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:53:05.234  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:53:05.651  1883  9631 E innerRecognize: recognizeByFilter2
+12-27 10:53:05.651  1883  9631 E recognize: 385ms   /storage/emulated/0/shifang/ai_dish/image/20231227/4cbd5233-5219-4d31-a156-e1b9d6f442f1.jpg  
+12-27 10:53:05.687  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:53:07.346  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:53:07.770  1883  9636 E innerRecognize: recognizeByFilter2
+12-27 10:53:07.771  1883  9636 E recognize: 382ms   /storage/emulated/0/shifang/ai_dish/image/20231227/46efa0b4-94af-49fc-ab06-e72a96672677.jpg  
+12-27 10:53:07.826  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:53:09.459  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:53:09.898  1883  9642 E innerRecognize: recognizeByFilter2
+12-27 10:53:09.899  1883  9642 E recognize: 420ms   /storage/emulated/0/shifang/ai_dish/image/20231227/e3e0dc3b-e42d-40f0-85bd-2ff8c4ed8668.jpg  
+12-27 10:53:09.944  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:53:11.596  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:53:12.023  1883  9648 E innerRecognize: recognizeByFilter2
+12-27 10:53:12.023  1883  9648 E recognize: 402ms   /storage/emulated/0/shifang/ai_dish/image/20231227/440a140b-65ed-448c-970c-7ad95a028c51.jpg  
+12-27 10:53:12.057  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:53:13.704  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:53:14.121  1883  9653 E innerRecognize: recognizeByFilter2
+12-27 10:53:14.121  1883  9653 E recognize: 372ms   /storage/emulated/0/shifang/ai_dish/image/20231227/8c613c82-f88b-4c48-a5c3-c1a725009b0a.jpg  
+12-27 10:53:14.171  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:53:15.831  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:53:16.215  1883  9659 E innerRecognize: recognizeByFilter2
+12-27 10:53:16.215  1883  9659 E recognize: 358ms   /storage/emulated/0/shifang/ai_dish/image/20231227/1ee2e105-fcca-4a92-b254-f9c176b5d5e8.jpg  
+12-27 10:53:16.243  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:53:17.957  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:53:18.468  1883  9665 E innerRecognize: recognizeByFilter2
+12-27 10:53:18.468  1883  9665 E recognize: 479ms   /storage/emulated/0/shifang/ai_dish/image/20231227/731a60fc-ff0d-4f22-bb16-7eb6ca36caa2.jpg  
+12-27 10:53:18.507  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:53:20.177  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:53:20.609  1883  9673 E innerRecognize: recognizeByFilter2
+12-27 10:53:20.609  1883  9673 E recognize: 401ms   /storage/emulated/0/shifang/ai_dish/image/20231227/f2c90993-c209-4d87-900b-5f879a0a62ed.jpg  
+12-27 10:53:20.642  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:53:22.296  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:53:22.713  1883  9679 E innerRecognize: recognizeByFilter2
+12-27 10:53:22.713  1883  9679 E recognize: 385ms   /storage/emulated/0/shifang/ai_dish/image/20231227/6dc7328a-5ca6-400f-87da-4fc499996697.jpg  
+12-27 10:53:22.757  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:53:24.398  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:53:24.848  1883  9685 E innerRecognize: recognizeByFilter2
+12-27 10:53:24.849  1883  9685 E recognize: 392ms   /storage/emulated/0/shifang/ai_dish/image/20231227/11ef4fb1-002e-4e1a-9380-2170705cc7a3.jpg  
+12-27 10:53:24.887  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:53:25.865  1883  9305 E syncSubImage: 29 
+12-27 10:53:26.550  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:53:26.943  1883  9369 E innerRecognize: recognizeByFilter2
+12-27 10:53:26.944  1883  9369 E recognize: 367ms   /storage/emulated/0/shifang/ai_dish/image/20231227/a89ee4eb-0862-48c5-924e-a2b6a663946f.jpg  
+12-27 10:53:26.982  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:53:28.615  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:53:29.032  1883  9385 E innerRecognize: recognizeByFilter2
+12-27 10:53:29.032  1883  9385 E recognize: 389ms   /storage/emulated/0/shifang/ai_dish/image/20231227/85911e9e-646a-4d40-8b0e-901c0e730d70.jpg  
+12-27 10:53:29.075  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:53:30.715  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:53:31.198  1883  9597 E innerRecognize: recognizeByFilter2
+12-27 10:53:31.198  1883  9597 E recognize: 456ms   /storage/emulated/0/shifang/ai_dish/image/20231227/c65aa11a-137a-4041-8437-ec8aedab1399.jpg  
+12-27 10:53:31.235  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:53:32.906  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:53:33.277  1883  9598 E innerRecognize: recognizeByFilter2
+12-27 10:53:33.277  1883  9598 E recognize: 326ms   /storage/emulated/0/shifang/ai_dish/image/20231227/d3e26a3c-a80c-4f93-adc6-349f3d1812c2.jpg  
+12-27 10:53:33.308  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:53:35.010  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:53:35.397  1883  9611 E innerRecognize: recognizeByFilter2
+12-27 10:53:35.397  1883  9611 E recognize: 353ms   /storage/emulated/0/shifang/ai_dish/image/20231227/ed6e581b-1b3b-4b19-a69c-c9b1e6758964.jpg  
+12-27 10:53:35.439  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:53:37.089  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:53:37.510  1883  9617 E innerRecognize: recognizeByFilter2
+12-27 10:53:37.510  1883  9617 E recognize: 392ms   /storage/emulated/0/shifang/ai_dish/image/20231227/6b8b8787-96eb-4a0e-a22d-fb1a33c7664a.jpg  
+12-27 10:53:37.555  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:53:39.227  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:53:39.633  1883  9623 E innerRecognize: recognizeByFilter2
+12-27 10:53:39.633  1883  9623 E recognize: 373ms   /storage/emulated/0/shifang/ai_dish/image/20231227/adb5375b-49a7-4aad-9c3c-369dcf166672.jpg  
+12-27 10:53:39.677  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:53:41.399  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:53:41.764  1883  9631 E innerRecognize: recognizeByFilter2
+12-27 10:53:41.764  1883  9631 E recognize: 330ms   /storage/emulated/0/shifang/ai_dish/image/20231227/bb883a84-820d-43b9-9506-b4968a90b3d7.jpg  
+12-27 10:53:41.801  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:53:43.461  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:53:43.914  1883  9636 E innerRecognize: recognizeByFilter2
+12-27 10:53:43.914  1883  9636 E recognize: 417ms   /storage/emulated/0/shifang/ai_dish/image/20231227/ec905db6-b22f-4912-984e-7a5bc97c74da.jpg  
+12-27 10:53:43.954  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:53:45.635  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:53:46.020  1883  9642 E innerRecognize: recognizeByFilter2
+12-27 10:53:46.020  1883  9642 E recognize: 354ms   /storage/emulated/0/shifang/ai_dish/image/20231227/38296e7a-2547-49c9-9980-f5fc6a741727.jpg  
+12-27 10:53:46.051  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:53:47.706  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:53:48.103  1883  9648 E innerRecognize: recognizeByFilter2
+12-27 10:53:48.103  1883  9648 E recognize: 346ms   /storage/emulated/0/shifang/ai_dish/image/20231227/4c56dbab-458d-44ee-827b-61f2253b9ae9.jpg  
+12-27 10:53:48.135  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:53:49.782  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:53:50.224  1883  9653 E innerRecognize: recognizeByFilter2
+12-27 10:53:50.224  1883  9653 E recognize: 405ms   /storage/emulated/0/shifang/ai_dish/image/20231227/f31df641-7c6c-4ac6-807c-cbf0a5977c2f.jpg  
+12-27 10:53:50.254  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:53:51.920  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:53:52.402  1883  9659 E innerRecognize: recognizeByFilter2
+12-27 10:53:52.402  1883  9659 E recognize: 452ms   /storage/emulated/0/shifang/ai_dish/image/20231227/4da881a5-846f-4d5a-9d55-852a8d35659d.jpg  
+12-27 10:53:52.451  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:53:54.109  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:53:54.469  1883  9665 E innerRecognize: recognizeByFilter2
+12-27 10:53:54.469  1883  9665 E recognize: 340ms   /storage/emulated/0/shifang/ai_dish/image/20231227/cb6277bb-8a66-4f65-88b1-7218f8921a40.jpg  
+12-27 10:53:54.522  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:53:56.251  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:53:56.660  1883  9673 E innerRecognize: recognizeByFilter2
+12-27 10:53:56.660  1883  9673 E recognize: 361ms   /storage/emulated/0/shifang/ai_dish/image/20231227/6c6db2a3-51ec-40ed-96a6-b20c265a0a74.jpg  
+12-27 10:53:56.710  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:53:58.363  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:53:58.806  1883  9679 E innerRecognize: recognizeByFilter2
+12-27 10:53:58.807  1883  9679 E recognize: 403ms   /storage/emulated/0/shifang/ai_dish/image/20231227/2a407378-fdd3-4fb8-91a3-4da8081cdce4.jpg  
+12-27 10:53:58.855  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:54:00.645  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:54:01.056  1883  9685 E innerRecognize: recognizeByFilter2
+12-27 10:54:01.056  1883  9685 E recognize: 371ms   /storage/emulated/0/shifang/ai_dish/image/20231227/f8c4419a-0107-4115-8179-978ffc2e21f9.jpg  
+12-27 10:54:01.093  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:54:02.747  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:54:03.198  1883  9369 E innerRecognize: recognizeByFilter2
+12-27 10:54:03.198  1883  9369 E recognize: 407ms   /storage/emulated/0/shifang/ai_dish/image/20231227/225befae-b79e-4e8e-bafe-bca28b49f742.jpg  
+12-27 10:54:03.263  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:54:04.940  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:54:05.320  1883  9385 E innerRecognize: recognizeByFilter2
+12-27 10:54:05.320  1883  9385 E recognize: 342ms   /storage/emulated/0/shifang/ai_dish/image/20231227/db08ecd1-b654-40a5-9afe-3338a48677ec.jpg  
+12-27 10:54:05.346  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:54:07.001  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:54:07.488  1883  9597 E innerRecognize: recognizeByFilter2
+12-27 10:54:07.488  1883  9597 E recognize: 444ms   /storage/emulated/0/shifang/ai_dish/image/20231227/755ffe07-c5e7-4ccd-a059-de41f862d0f6.jpg  
+12-27 10:54:07.518  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:54:09.173  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:54:09.572  1883  9598 E innerRecognize: recognizeByFilter2
+12-27 10:54:09.572  1883  9598 E recognize: 365ms   /storage/emulated/0/shifang/ai_dish/image/20231227/067d388c-f25c-456f-bfb0-b2c7d0d1768b.jpg  
+12-27 10:54:09.618  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:54:11.274  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:54:11.693  1883  9611 E innerRecognize: recognizeByFilter2
+12-27 10:54:11.693  1883  9611 E recognize: 385ms   /storage/emulated/0/shifang/ai_dish/image/20231227/8ec261a0-77b1-4dec-b685-50f366b52112.jpg  
+12-27 10:54:11.719  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:54:13.372  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:54:13.807  1883  9617 E innerRecognize: recognizeByFilter2
+12-27 10:54:13.807  1883  9617 E recognize: 406ms   /storage/emulated/0/shifang/ai_dish/image/20231227/e4caccd2-9aec-473e-81c5-01f4fc9c9ade.jpg  
+12-27 10:54:13.849  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:54:15.511  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:54:15.882  1883  9623 E innerRecognize: recognizeByFilter2
+12-27 10:54:15.882  1883  9623 E recognize: 346ms   /storage/emulated/0/shifang/ai_dish/image/20231227/f6e7693d-4d12-45dc-bac9-14b75bb469b4.jpg  
+12-27 10:54:15.936  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:54:17.573  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:54:17.955  1883  9631 E innerRecognize: recognizeByFilter2
+12-27 10:54:17.955  1883  9631 E recognize: 361ms   /storage/emulated/0/shifang/ai_dish/image/20231227/a09e5cda-bfd1-4b47-83ec-f584e227bbe2.jpg  
+12-27 10:54:17.985  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:54:19.663  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:54:20.074  1883  9636 E innerRecognize: recognizeByFilter2
+12-27 10:54:20.074  1883  9636 E recognize: 363ms   /storage/emulated/0/shifang/ai_dish/image/20231227/e5af7ff5-3be2-4a5e-887c-b973012f177e.jpg  
+12-27 10:54:20.106  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:54:21.775  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:54:22.197  1883  9642 E innerRecognize: recognizeByFilter2
+12-27 10:54:22.197  1883  9642 E recognize: 390ms   /storage/emulated/0/shifang/ai_dish/image/20231227/bce0cd02-b018-48b3-a396-1af0bec30596.jpg  
+12-27 10:54:22.232  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:54:23.894  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:54:24.313  1883  9648 E innerRecognize: recognizeByFilter2
+12-27 10:54:24.313  1883  9648 E recognize: 385ms   /storage/emulated/0/shifang/ai_dish/image/20231227/6ec7eb8d-d283-4268-8632-654700cdd80e.jpg  
+12-27 10:54:24.364  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:54:26.051  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:54:26.465  1883  9653 E innerRecognize: recognizeByFilter2
+12-27 10:54:26.465  1883  9653 E recognize: 391ms   /storage/emulated/0/shifang/ai_dish/image/20231227/1a7681c9-70cd-4da2-980b-5cd58943b1e4.jpg  
+12-27 10:54:26.495  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:54:26.733  1883  9305 E syncSubImage: 29 
+12-27 10:54:28.130  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:54:28.582  1883  9659 E innerRecognize: recognizeByFilter2
+12-27 10:54:28.582  1883  9659 E recognize: 423ms   /storage/emulated/0/shifang/ai_dish/image/20231227/067ec609-799b-49be-bf88-8108a91a4e44.jpg  
+12-27 10:54:28.624  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:54:30.291  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:54:30.743  1883  9665 E innerRecognize: recognizeByFilter2
+12-27 10:54:30.743  1883  9665 E recognize: 389ms   /storage/emulated/0/shifang/ai_dish/image/20231227/7e7d31c0-2cea-4f55-92a8-8237135d10df.jpg  
+12-27 10:54:30.788  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:54:32.421  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:54:32.850  1883  9673 E innerRecognize: recognizeByFilter2
+12-27 10:54:32.850  1883  9673 E recognize: 389ms   /storage/emulated/0/shifang/ai_dish/image/20231227/f61a474f-697a-4856-b4f7-e088de1d3cbf.jpg  
+12-27 10:54:32.885  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:54:34.558  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:54:34.945  1883  9679 E innerRecognize: recognizeByFilter2
+12-27 10:54:34.945  1883  9679 E recognize: 362ms   /storage/emulated/0/shifang/ai_dish/image/20231227/f09f7bf6-92dc-4eb8-bb75-015d668358bb.jpg  
+12-27 10:54:34.970  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:54:36.627  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:54:37.017  1883  9685 E innerRecognize: recognizeByFilter2
+12-27 10:54:37.017  1883  9685 E recognize: 360ms   /storage/emulated/0/shifang/ai_dish/image/20231227/c5d88c63-c11c-4089-adab-f63134b6f7b1.jpg  
+12-27 10:54:37.054  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:54:38.705  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:54:39.135  1883  9369 E innerRecognize: recognizeByFilter2
+12-27 10:54:39.135  1883  9369 E recognize: 384ms   /storage/emulated/0/shifang/ai_dish/image/20231227/aec100d6-2950-4719-9370-1efc71707dc3.jpg  
+12-27 10:54:39.169  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:54:40.824  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:54:41.288  1883  9385 E innerRecognize: recognizeByFilter2
+12-27 10:54:41.288  1883  9385 E recognize: 424ms   /storage/emulated/0/shifang/ai_dish/image/20231227/e4b88a36-4671-4e7a-b0df-f3945d8accd0.jpg  
+12-27 10:54:41.329  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:54:42.996  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:54:43.503  1883  9597 E innerRecognize: recognizeByFilter3
+12-27 10:54:43.503  1883  9597 E recognize: 469ms   /storage/emulated/0/shifang/ai_dish/image/20231227/4ab1f5db-28ef-440a-a681-72dfb2c90ca5.jpg  
+12-27 10:54:43.539  1883  1883 E resultDishCount: 3 个菜品
+12-27 10:54:45.186  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:54:45.575  1883  9598 E innerRecognize: recognizeByFilter2
+12-27 10:54:45.575  1883  9598 E recognize: 358ms   /storage/emulated/0/shifang/ai_dish/image/20231227/427b482e-f4a8-4396-8602-d47e4b94f5e6.jpg  
+12-27 10:54:45.616  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:54:47.287  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:54:47.730  1883  9611 E innerRecognize: recognizeByFilter2
+12-27 10:54:47.730  1883  9611 E recognize: 400ms   /storage/emulated/0/shifang/ai_dish/image/20231227/fe623431-69bd-43af-aadd-275cd386f223.jpg  
+12-27 10:54:47.769  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:54:49.429  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:54:49.863  1883  9617 E innerRecognize: recognizeByFilter2
+12-27 10:54:49.863  1883  9617 E recognize: 396ms   /storage/emulated/0/shifang/ai_dish/image/20231227/c99d77c7-c68a-43d9-a475-6f35f628f761.jpg  
+12-27 10:54:49.892  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:54:51.563  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:54:52.003  1883  9623 E innerRecognize: recognizeByFilter2
+12-27 10:54:52.003  1883  9623 E recognize: 397ms   /storage/emulated/0/shifang/ai_dish/image/20231227/5c98c649-2404-47e8-a80c-c936c2089480.jpg  
+12-27 10:54:52.028  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:54:53.713  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:54:54.131  1883  9631 E innerRecognize: recognizeByFilter2
+12-27 10:54:54.131  1883  9631 E recognize: 382ms   /storage/emulated/0/shifang/ai_dish/image/20231227/6e517b65-568e-4614-afa5-41d5969e693c.jpg  
+12-27 10:54:54.173  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:54:55.856  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:54:56.254  1883  9636 E innerRecognize: recognizeByFilter2
+12-27 10:54:56.254  1883  9636 E recognize: 369ms   /storage/emulated/0/shifang/ai_dish/image/20231227/7c0b18ab-b3e6-4917-a3b0-7c4ffeee6c38.jpg  
+12-27 10:54:56.296  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:54:57.950  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:54:58.393  1883  9642 E innerRecognize: recognizeByFilter2
+12-27 10:54:58.394  1883  9642 E recognize: 421ms   /storage/emulated/0/shifang/ai_dish/image/20231227/3e5e41a2-4c49-42e8-ac4f-8ae664ac19cf.jpg  
+12-27 10:54:58.437  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:55:00.650  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:55:01.107  1883  9648 E innerRecognize: recognizeByFilter2
+12-27 10:55:01.108  1883  9648 E recognize: 409ms   /storage/emulated/0/shifang/ai_dish/image/20231227/2ce007b6-3db3-409d-90d8-542a3054f175.jpg  
+12-27 10:55:01.143  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:55:02.799  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:55:03.221  1883  9653 E innerRecognize: recognizeByFilter2
+12-27 10:55:03.221  1883  9653 E recognize: 393ms   /storage/emulated/0/shifang/ai_dish/image/20231227/37eb51ad-461a-4c1c-8dcf-030f4ab48f5f.jpg  
+12-27 10:55:03.262  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:55:04.918  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:55:05.326  1883  9659 E innerRecognize: recognizeByFilter2
+12-27 10:55:05.326  1883  9659 E recognize: 378ms   /storage/emulated/0/shifang/ai_dish/image/20231227/2771ce0e-ec26-416b-a99b-a80d9ca4e088.jpg  
+12-27 10:55:05.370  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:55:07.035  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:55:07.485  1883  9665 E innerRecognize: recognizeByFilter2
+12-27 10:55:07.485  1883  9665 E recognize: 423ms   /storage/emulated/0/shifang/ai_dish/image/20231227/349af277-6103-4dde-8e98-c5cf3d99e80e.jpg  
+12-27 10:55:07.518  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:55:09.173  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:55:09.557  1883  9673 E innerRecognize: recognizeByFilter2
+12-27 10:55:09.557  1883  9673 E recognize: 358ms   /storage/emulated/0/shifang/ai_dish/image/20231227/19ec1dba-1f17-41ce-81b7-62a2f6f70a58.jpg  
+12-27 10:55:09.581  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:55:11.313  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:55:11.733  1883  9679 E innerRecognize: recognizeByFilter2
+12-27 10:55:11.733  1883  9679 E recognize: 387ms   /storage/emulated/0/shifang/ai_dish/image/20231227/b3c056d0-3b62-4ad4-b373-a523f025227b.jpg  
+12-27 10:55:11.760  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:55:13.446  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:55:13.858  1883  9685 E innerRecognize: recognizeByFilter2
+12-27 10:55:13.858  1883  9685 E recognize: 381ms   /storage/emulated/0/shifang/ai_dish/image/20231227/c1e30634-32e9-4b29-9c3e-37a82edb5613.jpg  
+12-27 10:55:13.886  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:55:15.562  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:55:16.033  1883  9369 E innerRecognize: recognizeByFilter2
+12-27 10:55:16.033  1883  9369 E recognize: 446ms   /storage/emulated/0/shifang/ai_dish/image/20231227/7fb23ca5-f15a-4928-a754-fb10701db4de.jpg  
+12-27 10:55:16.085  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:55:17.758  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:55:18.176  1883  9385 E innerRecognize: recognizeByFilter2
+12-27 10:55:18.177  1883  9385 E recognize: 378ms   /storage/emulated/0/shifang/ai_dish/image/20231227/53b71a4e-f163-4ac5-942e-8af6a0a297b2.jpg  
+12-27 10:55:18.232  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:55:19.901  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:55:20.297  1883  9597 E innerRecognize: recognizeByFilter2
+12-27 10:55:20.297  1883  9597 E recognize: 373ms   /storage/emulated/0/shifang/ai_dish/image/20231227/356f9bc6-89b7-4ca7-8e39-5bafb7683526.jpg  
+12-27 10:55:20.323  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:55:22.015  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:55:22.434  1883  9598 E innerRecognize: recognizeByFilter2
+12-27 10:55:22.434  1883  9598 E recognize: 370ms   /storage/emulated/0/shifang/ai_dish/image/20231227/e5794c16-4527-4019-9eee-2cab39269d2b.jpg  
+12-27 10:55:22.473  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:55:23.086  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:55:23.544  1883  9611 E innerRecognize: recognizeByFilter2
+12-27 10:55:23.544  1883  9611 E recognize: 433ms   /storage/emulated/0/shifang/ai_dish/image/20231227/94db41ff-e315-4d94-85a2-71bebafb72d0.jpg  
+12-27 10:55:23.569  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:55:25.225  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:55:25.617  1883  9617 E innerRecognize: recognizeByFilter2
+12-27 10:55:25.617  1883  9617 E recognize: 366ms   /storage/emulated/0/shifang/ai_dish/image/20231227/15d7494d-84b5-4c6e-a4d2-bb9c4ccd8bff.jpg  
+12-27 10:55:25.646  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:55:27.304  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:55:27.532  1883  9305 E syncSubImage: 28 
+12-27 10:55:27.732  1883  9623 E innerRecognize: recognizeByFilter2
+12-27 10:55:27.732  1883  9623 E recognize: 384ms   /storage/emulated/0/shifang/ai_dish/image/20231227/61a76c67-4eeb-400a-b912-568de20b7095.jpg  
+12-27 10:55:27.930  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:55:28.957  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:55:29.367  1883  9631 E innerRecognize: recognizeByFilter2
+12-27 10:55:29.367  1883  9631 E recognize: 374ms   /storage/emulated/0/shifang/ai_dish/image/20231227/2ce983c5-80b5-46e8-a69b-c93d45a4150b.jpg  
+12-27 10:55:29.402  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:55:31.066  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:55:31.506  1883  9636 E innerRecognize: recognizeByFilter2
+12-27 10:55:31.507  1883  9636 E recognize: 396ms   /storage/emulated/0/shifang/ai_dish/image/20231227/fdf56d04-7a61-4099-919a-b67d4cb34599.jpg  
+12-27 10:55:31.549  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:55:33.215  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:55:33.625  1883  9642 E innerRecognize: recognizeByFilter2
+12-27 10:55:33.625  1883  9642 E recognize: 378ms   /storage/emulated/0/shifang/ai_dish/image/20231227/df9f8523-33dd-46fe-9e43-90fe623c02b1.jpg  
+12-27 10:55:33.663  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:55:35.314  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:55:35.756  1883  9648 E innerRecognize: recognizeByFilter2
+12-27 10:55:35.756  1883  9648 E recognize: 391ms   /storage/emulated/0/shifang/ai_dish/image/20231227/43185359-e056-4522-beb8-cc88ce054369.jpg  
+12-27 10:55:35.779  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:55:37.465  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:55:37.865  1883  9653 E innerRecognize: recognizeByFilter2
+12-27 10:55:37.865  1883  9653 E recognize: 375ms   /storage/emulated/0/shifang/ai_dish/image/20231227/e6e122bd-6102-4fd5-8a2d-2d298288c274.jpg  
+12-27 10:55:37.910  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:55:39.549  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:55:39.990  1883  9659 E innerRecognize: recognizeByFilter2
+12-27 10:55:39.990  1883  9659 E recognize: 398ms   /storage/emulated/0/shifang/ai_dish/image/20231227/1acc9f04-3d16-406a-9957-f3059339e2a6.jpg  
+12-27 10:55:40.015  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:55:41.688  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:55:42.127  1883  9665 E innerRecognize: recognizeByFilter2
+12-27 10:55:42.127  1883  9665 E recognize: 399ms   /storage/emulated/0/shifang/ai_dish/image/20231227/725e4bb8-9bb5-4167-877c-91dcd516a66b.jpg  
+12-27 10:55:42.158  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:55:43.827  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:55:44.226  1883  9673 E innerRecognize: recognizeByFilter2
+12-27 10:55:44.227  1883  9673 E recognize: 368ms   /storage/emulated/0/shifang/ai_dish/image/20231227/c96853e8-5548-45c4-8bf3-c977a5137b37.jpg  
+12-27 10:55:44.293  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:55:45.956  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:55:46.393  1883  9679 E innerRecognize: recognizeByFilter2
+12-27 10:55:46.393  1883  9679 E recognize: 409ms   /storage/emulated/0/shifang/ai_dish/image/20231227/624cae9b-a197-4484-bcc7-a8c45e7e41b8.jpg  
+12-27 10:55:46.426  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:55:48.116  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:55:48.589  1883  9685 E innerRecognize: recognizeByFilter2
+12-27 10:55:48.589  1883  9685 E recognize: 422ms   /storage/emulated/0/shifang/ai_dish/image/20231227/745f8c26-6a74-4eae-aee3-c9a5a12c00d0.jpg  
+12-27 10:55:48.614  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:55:50.284  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:55:50.723  1883  9369 E innerRecognize: recognizeByFilter2
+12-27 10:55:50.723  1883  9369 E recognize: 398ms   /storage/emulated/0/shifang/ai_dish/image/20231227/91dc4e57-ed7c-4093-ba16-7896d9c02ef8.jpg  
+12-27 10:55:50.750  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:55:52.404  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:55:52.850  1883  9385 E innerRecognize: recognizeByFilter2
+12-27 10:55:52.850  1883  9385 E recognize: 407ms   /storage/emulated/0/shifang/ai_dish/image/20231227/beb9782d-174c-4311-90f8-93587a2ff581.jpg  
+12-27 10:55:52.884  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:55:54.543  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:55:54.939  1883  9597 E innerRecognize: recognizeByFilter2
+12-27 10:55:54.939  1883  9597 E recognize: 357ms   /storage/emulated/0/shifang/ai_dish/image/20231227/814ec7f8-f2be-4d29-aa07-fc97bdff167b.jpg  
+12-27 10:55:54.967  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:55:56.622  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:55:57.048  1883  9598 E innerRecognize: recognizeByFilter2
+12-27 10:55:57.048  1883  9598 E recognize: 398ms   /storage/emulated/0/shifang/ai_dish/image/20231227/a93cf61b-c938-48c5-9891-04c4eb9a6b14.jpg  
+12-27 10:55:57.086  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:55:58.741  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:55:59.116  1883  9611 E innerRecognize: recognizeByFilter2
+12-27 10:55:59.116  1883  9611 E recognize: 351ms   /storage/emulated/0/shifang/ai_dish/image/20231227/e5447748-473b-41a0-bac0-f059adb54fcd.jpg  
+12-27 10:55:59.150  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:56:00.787  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:56:01.214  1883  9617 E innerRecognize: recognizeByFilter2
+12-27 10:56:01.214  1883  9617 E recognize: 403ms   /storage/emulated/0/shifang/ai_dish/image/20231227/de12f0a7-a4c2-4c1b-896d-7ff6a9e9c59f.jpg  
+12-27 10:56:01.259  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:56:02.904  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:56:03.394  1883  9623 E innerRecognize: recognizeByFilter3
+12-27 10:56:03.395  1883  9623 E recognize: 463ms   /storage/emulated/0/shifang/ai_dish/image/20231227/27f7b0b6-bfa1-449c-be0f-004f65a97b21.jpg  
+12-27 10:56:03.441  1883  1883 E resultDishCount: 3 个菜品
+12-27 10:56:05.094  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:56:05.529  1883  9631 E innerRecognize: recognizeByFilter2
+12-27 10:56:05.529  1883  9631 E recognize: 392ms   /storage/emulated/0/shifang/ai_dish/image/20231227/dd85f157-5f21-4939-92ac-a745dd1bef3e.jpg  
+12-27 10:56:05.565  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:56:07.214  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:56:07.649  1883  9636 E innerRecognize: recognizeByFilter2
+12-27 10:56:07.649  1883  9636 E recognize: 390ms   /storage/emulated/0/shifang/ai_dish/image/20231227/950a1a82-5eb2-45b6-8208-580298d31696.jpg  
+12-27 10:56:07.699  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:56:09.369  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:56:09.761  1883  9642 E innerRecognize: recognizeByFilter2
+12-27 10:56:09.761  1883  9642 E recognize: 364ms   /storage/emulated/0/shifang/ai_dish/image/20231227/95b3bdf9-7632-4416-b549-63bca55c1700.jpg  
+12-27 10:56:09.804  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:56:11.469  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:56:11.858  1883  9648 E innerRecognize: recognizeByFilter2
+12-27 10:56:11.858  1883  9648 E recognize: 364ms   /storage/emulated/0/shifang/ai_dish/image/20231227/10e9ec4b-ed05-410c-9eb9-b0d92f5363d2.jpg  
+12-27 10:56:11.897  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:56:13.572  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:56:13.979  1883  9653 E innerRecognize: recognizeByFilter2
+12-27 10:56:13.979  1883  9653 E recognize: 372ms   /storage/emulated/0/shifang/ai_dish/image/20231227/b2a71d3a-5fbc-4971-bfff-c89543f6d3c1.jpg  
+12-27 10:56:14.034  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:56:15.693  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:56:16.155  1883  9659 E innerRecognize: recognizeByFilter2
+12-27 10:56:16.155  1883  9659 E recognize: 412ms   /storage/emulated/0/shifang/ai_dish/image/20231227/5713e3ae-f61a-4ac6-a996-2f9b28fec215.jpg  
+12-27 10:56:16.188  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:56:17.859  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:56:18.252  1883  9665 E innerRecognize: recognizeByFilter2
+12-27 10:56:18.252  1883  9665 E recognize: 367ms   /storage/emulated/0/shifang/ai_dish/image/20231227/c0a2a677-5325-4513-88a1-48d457eaa002.jpg  
+12-27 10:56:18.275  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:56:19.927  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:56:20.354  1883  9673 E innerRecognize: recognizeByFilter2
+12-27 10:56:20.354  1883  9673 E recognize: 376ms   /storage/emulated/0/shifang/ai_dish/image/20231227/70c03521-f00d-468c-ae5b-722b3c157604.jpg  
+12-27 10:56:20.394  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:56:22.064  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:56:22.458  1883  9679 E innerRecognize: recognizeByFilter2
+12-27 10:56:22.458  1883  9679 E recognize: 369ms   /storage/emulated/0/shifang/ai_dish/image/20231227/b4ddfb88-6620-4fcb-b453-727753353e87.jpg  
+12-27 10:56:22.485  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:56:24.155  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:56:24.572  1883  9685 E innerRecognize: recognizeByFilter2
+12-27 10:56:24.572  1883  9685 E recognize: 369ms   /storage/emulated/0/shifang/ai_dish/image/20231227/061a194b-e3a9-4d7a-b37a-cfab2f0ba505.jpg  
+12-27 10:56:24.620  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:56:26.287  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:56:26.691  1883  9369 E innerRecognize: recognizeByFilter2
+12-27 10:56:26.691  1883  9369 E recognize: 363ms   /storage/emulated/0/shifang/ai_dish/image/20231227/3f7c2137-5be5-473d-ab9d-167bd5e30590.jpg  
+12-27 10:56:26.736  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:56:28.332  1883  9305 E syncSubImage: 29 
+12-27 10:56:28.397  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:56:28.774  1883  9385 E innerRecognize: recognizeByFilter2
+12-27 10:56:28.774  1883  9385 E recognize: 354ms   /storage/emulated/0/shifang/ai_dish/image/20231227/eecbebf4-d552-4260-b1b8-bbdfeab60d3b.jpg  
+12-27 10:56:28.941  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:56:30.605  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:56:31.059  1883  9597 E innerRecognize: recognizeByFilter2
+12-27 10:56:31.059  1883  9597 E recognize: 427ms   /storage/emulated/0/shifang/ai_dish/image/20231227/5e592af5-0ab7-4b6d-8c57-5678d557a449.jpg  
+12-27 10:56:31.107  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:56:32.778  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:56:33.184  1883  9598 E innerRecognize: recognizeByFilter2
+12-27 10:56:33.184  1883  9598 E recognize: 385ms   /storage/emulated/0/shifang/ai_dish/image/20231227/d474b715-6f7f-4b5c-ada9-613a52004045.jpg  
+12-27 10:56:33.226  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:56:34.915  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:56:35.362  1883  9611 E innerRecognize: recognizeByFilter2
+12-27 10:56:35.362  1883  9611 E recognize: 412ms   /storage/emulated/0/shifang/ai_dish/image/20231227/e7af158e-5c39-4f99-a8f2-9a571c7a4fe1.jpg  
+12-27 10:56:35.407  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:56:37.112  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:56:37.521  1883  9617 E innerRecognize: recognizeByFilter2
+12-27 10:56:37.521  1883  9617 E recognize: 368ms   /storage/emulated/0/shifang/ai_dish/image/20231227/95527b22-e35c-4677-95a2-3fae87d699a9.jpg  
+12-27 10:56:37.552  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:56:38.209  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:56:38.644  1883  9623 E innerRecognize: recognizeByFilter2
+12-27 10:56:38.644  1883  9623 E recognize: 385ms   /storage/emulated/0/shifang/ai_dish/image/20231227/8be2c183-2708-41d7-9b84-b205c62250c9.jpg  
+12-27 10:56:38.666  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:56:39.302  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:56:39.769  1883  9631 E innerRecognize: recognizeByFilter2
+12-27 10:56:39.769  1883  9631 E recognize: 412ms   /storage/emulated/0/shifang/ai_dish/image/20231227/10835a31-db57-4e6c-a804-2c46c1abd6be.jpg  
+12-27 10:56:39.802  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:56:41.476  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:56:41.892  1883  9636 E innerRecognize: recognizeByFilter2
+12-27 10:56:41.892  1883  9636 E recognize: 381ms   /storage/emulated/0/shifang/ai_dish/image/20231227/aa2c469c-fd15-49e3-ba3a-e37cc3522b3f.jpg  
+12-27 10:56:41.921  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:56:42.618  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:56:43.036  1883  9642 E innerRecognize: recognizeByFilter2
+12-27 10:56:43.036  1883  9642 E recognize: 383ms   /storage/emulated/0/shifang/ai_dish/image/20231227/03ae6859-fd90-4189-8859-e56663468323.jpg  
+12-27 10:56:43.082  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:56:44.759  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:56:45.170  1883  9648 E innerRecognize: recognizeByFilter2
+12-27 10:56:45.170  1883  9648 E recognize: 380ms   /storage/emulated/0/shifang/ai_dish/image/20231227/e3b96dbc-571b-4c6d-bc99-cc2df2657bad.jpg  
+12-27 10:56:45.219  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:56:46.872  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:56:47.325  1883  9653 E innerRecognize: recognizeByFilter2
+12-27 10:56:47.325  1883  9653 E recognize: 415ms   /storage/emulated/0/shifang/ai_dish/image/20231227/b0d40d92-d6ba-4dba-bad6-1a80d8431ac5.jpg  
+12-27 10:56:47.355  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:56:49.029  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:56:49.438  1883  9659 E innerRecognize: recognizeByFilter2
+12-27 10:56:49.438  1883  9659 E recognize: 384ms   /storage/emulated/0/shifang/ai_dish/image/20231227/a9bbb39a-f120-41c9-8fe2-840233cd0833.jpg  
+12-27 10:56:49.462  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:56:51.148  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:56:51.589  1883  9665 E innerRecognize: recognizeByFilter2
+12-27 10:56:51.589  1883  9665 E recognize: 392ms   /storage/emulated/0/shifang/ai_dish/image/20231227/ded2b1fa-4375-4a9e-bdeb-d1ebb81bd202.jpg  
+12-27 10:56:51.627  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:56:53.374  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:56:53.779  1883  9673 E innerRecognize: recognizeByFilter2
+12-27 10:56:53.779  1883  9673 E recognize: 378ms   /storage/emulated/0/shifang/ai_dish/image/20231227/ef3cb7ec-a4f6-461c-9525-b893905e60ba.jpg  
+12-27 10:56:53.806  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:56:55.456  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:56:55.977  1883  9679 E innerRecognize: recognizeByFilter3
+12-27 10:56:55.978  1883  9679 E recognize: 473ms   /storage/emulated/0/shifang/ai_dish/image/20231227/6466ee9e-e347-4d63-8d4b-99666c706323.jpg  
+12-27 10:56:56.008  1883  1883 E resultDishCount: 3 个菜品
+12-27 10:56:57.681  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:56:58.082  1883  9685 E innerRecognize: recognizeByFilter2
+12-27 10:56:58.082  1883  9685 E recognize: 369ms   /storage/emulated/0/shifang/ai_dish/image/20231227/9cc138b3-2c8b-4eb8-94cd-268d0a8890b7.jpg  
+12-27 10:56:58.108  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:56:59.763  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:57:00.202  1883  9369 E innerRecognize: recognizeByFilter2
+12-27 10:57:00.202  1883  9369 E recognize: 402ms   /storage/emulated/0/shifang/ai_dish/image/20231227/a791eac0-f89d-4053-93a8-4e492f069f35.jpg  
+12-27 10:57:00.230  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:57:02.132  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:57:02.565  1883  9385 E innerRecognize: recognizeByFilter2
+12-27 10:57:02.565  1883  9385 E recognize: 388ms   /storage/emulated/0/shifang/ai_dish/image/20231227/7be4323d-1909-4a1d-8916-e5a785d8937d.jpg  
+12-27 10:57:02.597  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:57:04.324  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:57:04.717  1883  9597 E innerRecognize: recognizeByFilter2
+12-27 10:57:04.717  1883  9597 E recognize: 366ms   /storage/emulated/0/shifang/ai_dish/image/20231227/a3d68c5d-7b02-42be-96f0-59cb59e18901.jpg  
+12-27 10:57:04.760  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:57:06.427  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:57:06.832  1883  9598 E innerRecognize: recognizeByFilter2
+12-27 10:57:06.832  1883  9598 E recognize: 363ms   /storage/emulated/0/shifang/ai_dish/image/20231227/953b5f6b-db83-4233-95cc-0921474ed988.jpg  
+12-27 10:57:06.870  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:57:08.583  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:57:08.966  1883  9611 E innerRecognize: recognizeByFilter2
+12-27 10:57:08.966  1883  9611 E recognize: 336ms   /storage/emulated/0/shifang/ai_dish/image/20231227/21af1014-6458-48a0-bcd8-599b52de0b0c.jpg  
+12-27 10:57:09.008  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:57:10.679  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:57:11.079  1883  9617 E innerRecognize: recognizeByFilter2
+12-27 10:57:11.079  1883  9617 E recognize: 377ms   /storage/emulated/0/shifang/ai_dish/image/20231227/2d5466ef-8a89-4be7-9645-c563ec9703a0.jpg  
+12-27 10:57:11.106  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:57:12.779  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:57:13.196  1883  9623 E innerRecognize: recognizeByFilter2
+12-27 10:57:13.196  1883  9623 E recognize: 381ms   /storage/emulated/0/shifang/ai_dish/image/20231227/47d0996d-9601-429b-9175-d2cc5fe1c47b.jpg  
+12-27 10:57:13.225  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:57:14.915  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:57:15.328  1883  9631 E innerRecognize: recognizeByFilter2
+12-27 10:57:15.328  1883  9631 E recognize: 382ms   /storage/emulated/0/shifang/ai_dish/image/20231227/e8bccf29-13d4-4f50-9b49-d63987aa055c.jpg  
+12-27 10:57:15.350  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:57:17.183  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:57:17.593  1883  9636 E innerRecognize: recognizeByFilter2
+12-27 10:57:17.593  1883  9636 E recognize: 351ms   /storage/emulated/0/shifang/ai_dish/image/20231227/7500130d-6b92-454b-92b4-e2c904b64b56.jpg  
+12-27 10:57:17.623  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:57:19.277  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:57:19.661  1883  9642 E innerRecognize: recognizeByFilter2
+12-27 10:57:19.661  1883  9642 E recognize: 359ms   /storage/emulated/0/shifang/ai_dish/image/20231227/b714bbdb-8beb-4512-a99a-1b9b99c80efb.jpg  
+12-27 10:57:19.712  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:57:21.361  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:57:21.783  1883  9648 E innerRecognize: recognizeByFilter2
+12-27 10:57:21.783  1883  9648 E recognize: 387ms   /storage/emulated/0/shifang/ai_dish/image/20231227/99c9013e-df00-4a79-b2ab-5325d78b27ea.jpg  
+12-27 10:57:21.836  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:57:23.478  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:57:23.866  1883  9653 E innerRecognize: recognizeByFilter2
+12-27 10:57:23.866  1883  9653 E recognize: 366ms   /storage/emulated/0/shifang/ai_dish/image/20231227/233701fc-ef38-47ae-9465-925ed870ed89.jpg  
+12-27 10:57:23.907  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:57:25.562  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:57:25.936  1883  9659 E innerRecognize: recognizeByFilter2
+12-27 10:57:25.936  1883  9659 E recognize: 338ms   /storage/emulated/0/shifang/ai_dish/image/20231227/fa1430ac-8d63-4317-83e5-639bca28eef5.jpg  
+12-27 10:57:25.959  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:57:27.608  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:57:28.016  1883  9665 E innerRecognize: recognizeByFilter2
+12-27 10:57:28.016  1883  9665 E recognize: 374ms   /storage/emulated/0/shifang/ai_dish/image/20231227/842219fb-64cf-4586-ab75-e7070b1c1a20.jpg  
+12-27 10:57:28.064  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:57:29.212  1883  9305 E syncSubImage: 30 
+12-27 10:57:29.708  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:57:30.164  1883  9673 E innerRecognize: recognizeByFilter2
+12-27 10:57:30.164  1883  9673 E recognize: 416ms   /storage/emulated/0/shifang/ai_dish/image/20231227/ccfabc26-a6d4-4352-844f-81886b04305f.jpg  
+12-27 10:57:30.209  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:57:31.886  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:57:32.320  1883  9679 E innerRecognize: recognizeByFilter2
+12-27 10:57:32.320  1883  9679 E recognize: 394ms   /storage/emulated/0/shifang/ai_dish/image/20231227/3d2b4b37-ffcb-43f6-85c6-a6dad262db9f.jpg  
+12-27 10:57:32.345  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:57:34.000  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:57:34.420  1883  9685 E innerRecognize: recognizeByFilter2
+12-27 10:57:34.420  1883  9685 E recognize: 376ms   /storage/emulated/0/shifang/ai_dish/image/20231227/a0cf38be-0958-4987-a39b-740516e90496.jpg  
+12-27 10:57:34.464  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:57:36.153  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:57:36.642  1883  9369 E innerRecognize: recognizeByFilter2
+12-27 10:57:36.642  1883  9369 E recognize: 440ms   /storage/emulated/0/shifang/ai_dish/image/20231227/07a1f0ce-9d93-4f99-9e9a-6b2ec7716031.jpg  
+12-27 10:57:36.674  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:57:38.404  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:57:38.852  1883  9385 E innerRecognize: recognizeByFilter2
+12-27 10:57:38.852  1883  9385 E recognize: 398ms   /storage/emulated/0/shifang/ai_dish/image/20231227/ab204d8a-0d18-4a45-9081-afee4749040e.jpg  
+12-27 10:57:38.898  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:57:40.660  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:57:41.048  1883  9597 E innerRecognize: recognizeByFilter2
+12-27 10:57:41.049  1883  9597 E recognize: 353ms   /storage/emulated/0/shifang/ai_dish/image/20231227/e2184f9e-1660-4590-b16d-f79715b53f47.jpg  
+12-27 10:57:41.074  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:57:42.749  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:57:43.140  1883  9598 E innerRecognize: recognizeByFilter2
+12-27 10:57:43.140  1883  9598 E recognize: 365ms   /storage/emulated/0/shifang/ai_dish/image/20231227/92344500-23ee-4bcb-b98f-40d2fcc75d82.jpg  
+12-27 10:57:43.180  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:57:44.812  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:57:45.245  1883  9611 E innerRecognize: recognizeByFilter2
+12-27 10:57:45.245  1883  9611 E recognize: 402ms   /storage/emulated/0/shifang/ai_dish/image/20231227/db30a81f-9a4c-4168-9b36-9844e125eb68.jpg  
+12-27 10:57:45.279  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:57:46.949  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:57:47.454  1883  9617 E innerRecognize: recognizeByFilter3
+12-27 10:57:47.454  1883  9617 E recognize: 462ms   /storage/emulated/0/shifang/ai_dish/image/20231227/d99d6ee3-da90-444e-85d0-35e5d51a5de5.jpg  
+12-27 10:57:47.498  1883  1883 E resultDishCount: 3 个菜品
+12-27 10:57:49.151  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:57:49.585  1883  9623 E innerRecognize: recognizeByFilter2
+12-27 10:57:49.585  1883  9623 E recognize: 403ms   /storage/emulated/0/shifang/ai_dish/image/20231227/70506719-ec6c-4af2-a635-b4b70e219790.jpg  
+12-27 10:57:49.622  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:57:51.298  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:57:51.715  1883  9631 E innerRecognize: recognizeByFilter2
+12-27 10:57:51.715  1883  9631 E recognize: 382ms   /storage/emulated/0/shifang/ai_dish/image/20231227/ca36bc93-f743-49c9-a5ea-bf81d5c9ce3d.jpg  
+12-27 10:57:51.752  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:57:52.383  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:57:52.824  1883  9636 E innerRecognize: recognizeByFilter2
+12-27 10:57:52.824  1883  9636 E recognize: 399ms   /storage/emulated/0/shifang/ai_dish/image/20231227/e6a1b8f6-2fc3-4be3-857f-ffd30789081d.jpg  
+12-27 10:57:52.868  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:57:54.556  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:57:54.936  1883  9642 E innerRecognize: recognizeByFilter2
+12-27 10:57:54.936  1883  9642 E recognize: 358ms   /storage/emulated/0/shifang/ai_dish/image/20231227/d5de6090-cbe6-4062-a0f0-89c355bd629c.jpg  
+12-27 10:57:54.972  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:57:56.625  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:57:57.040  1883  9648 E innerRecognize: recognizeByFilter2
+12-27 10:57:57.040  1883  9648 E recognize: 367ms   /storage/emulated/0/shifang/ai_dish/image/20231227/66a84fce-83a8-4a68-9fa4-5820bf399802.jpg  
+12-27 10:57:57.085  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:57:58.777  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:57:59.201  1883  9653 E innerRecognize: recognizeByFilter2
+12-27 10:57:59.201  1883  9653 E recognize: 387ms   /storage/emulated/0/shifang/ai_dish/image/20231227/36b62a58-539e-42d9-be3a-319b418ada66.jpg  
+12-27 10:57:59.268  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:58:00.913  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:58:01.296  1883  9659 E innerRecognize: recognizeByFilter2
+12-27 10:58:01.296  1883  9659 E recognize: 362ms   /storage/emulated/0/shifang/ai_dish/image/20231227/1dc0e872-db5f-40de-aadf-794a1ef084c9.jpg  
+12-27 10:58:01.322  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:58:03.016  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:58:03.395  1883  9665 E innerRecognize: recognizeByFilter2
+12-27 10:58:03.395  1883  9665 E recognize: 339ms   /storage/emulated/0/shifang/ai_dish/image/20231227/7c81ffe7-0f0c-451f-bd19-59e9a16aa527.jpg  
+12-27 10:58:03.428  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:58:05.113  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:58:05.464  1883  9673 E innerRecognize: recognizeByFilter2
+12-27 10:58:05.464  1883  9673 E recognize: 316ms   /storage/emulated/0/shifang/ai_dish/image/20231227/b9133a45-26b7-48a5-8c57-728f3fa88a8f.jpg  
+12-27 10:58:05.494  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:58:07.158  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:58:07.601  1883  9679 E innerRecognize: recognizeByFilter2
+12-27 10:58:07.601  1883  9679 E recognize: 412ms   /storage/emulated/0/shifang/ai_dish/image/20231227/527b5d4a-a675-4dbf-ad4b-601ba19714b3.jpg  
+12-27 10:58:07.641  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:58:09.320  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:58:09.740  1883  9685 E innerRecognize: recognizeByFilter2
+12-27 10:58:09.740  1883  9685 E recognize: 393ms   /storage/emulated/0/shifang/ai_dish/image/20231227/ccf21209-9487-4596-a3a7-c2b2338a19f7.jpg  
+12-27 10:58:09.767  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:58:11.451  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:58:11.943  1883  9369 E innerRecognize: recognizeByFilter3
+12-27 10:58:11.943  1883  9369 E recognize: 458ms   /storage/emulated/0/shifang/ai_dish/image/20231227/924a58f2-4d65-46e0-89f1-a8afbfc8e476.jpg  
+12-27 10:58:11.972  1883  1883 E resultDishCount: 3 个菜品
+12-27 10:58:13.623  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:58:14.009  1883  9385 E innerRecognize: recognizeByFilter2
+12-27 10:58:14.010  1883  9385 E recognize: 365ms   /storage/emulated/0/shifang/ai_dish/image/20231227/77144e9a-15aa-4828-8062-f89797b3953f.jpg  
+12-27 10:58:14.051  1883  1883 E resultDishCount: 2 个菜品
+12-27 10:58:15.707  1883  1883 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-27 10:58:15.918  1883  1883 E surfaceDestroyed: ------
+12-27 10:58:15.918  1883  9580 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.DetectCalcActivity]#7(BLAST Consumer)7](id:75b00000008,api:0,p:-1,c:1883) dequeueBuffer: BufferQueue has no connected producer
+12-27 10:58:15.918  1883  9580 E mali_so : encounter the first mali_error : 0x0002 : failed to allocate CPU memory (gles_fb_first_operation_cb at hardware/arm/maliT760/driver/product/gles/src/fb/mali_gles_fb_module_api.c:987)
+12-27 10:58:15.919  1883  9580 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.DetectCalcActivity]#7(BLAST Consumer)7](id:75b00000008,api:0,p:-1,c:1883) dequeueBuffer: BufferQueue has no connected producer
+12-27 10:58:15.919  1883  9580 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.DetectCalcActivity]#7(BLAST Consumer)7](id:75b00000008,api:0,p:-1,c:1883) disconnect: not connected (req=1)
+12-27 10:58:15.919  1883  1883 E surfaceDestroyed: ------
+12-27 10:58:15.927  1883  9583 E BufferQueueProducer: [SurfaceView[]#8(BLAST Consumer)8](id:75b0000000a,api:0,p:-1,c:1883) dequeueBuffer: BufferQueue has no connected producer
+12-27 10:58:15.927  1883  9583 E mali_so : encounter the first mali_error : 0x0002 : failed to allocate CPU memory (gles_fb_first_operation_cb at hardware/arm/maliT760/driver/product/gles/src/fb/mali_gles_fb_module_api.c:987)
+12-27 10:58:15.927  1883  9583 E BufferQueueProducer: [SurfaceView[]#8(BLAST Consumer)8](id:75b0000000a,api:0,p:-1,c:1883) dequeueBuffer: BufferQueue has no connected producer
+12-27 10:58:15.928  1883  9583 E BufferQueueProducer: [SurfaceView[]#8(BLAST Consumer)8](id:75b0000000a,api:0,p:-1,c:1883) disconnect: not connected (req=1)
+12-27 10:58:16.066  1883 11285 E getNewVersion: null
+12-27 10:58:16.190  1883  9597 E innerRecognize: recognizeByFilter2
+12-27 10:58:16.190  1883  9597 E recognize: 442ms   /storage/emulated/0/shifang/ai_dish/image/20231227/658c81f3-71cf-4239-8c77-b698a1dfc39a.jpg  

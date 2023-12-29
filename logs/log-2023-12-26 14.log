@@ -1,0 +1,36 @@
+12-26 14:59:23.960 23894 23894 E Tinker.TinkerManager: NOT tinker ApplicationLike object
+12-26 14:59:24.044 23894 23929 E Bundle  : putString->_track_generation:null
+12-26 14:59:24.150 23894 23929 E Bundle  : putString->_track_generation:null
+12-26 14:59:24.398 23894 23947 E loadModel: ---true
+12-26 14:59:25.286 23894 23947 E loadModel: 1    /storage/emulated/0/shifang/ai_dish/model/dish_v5.1.1.rk.sfm
+12-26 14:59:25.471 23894 23947 E linker  : library "/vendor/lib64/libvpu.so" ("/vendor/lib64/libvpu.so") needed or dlopened by "/data/app/~~-3YhMJPZzIoZh-db3dFRKQ==/com.shifang.aidish.offline-9PjYc1-zoTz8WDRzakdzlw==/lib/arm64/libarcsoft_face.so" is not accessible for the namespace: [name="classloader-namespace", ld_library_paths="", default_library_paths="/data/app/~~-3YhMJPZzIoZh-db3dFRKQ==/com.shifang.aidish.offline-9PjYc1-zoTz8WDRzakdzlw==/lib/arm64:/data/app/~~-3YhMJPZzIoZh-db3dFRKQ==/com.shifang.aidish.offline-9PjYc1-zoTz8WDRzakdzlw==/base.apk!/lib/arm64-v8a", permitted_paths="/data:/mnt/expand:/data/user/0/com.shifang.aidish.offline"]
+12-26 14:59:25.580 23894 23947 E activeFaceSdk: 98310 
+12-26 14:59:25.580 23894 23947 E SdkInitService_initFaceSdk: false   
+12-26 14:59:38.927 23894 23894 E Bundle  : putString->_prefix:textclassifier/
+12-26 14:59:38.927 23894 23894 E Bundle  : putString->_track_generation:null
+12-26 14:59:38.941 23894 23894 E checkLicense: checkLicense
+12-26 14:59:39.478 23894 23894 E checkLicense sfAuthErrorCode:      true
+12-26 14:59:39.489 23894 23894 E paymentProviderType: {"channelName":"测试","paymentProviderType":"ppt_SF_Test"}
+12-26 14:59:39.707 23894 24020 E loadModel: ---true
+12-26 14:59:39.707 23894 24020 E loadModel: 1    /storage/emulated/0/shifang/ai_dish/model/dish_v5.1.1.rk.sfm
+12-26 14:59:39.855 23894 23906 E Database: close() was never explicitly called on database '/storage/emulated/0/shifang/ai_dish/db/dish/ai_dish' 
+12-26 14:59:39.855 23894 23906 E Database: net.sqlcipher.database.DatabaseObjectNotClosedException: Application did not close the cursor or database object that was opened here
+12-26 14:59:39.855 23894 23906 E Database: 	at net.sqlcipher.database.SQLiteDatabase.<init>(SQLiteDatabase.java:2402)
+12-26 14:59:39.855 23894 23906 E Database: 	at net.sqlcipher.database.SQLiteDatabase.openDatabase(SQLiteDatabase.java:1148)
+12-26 14:59:39.855 23894 23906 E Database: 	at net.sqlcipher.database.SQLiteDatabase.openOrCreateDatabase(SQLiteDatabase.java:1212)
+12-26 14:59:39.855 23894 23906 E Database: 	at net.sqlcipher.database.SQLiteOpenHelper.getWritableDatabase(SQLiteOpenHelper.java:162)
+12-26 14:59:39.855 23894 23906 E Database: 	at net.sqlcipher.database.SQLiteOpenHelper.getWritableDatabase(SQLiteOpenHelper.java:129)
+12-26 14:59:39.855 23894 23906 E Database: 	at org.greenrobot.greendao.database.SqlCipherEncryptedHelper.getEncryptedWritableDb(SqlCipherEncryptedHelper.java:51)
+12-26 14:59:39.855 23894 23906 E Database: 	at org.greenrobot.greendao.database.DatabaseOpenHelper.getEncryptedWritableDb(DatabaseOpenHelper.java:175)
+12-26 14:59:39.855 23894 23906 E Database: 	at com.shifang.ai.dish.dao.AIDbManager.setupDatabase(AIDbManager.java:2)
+12-26 14:59:39.855 23894 23906 E Database: 	at com.shifang.ai.dish.dao.AIDbManager.initDB(AIDbManager.java:1)
+12-26 14:59:39.855 23894 23906 E Database: 	at a.b.a.a.a.a.initSdk(SFDishManagerImpl.java:1)
+12-26 14:59:39.855 23894 23906 E Database: 	at com.shifang.aidish.service.SdkInitService.initAISdk(SdkInitService.java:70)
+12-26 14:59:39.855 23894 23906 E Database: 	at com.shifang.aidish.service.SdkInitService.lambda$onCreate$0$SdkInitService(SdkInitService.java:51)
+12-26 14:59:39.855 23894 23906 E Database: 	at com.shifang.aidish.service.-$$Lambda$SdkInitService$JhcyCeWBVkD-eR_eeOkpahQGzUI.run(Unknown Source:2)
+12-26 14:59:39.855 23894 23906 E Database: 	at java.lang.Thread.run(Thread.java:920)
+12-26 14:59:39.963 23894 24020 E activeFaceSdk: 98310 
+12-26 14:59:39.963 23894 24020 E SdkInitService_initFaceSdk: false   
+12-26 14:59:40.470 23894 23894 E Bundle  : putString->_track_generation:null
+12-26 14:59:40.589 23894 24053 E SyncDataService_onStartCommand: false
+12-26 14:59:40.683 23894 24039 E getNewVersion: null

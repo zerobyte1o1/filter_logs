@@ -1,0 +1,13 @@
+12-25 14:00:32.797  7397  7397 E Tinker.TinkerManager: NOT tinker ApplicationLike object
+12-25 14:00:32.836  7397  7421 E Bundle  : putString->_track_generation:null
+12-25 14:00:32.868  7397  7422 E Bundle  : putString->_track_generation:null
+12-25 14:00:54.911  7397  7397 E Bundle  : putString->_prefix:textclassifier/
+12-25 14:00:54.911  7397  7397 E Bundle  : putString->_track_generation:null
+12-25 14:00:54.914  7397  7397 E checkLicense: checkLicense
+12-25 14:00:55.444  7397  7397 E checkLicense sfAuthErrorCode:      true
+12-25 14:00:55.448  7397  7397 E paymentProviderType: {"channelName":"测试","paymentProviderType":"ppt_SF_Test"}
+12-25 14:00:55.687  7397  7502 E loadModel: ---true
+12-25 14:00:56.580  7397  7502 E loadModel: 1    /storage/emulated/0/shifang/ai_dish/model/dish_v5.1.1.rk.sfm
+12-25 14:00:56.656  7397  7502 E linker  : library "/vendor/lib64/libvpu.so" ("/vendor/lib64/libvpu.so") needed or dlopened by "/data/app/~~-XlBIwetrQVWmXWxjrZxpw==/com.shifang.aidish.offline-6suZ4ikDf9BIVoB_GPUUeA==/lib/arm64/libarcsoft_face.so" is not accessible for the namespace: [name="classloader-namespace", ld_library_paths="", default_library_paths="/data/app/~~-XlBIwetrQVWmXWxjrZxpw==/com.shifang.aidish.offline-6suZ4ikDf9BIVoB_GPUUeA==/lib/arm64:/data/app/~~-XlBIwetrQVWmXWxjrZxpw==/com.shifang.aidish.offline-6suZ4ikDf9BIVoB_GPUUeA==/base.apk!/lib/arm64-v8a", permitted_paths="/data:/mnt/expand:/data/user/0/com.shifang.aidish.offline"]
+12-25 14:00:56.697  7397  7502 E activeFaceSdk: 98310 
+12-25 14:00:56.697  7397  7502 E SdkInitService_initFaceSdk: false   

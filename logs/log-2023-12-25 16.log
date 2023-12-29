@@ -1,0 +1,157 @@
+12-25 16:27:53.334 20021 20021 E Tinker.TinkerManager: NOT tinker ApplicationLike object
+12-25 16:27:53.371 20021 20044 E Bundle  : putString->_track_generation:null
+12-25 16:27:53.403 20021 20044 E Bundle  : putString->_track_generation:null
+12-25 16:28:07.658 20021 20021 E Bundle  : putString->_prefix:textclassifier/
+12-25 16:28:07.659 20021 20021 E Bundle  : putString->_track_generation:null
+12-25 16:28:07.664 20021 20021 E checkLicense: checkLicense
+12-25 16:28:08.193 20021 20021 E checkLicense sfAuthErrorCode:      true
+12-25 16:28:08.197 20021 20021 E paymentProviderType: {"channelName":"测试","paymentProviderType":"ppt_SF_Test"}
+12-25 16:28:08.441 20021 20117 E loadModel: ---true
+12-25 16:28:09.320 20021 20117 E loadModel: 1    /storage/emulated/0/shifang/ai_dish/model/dish_v5.1.1.rk.sfm
+12-25 16:28:09.464 20021 20117 E linker  : library "/vendor/lib64/libvpu.so" ("/vendor/lib64/libvpu.so") needed or dlopened by "/data/app/~~-XlBIwetrQVWmXWxjrZxpw==/com.shifang.aidish.offline-6suZ4ikDf9BIVoB_GPUUeA==/lib/arm64/libarcsoft_face.so" is not accessible for the namespace: [name="classloader-namespace", ld_library_paths="", default_library_paths="/data/app/~~-XlBIwetrQVWmXWxjrZxpw==/com.shifang.aidish.offline-6suZ4ikDf9BIVoB_GPUUeA==/lib/arm64:/data/app/~~-XlBIwetrQVWmXWxjrZxpw==/com.shifang.aidish.offline-6suZ4ikDf9BIVoB_GPUUeA==/base.apk!/lib/arm64-v8a", permitted_paths="/data:/mnt/expand:/data/user/0/com.shifang.aidish.offline"]
+12-25 16:28:09.511 20021 20117 E activeFaceSdk: 98310 
+12-25 16:28:09.511 20021 20117 E SdkInitService_initFaceSdk: false   
+12-25 16:28:47.521 20021 20021 E Bundle  : putString->_track_generation:null
+12-25 16:28:47.601 20021 20021 E SyncDataService_onStartCommand: false
+12-25 16:28:47.603 20021 20021 E PaymentProvider__syncData: 11 
+12-25 16:28:47.639 20021 20187 E registerBgr24: 1 
+12-25 16:28:47.640 20021 20187 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:28:47.641 20021 20187 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 16:28:47.683 20021 20187 E registerBgr24: 2 
+12-25 16:28:47.683 20021 20187 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:28:47.683 20021 20187 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 16:28:47.699 20021 20187 E registerBgr24: 3 
+12-25 16:28:47.699 20021 20187 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:28:47.699 20021 20187 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 16:28:47.712 20021 20176 E getNewVersion: null
+12-25 16:28:47.713 20021 20187 E registerBgr24: 4 
+12-25 16:28:47.713 20021 20187 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:28:47.713 20021 20187 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 16:28:47.738 20021 20187 E registerBgr24: 5 
+12-25 16:28:47.738 20021 20187 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:28:47.738 20021 20187 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 16:29:24.065 20021 20021 E Bundle  : putString->args_tag:null
+12-25 16:29:24.065 20021 20021 E Bundle  : putString->args_tag:null
+12-25 16:29:24.065 20021 20021 E Bundle  : putString->args_tag:null
+12-25 16:29:24.066 20021 20021 E Bundle  : putString->args_tag:null
+12-25 16:29:24.083 20021 20021 E language: ch
+12-25 16:29:24.154 20021 20021 E TradeOrderPresenter__doSearchTradeOrder  srcUserName:  
+12-25 16:29:24.154 20021 20021 E getTradeOrders:       2023-12-25 00:00:00 2023-12-25 16:32:59
+12-25 16:29:24.155 20021 20021 E findTraderOrders: 0   7
+12-25 16:29:24.156 20021 20021 E doSearchTradeOrder: 0  7  
+12-25 16:29:24.176 20021 20246 E ts_scan_state_fun: 1 
+12-25 16:29:24.262 20021 20251 E ywl5320 : fbo success
+12-25 16:29:24.262 20021 20251 E mali_so : encounter the first gles_error : 0x0001; gles_state_error_info : <param> is not an accepted value (gles_texturep_tex_parameteri_input_param_validation at hardware/arm/maliT760/driver/product/gles/src/texture/mali_gles_texture_helpers.c:1095)
+12-25 16:29:26.780 20021 20276 E innerRecognize: recognizeByFilter8
+12-25 16:29:26.780 20021 20276 E recognize: 1625ms   /storage/emulated/0/shifang/ai_dish/image/20231225/df9d8db6-e524-44e1-972d-8cf1a76924f4.jpg  
+12-25 16:29:26.897 20021 20021 E resultDishCount: 8 个菜品
+12-25 16:29:47.762 20021 20187 E registerBgr24: 1 
+12-25 16:29:47.762 20021 20187 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:29:47.762 20021 20187 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 16:29:47.794 20021 20187 E registerBgr24: 2 
+12-25 16:29:47.794 20021 20187 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:29:47.794 20021 20187 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 16:29:47.807 20021 20187 E registerBgr24: 3 
+12-25 16:29:47.807 20021 20187 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:29:47.807 20021 20187 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 16:29:47.821 20021 20187 E registerBgr24: 4 
+12-25 16:29:47.821 20021 20187 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:29:47.821 20021 20187 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 16:29:47.844 20021 20187 E registerBgr24: 5 
+12-25 16:29:47.845 20021 20187 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:29:47.845 20021 20187 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 16:30:15.094 20021 20021 E surfaceDestroyed: ------
+12-25 16:30:15.094 20021 20021 E surfaceDestroyed: ------
+12-25 16:30:15.099 20021 20253 E BufferQueueProducer: [SurfaceView[]#5(BLAST Consumer)5](id:4e3500000006,api:0,p:-1,c:20021) dequeueBuffer: BufferQueue has no connected producer
+12-25 16:30:15.099 20021 20253 E mali_so : encounter the first mali_error : 0x0002 : failed to allocate CPU memory (gles_fb_first_operation_cb at hardware/arm/maliT760/driver/product/gles/src/fb/mali_gles_fb_module_api.c:987)
+12-25 16:30:15.099 20021 20253 E BufferQueueProducer: [SurfaceView[]#5(BLAST Consumer)5](id:4e3500000006,api:0,p:-1,c:20021) dequeueBuffer: BufferQueue has no connected producer
+12-25 16:30:15.099 20021 20251 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.DetectCalcActivity]#4(BLAST Consumer)4](id:4e3500000004,api:0,p:-1,c:20021) dequeueBuffer: BufferQueue has no connected producer
+12-25 16:30:15.099 20021 20251 E mali_so : encounter the first mali_error : 0x0002 : failed to allocate CPU memory (gles_fb_first_operation_cb at hardware/arm/maliT760/driver/product/gles/src/fb/mali_gles_fb_module_api.c:987)
+12-25 16:30:15.104 20021 20251 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.DetectCalcActivity]#4(BLAST Consumer)4](id:4e3500000004,api:0,p:-1,c:20021) dequeueBuffer: BufferQueue has no connected producer
+12-25 16:30:15.107 20021 20253 E BufferQueueProducer: [SurfaceView[]#5(BLAST Consumer)5](id:4e3500000006,api:0,p:-1,c:20021) disconnect: not connected (req=1)
+12-25 16:30:15.149 20021 20021 E TradeOrderPresenter__doSearchTradeOrder  srcUserName:  
+12-25 16:30:15.149 20021 20021 E getTradeOrders:       2023-12-25 00:00:00 2023-12-25 16:33:59
+12-25 16:30:15.151 20021 20021 E findTraderOrders: 0   7
+12-25 16:30:15.152 20021 20021 E doSearchTradeOrder: 0  7  
+12-25 16:30:15.178 20021 20494 E ywl5320 : fbo success
+12-25 16:30:15.178 20021 20494 E mali_so : encounter the first gles_error : 0x0001; gles_state_error_info : <param> is not an accepted value (gles_texturep_tex_parameteri_input_param_validation at hardware/arm/maliT760/driver/product/gles/src/texture/mali_gles_texture_helpers.c:1095)
+12-25 16:30:15.211 20021 20252 E Camera1 : setPreviewTexture failed
+12-25 16:30:15.213 20021 20252 E Camera  : Error 2
+12-25 16:30:17.063 20021 20509 E innerRecognize: recognizeByFilter8
+12-25 16:30:17.063 20021 20509 E recognize: 828ms   /storage/emulated/0/shifang/ai_dish/image/20231225/789b0e75-e5cc-4335-8b08-514798e3298f.jpg  
+12-25 16:30:17.160 20021 20021 E resultDishCount: 8 个菜品
+12-25 16:30:47.869 20021 20187 E registerBgr24: 1 
+12-25 16:30:47.869 20021 20187 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:30:47.869 20021 20187 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 16:30:47.900 20021 20187 E registerBgr24: 2 
+12-25 16:30:47.900 20021 20187 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:30:47.900 20021 20187 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 16:30:47.914 20021 20187 E registerBgr24: 3 
+12-25 16:30:47.914 20021 20187 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:30:47.914 20021 20187 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 16:30:47.928 20021 20187 E registerBgr24: 4 
+12-25 16:30:47.928 20021 20187 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:30:47.928 20021 20187 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 16:30:47.951 20021 20187 E registerBgr24: 5 
+12-25 16:30:47.951 20021 20187 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:30:47.951 20021 20187 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 16:31:47.987 20021 20187 E registerBgr24: 1 
+12-25 16:31:47.987 20021 20187 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:31:47.987 20021 20187 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 16:31:48.020 20021 20187 E registerBgr24: 2 
+12-25 16:31:48.020 20021 20187 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:31:48.020 20021 20187 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 16:31:48.033 20021 20187 E registerBgr24: 3 
+12-25 16:31:48.033 20021 20187 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:31:48.033 20021 20187 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 16:31:48.046 20021 20187 E registerBgr24: 4 
+12-25 16:31:48.046 20021 20187 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:31:48.046 20021 20187 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 16:31:48.069 20021 20187 E registerBgr24: 5 
+12-25 16:31:48.069 20021 20187 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:31:48.069 20021 20187 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 16:32:48.096 20021 20187 E registerBgr24: 1 
+12-25 16:32:48.096 20021 20187 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:32:48.096 20021 20187 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 16:32:48.128 20021 20187 E registerBgr24: 2 
+12-25 16:32:48.128 20021 20187 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:32:48.128 20021 20187 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 16:32:48.141 20021 20187 E registerBgr24: 3 
+12-25 16:32:48.141 20021 20187 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:32:48.141 20021 20187 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 16:32:48.155 20021 20187 E registerBgr24: 4 
+12-25 16:32:48.155 20021 20187 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:32:48.155 20021 20187 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 16:32:48.182 20021 20187 E registerBgr24: 5 
+12-25 16:32:48.182 20021 20187 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:32:48.182 20021 20187 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 16:32:53.440 20021 20021 E surfaceDestroyed: ------
+12-25 16:32:53.441 20021 20021 E surfaceDestroyed: ------
+12-25 16:32:53.445 20021 20496 E BufferQueueProducer: [SurfaceView[]#7(BLAST Consumer)7](id:4e3500000009,api:0,p:-1,c:20021) dequeueBuffer: BufferQueue has no connected producer
+12-25 16:32:53.445 20021 20496 E mali_so : encounter the first mali_error : 0x0002 : failed to allocate CPU memory (gles_fb_first_operation_cb at hardware/arm/maliT760/driver/product/gles/src/fb/mali_gles_fb_module_api.c:987)
+12-25 16:32:53.445 20021 20496 E BufferQueueProducer: [SurfaceView[]#7(BLAST Consumer)7](id:4e3500000009,api:0,p:-1,c:20021) dequeueBuffer: BufferQueue has no connected producer
+12-25 16:32:53.446 20021 20494 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.DetectCalcActivity]#6(BLAST Consumer)6](id:4e3500000007,api:0,p:-1,c:20021) dequeueBuffer: BufferQueue has no connected producer
+12-25 16:32:53.446 20021 20494 E mali_so : encounter the first mali_error : 0x0002 : failed to allocate CPU memory (gles_fb_first_operation_cb at hardware/arm/maliT760/driver/product/gles/src/fb/mali_gles_fb_module_api.c:987)
+12-25 16:32:53.447 20021 20494 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.DetectCalcActivity]#6(BLAST Consumer)6](id:4e3500000007,api:0,p:-1,c:20021) dequeueBuffer: BufferQueue has no connected producer
+12-25 16:32:53.447 20021 20496 E BufferQueueProducer: [SurfaceView[]#7(BLAST Consumer)7](id:4e3500000009,api:0,p:-1,c:20021) disconnect: not connected (req=1)
+12-25 16:32:53.448 20021 20494 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.DetectCalcActivity]#6(BLAST Consumer)6](id:4e3500000007,api:0,p:-1,c:20021) disconnect: not connected (req=1)
+12-25 16:32:53.495 20021 20021 E TradeOrderPresenter__doSearchTradeOrder  srcUserName:  
+12-25 16:32:53.495 20021 20021 E getTradeOrders:       2023-12-25 00:00:00 2023-12-25 16:35:59
+12-25 16:32:53.497 20021 20021 E findTraderOrders: 0   7
+12-25 16:32:53.498 20021 20021 E doSearchTradeOrder: 0  7  
+12-25 16:32:53.523 20021 20834 E ywl5320 : fbo success
+12-25 16:32:53.523 20021 20834 E mali_so : encounter the first gles_error : 0x0001; gles_state_error_info : <param> is not an accepted value (gles_texturep_tex_parameteri_input_param_validation at hardware/arm/maliT760/driver/product/gles/src/texture/mali_gles_texture_helpers.c:1095)
+12-25 16:32:55.433 20021 20857 E innerRecognize: recognizeByFilter8
+12-25 16:32:55.433 20021 20857 E recognize: 914ms   /storage/emulated/0/shifang/ai_dish/image/20231225/141d7e0a-b03f-4262-9ce5-3ca3c81c52a4.jpg  
+12-25 16:32:55.555 20021 20021 E resultDishCount: 8 个菜品
+12-25 16:33:22.209 20021 20021 E surfaceDestroyed: ------
+12-25 16:33:22.210 20021 20021 E surfaceDestroyed: ------
+12-25 16:33:22.211 20021 20836 E BufferQueueProducer: [SurfaceView[]#9(BLAST Consumer)9](id:4e350000000c,api:0,p:-1,c:20021) dequeueBuffer: BufferQueue has no connected producer
+12-25 16:33:22.211 20021 20836 E mali_so : encounter the first mali_error : 0x0002 : failed to allocate CPU memory (gles_fb_first_operation_cb at hardware/arm/maliT760/driver/product/gles/src/fb/mali_gles_fb_module_api.c:987)
+12-25 16:33:22.212 20021 20836 E BufferQueueProducer: [SurfaceView[]#9(BLAST Consumer)9](id:4e350000000c,api:0,p:-1,c:20021) dequeueBuffer: BufferQueue has no connected producer
+12-25 16:33:22.212 20021 20836 E BufferQueueProducer: [SurfaceView[]#9(BLAST Consumer)9](id:4e350000000c,api:0,p:-1,c:20021) disconnect: not connected (req=1)
+12-25 16:33:22.214 20021 20834 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.DetectCalcActivity]#8(BLAST Consumer)8](id:4e350000000a,api:0,p:-1,c:20021) dequeueBuffer: BufferQueue has no connected producer
+12-25 16:33:22.214 20021 20834 E mali_so : encounter the first mali_error : 0x0002 : failed to allocate CPU memory (gles_fb_first_operation_cb at hardware/arm/maliT760/driver/product/gles/src/fb/mali_gles_fb_module_api.c:987)
+12-25 16:33:22.215 20021 20834 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.DetectCalcActivity]#8(BLAST Consumer)8](id:4e350000000a,api:0,p:-1,c:20021) dequeueBuffer: BufferQueue has no connected producer
+12-25 16:33:22.219 20021 20834 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.DetectCalcActivity]#8(BLAST Consumer)8](id:4e350000000a,api:0,p:-1,c:20021) disconnect: not connected (req=1)
+12-25 16:33:22.376 20021 20899 E getNewVersion: null

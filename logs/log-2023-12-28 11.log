@@ -1,0 +1,54 @@
+12-28 11:26:53.525 16468 16468 E Tinker.TinkerManager: NOT tinker ApplicationLike object
+12-28 11:26:53.628 16468 16499 E Bundle  : putString->_track_generation:null
+12-28 11:26:53.674 16468 16519 E Bundle  : putString->_track_generation:null
+12-28 11:27:11.438 16468 16468 E Bundle  : putString->_prefix:textclassifier/
+12-28 11:27:11.438 16468 16468 E Bundle  : putString->_track_generation:null
+12-28 11:27:11.451 16468 16468 E checkLicense: checkLicense
+12-28 11:27:11.986 16468 16468 E checkLicense sfAuthErrorCode:      true
+12-28 11:27:11.996 16468 16468 E paymentProviderType: {"channelName":"雄伟","paymentProviderType":"ppt_Sovell_Web_2"}
+12-28 11:27:12.324 16468 16569 E AI_SDK__loadModel: start-----------------------------------------------
+12-28 11:27:13.206 16468 16569 E AI_SDK__loadModel: 1    /storage/emulated/0/shifang/ai_dish/model/dish_v5.1.1.rk.sfm
+12-28 11:27:13.207 16468 16569 E AI_SDK__loadFeature: start_loadFeature
+12-28 11:27:13.271 16468 16569 E AI_SDK__loadFeature: 65 ms
+12-28 11:27:13.276 16468 16569 E linker  : library "/vendor/lib64/libvpu.so" ("/vendor/lib64/libvpu.so") needed or dlopened by "/data/app/~~unplKVUzyhXbRK0sL9zfeQ==/com.shifang.aidish.offline-eaU-3Pud8hukWBfFuj_Atw==/lib/arm64/libarcsoft_face.so" is not accessible for the namespace: [name="classloader-namespace", ld_library_paths="", default_library_paths="/data/app/~~unplKVUzyhXbRK0sL9zfeQ==/com.shifang.aidish.offline-eaU-3Pud8hukWBfFuj_Atw==/lib/arm64:/data/app/~~unplKVUzyhXbRK0sL9zfeQ==/com.shifang.aidish.offline-eaU-3Pud8hukWBfFuj_Atw==/base.apk!/lib/arm64-v8a", permitted_paths="/data:/mnt/expand:/data/user/0/com.shifang.aidish.offline"]
+12-28 11:27:13.355 16468 16569 E activeFaceSdk: 98310 
+12-28 11:27:13.355 16468 16569 E SdkInitService_initFaceSdk: false   
+12-28 11:27:13.430 16468 16468 E Bundle  : putString->_track_generation:null
+12-28 11:27:13.567 16468 16596 E SyncDataService_onStartCommand: false
+12-28 11:27:13.570 16468 16596 E PaymentProvider__syncData: 4 
+12-28 11:27:13.571 16468 16610 E updateFaceData: 0  
+12-28 11:27:13.690 16468 16592 E getNewVersion: null
+12-28 11:27:14.695 16468 16468 E Bundle  : putString->args_tag:null
+12-28 11:27:14.695 16468 16468 E Bundle  : putString->args_tag:null
+12-28 11:27:14.695 16468 16468 E Bundle  : putString->args_tag:null
+12-28 11:27:14.696 16468 16468 E Bundle  : putString->args_tag:null
+12-28 11:27:14.751 16468 16468 E language: ch
+12-28 11:27:14.958 16468 16468 E TradeOrderPresenter__doSearchTradeOrder  srcUserName:  
+12-28 11:27:14.958 16468 16468 E getTradeOrders:       2023-12-28 00:00:00 2023-12-28 11:30:59
+12-28 11:27:14.961 16468 16468 E findTraderOrders: 2   3
+12-28 11:27:14.962 16468 16468 E doSearchTradeOrder: 2  3  
+12-28 11:27:14.968 16468 16468 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-28 11:27:15.009 16468 16635 E ts_scan_state_fun: 1 
+12-28 11:27:15.231 16468 16639 E ywl5320 : fbo success
+12-28 11:27:15.231 16468 16639 E mali_so : encounter the first gles_error : 0x0001; gles_state_error_info : <param> is not an accepted value (gles_texturep_tex_parameteri_input_param_validation at hardware/arm/maliT760/driver/product/gles/src/texture/mali_gles_texture_helpers.c:1095)
+12-28 11:27:15.964 16468 16468 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-28 11:27:16.931 16468 16468 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-28 11:27:17.728 16468 16661 E AI_SDK__innerRecognize: recognizeByFilter7
+12-28 11:27:17.728 16468 16661 E recognize: 1503ms   /storage/emulated/0/shifang/ai_dish/image/20231228/bac277ab-caf7-4ce4-b316-19b81e1d6f12.jpg  
+12-28 11:27:17.814 16468 16468 E resultDishCount: 7 个菜品
+12-28 11:27:18.880 16468 16664 E AI_SDK__innerRecognize: recognizeByFilter7
+12-28 11:27:18.880 16468 16664 E recognize: 1069ms   /storage/emulated/0/shifang/ai_dish/image/20231228/29ede9d9-7653-494b-b050-46f5eaa504fc.jpg  
+12-28 11:27:18.921 16468 16468 E resultDishCount: 7 个菜品
+12-28 11:30:21.783 16468 16468 E surfaceDestroyed: ------
+12-28 11:30:21.784 16468 16468 E surfaceDestroyed: ------
+12-28 11:30:21.795 16468 16641 E BufferQueueProducer: [SurfaceView[]#5(BLAST Consumer)5](id:405400000006,api:0,p:-1,c:16468) dequeueBuffer: BufferQueue has no connected producer
+12-28 11:30:21.795 16468 16641 E mali_so : encounter the first mali_error : 0x0002 : failed to allocate CPU memory (gles_fb_first_operation_cb at hardware/arm/maliT760/driver/product/gles/src/fb/mali_gles_fb_module_api.c:987)
+12-28 11:30:21.795 16468 16641 E BufferQueueProducer: [SurfaceView[]#5(BLAST Consumer)5](id:405400000006,api:0,p:-1,c:16468) dequeueBuffer: BufferQueue has no connected producer
+12-28 11:30:21.796 16468 16641 E BufferQueueProducer: [SurfaceView[]#5(BLAST Consumer)5](id:405400000006,api:0,p:-1,c:16468) disconnect: not connected (req=1)
+12-28 11:30:21.798 16468 16639 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.DetectCalcActivity]#4(BLAST Consumer)4](id:405400000004,api:0,p:-1,c:16468) dequeueBuffer: BufferQueue has no connected producer
+12-28 11:30:21.798 16468 16639 E mali_so : encounter the first mali_error : 0x0002 : failed to allocate CPU memory (gles_fb_first_operation_cb at hardware/arm/maliT760/driver/product/gles/src/fb/mali_gles_fb_module_api.c:987)
+12-28 11:30:21.800 16468 16639 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.DetectCalcActivity]#4(BLAST Consumer)4](id:405400000004,api:0,p:-1,c:16468) dequeueBuffer: BufferQueue has no connected producer
+12-28 11:30:21.802 16468 16639 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.DetectCalcActivity]#4(BLAST Consumer)4](id:405400000004,api:0,p:-1,c:16468) disconnect: not connected (req=1)
+12-28 11:30:21.851 16468 16468 E .aidish.offlin: Invalid ID 0x00000a03.
+12-28 11:32:13.695 16468 16610 E updateFaceData: 0  
+12-28 11:37:13.747 16468 16610 E updateFaceData: 0  

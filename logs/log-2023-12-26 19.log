@@ -1,0 +1,117 @@
+12-26 19:48:28.929 24190 24190 E Tinker.TinkerManager: NOT tinker ApplicationLike object
+12-26 19:48:29.028 24190 24221 E Bundle  : putString->_track_generation:null
+12-26 19:48:29.094 24190 24222 E Bundle  : putString->_track_generation:null
+12-26 19:48:29.349 24190 24240 E loadModel: ---true
+12-26 19:48:30.256 24190 24240 E loadModel: 1    /storage/emulated/0/shifang/ai_dish/model/dish_v5.1.1.rk.sfm
+12-26 19:48:30.270 24190 24240 E linker  : library "/vendor/lib64/libvpu.so" ("/vendor/lib64/libvpu.so") needed or dlopened by "/data/app/~~yw0SHc6wyqxW-Ab8dJ1TUg==/com.shifang.aidish.offline-ms9WJMmDuF9gAFk-LUJe3g==/lib/arm64/libarcsoft_face.so" is not accessible for the namespace: [name="classloader-namespace", ld_library_paths="", default_library_paths="/data/app/~~yw0SHc6wyqxW-Ab8dJ1TUg==/com.shifang.aidish.offline-ms9WJMmDuF9gAFk-LUJe3g==/lib/arm64:/data/app/~~yw0SHc6wyqxW-Ab8dJ1TUg==/com.shifang.aidish.offline-ms9WJMmDuF9gAFk-LUJe3g==/base.apk!/lib/arm64-v8a", permitted_paths="/data:/mnt/expand:/data/user/0/com.shifang.aidish.offline"]
+12-26 19:48:30.349 24190 24240 E activeFaceSdk: 98310 
+12-26 19:48:30.349 24190 24240 E SdkInitService_initFaceSdk: false   
+12-26 19:48:54.265 24190 24190 E Bundle  : putString->_prefix:textclassifier/
+12-26 19:48:54.265 24190 24190 E Bundle  : putString->_track_generation:null
+12-26 19:48:54.278 24190 24190 E checkLicense: checkLicense
+12-26 19:48:54.810 24190 24190 E checkLicense sfAuthErrorCode:      true
+12-26 19:48:54.821 24190 24190 E paymentProviderType: {"channelName":"测试","paymentProviderType":"ppt_SF_Test"}
+12-26 19:48:55.040 24190 24316 E loadModel: ---true
+12-26 19:48:55.040 24190 24316 E loadModel: 1    /storage/emulated/0/shifang/ai_dish/model/dish_v5.1.1.rk.sfm
+12-26 19:48:55.100 24190 24316 E activeFaceSdk: 98310 
+12-26 19:48:55.100 24190 24316 E SdkInitService_initFaceSdk: false   
+12-26 19:48:55.338 24190 24201 E Database: close() was never explicitly called on database '/storage/emulated/0/shifang/ai_dish/db/dish/ai_dish' 
+12-26 19:48:55.338 24190 24201 E Database: net.sqlcipher.database.DatabaseObjectNotClosedException: Application did not close the cursor or database object that was opened here
+12-26 19:48:55.338 24190 24201 E Database: 	at net.sqlcipher.database.SQLiteDatabase.<init>(SQLiteDatabase.java:2402)
+12-26 19:48:55.338 24190 24201 E Database: 	at net.sqlcipher.database.SQLiteDatabase.openDatabase(SQLiteDatabase.java:1148)
+12-26 19:48:55.338 24190 24201 E Database: 	at net.sqlcipher.database.SQLiteDatabase.openOrCreateDatabase(SQLiteDatabase.java:1212)
+12-26 19:48:55.338 24190 24201 E Database: 	at net.sqlcipher.database.SQLiteOpenHelper.getWritableDatabase(SQLiteOpenHelper.java:162)
+12-26 19:48:55.338 24190 24201 E Database: 	at net.sqlcipher.database.SQLiteOpenHelper.getWritableDatabase(SQLiteOpenHelper.java:129)
+12-26 19:48:55.338 24190 24201 E Database: 	at org.greenrobot.greendao.database.SqlCipherEncryptedHelper.getEncryptedWritableDb(SqlCipherEncryptedHelper.java:51)
+12-26 19:48:55.338 24190 24201 E Database: 	at org.greenrobot.greendao.database.DatabaseOpenHelper.getEncryptedWritableDb(DatabaseOpenHelper.java:175)
+12-26 19:48:55.338 24190 24201 E Database: 	at com.shifang.ai.dish.dao.AIDbManager.setupDatabase(AIDbManager.java:2)
+12-26 19:48:55.338 24190 24201 E Database: 	at com.shifang.ai.dish.dao.AIDbManager.initDB(AIDbManager.java:1)
+12-26 19:48:55.338 24190 24201 E Database: 	at a.b.a.a.a.a.initSdk(SFDishManagerImpl.java:1)
+12-26 19:48:55.338 24190 24201 E Database: 	at com.shifang.aidish.service.SdkInitService.initAISdk(SdkInitService.java:70)
+12-26 19:48:55.338 24190 24201 E Database: 	at com.shifang.aidish.service.SdkInitService.lambda$onCreate$0$SdkInitService(SdkInitService.java:51)
+12-26 19:48:55.338 24190 24201 E Database: 	at com.shifang.aidish.service.-$$Lambda$SdkInitService$JhcyCeWBVkD-eR_eeOkpahQGzUI.run(Unknown Source:2)
+12-26 19:48:55.338 24190 24201 E Database: 	at java.lang.Thread.run(Thread.java:920)
+12-26 19:48:55.677 24190 24190 E Bundle  : putString->_track_generation:null
+12-26 19:48:55.825 24190 24338 E SyncDataService_onStartCommand: false
+12-26 19:48:55.829 24190 24338 E PaymentProvider__syncData: 11 
+12-26 19:48:55.835 24190 24349 E syncSubImage: 7 
+12-26 19:48:55.904 24190 24334 E getNewVersion: null
+12-26 19:48:56.558 24190 24190 E Bundle  : putString->args_tag:null
+12-26 19:48:56.558 24190 24190 E Bundle  : putString->args_tag:null
+12-26 19:48:56.558 24190 24190 E Bundle  : putString->args_tag:null
+12-26 19:48:56.559 24190 24190 E Bundle  : putString->args_tag:null
+12-26 19:48:56.606 24190 24190 E language: ch
+12-26 19:48:56.777 24190 24190 E TradeOrderPresenter__doSearchTradeOrder  srcUserName:  
+12-26 19:48:56.777 24190 24190 E getTradeOrders:       2023-12-26 00:00:00 2023-12-26 19:51:59
+12-26 19:48:56.785 24190 24190 E findTraderOrders: 5   5
+12-26 19:48:56.787 24190 24190 E doSearchTradeOrder: 5  5  
+12-26 19:48:56.792 24190 24190 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-26 19:48:57.011 24190 24372 E ywl5320 : fbo success
+12-26 19:48:57.011 24190 24372 E mali_so : encounter the first gles_error : 0x0001; gles_state_error_info : <param> is not an accepted value (gles_texturep_tex_parameteri_input_param_validation at hardware/arm/maliT760/driver/product/gles/src/texture/mali_gles_texture_helpers.c:1095)
+12-26 19:48:58.511 24190 24190 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-26 19:49:02.116 24190 24190 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-26 19:49:02.319 24190 24396 E innerRecognize: recognizeByFilter0
+12-26 19:49:02.319 24190 24396 E recognize: 207ms   /storage/emulated/0/shifang/ai_dish/image/20231226/8f5d4ed2-c3a6-4816-86a4-0366f944b8b5.jpg  
+12-26 19:49:02.442 24190 24190 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-26 19:49:02.792 24190 24403 E innerRecognize: recognizeByFilter1
+12-26 19:49:02.792 24190 24403 E recognize: 303ms   /storage/emulated/0/shifang/ai_dish/image/20231226/a3a6f5b2-e907-49fa-9153-bc288666e782.jpg  
+12-26 19:49:02.853 24190 24190 E resultDishCount: 1 个菜品
+12-26 19:49:03.115 24190 24404 E innerRecognize: recognizeByFilter1
+12-26 19:49:03.115 24190 24404 E recognize: 270ms   /storage/emulated/0/shifang/ai_dish/image/20231226/0dbb6079-155f-4640-9776-b69f571ccb30.jpg  
+12-26 19:49:03.157 24190 24190 E resultDishCount: 1 个菜品
+12-26 19:49:03.167 24190 24190 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-26 19:49:03.491 24190 24409 E innerRecognize: recognizeByFilter1
+12-26 19:49:03.491 24190 24409 E recognize: 298ms   /storage/emulated/0/shifang/ai_dish/image/20231226/bc93f3c8-d754-43a3-917a-3403299b767f.jpg  
+12-26 19:49:03.543 24190 24190 E resultDishCount: 1 个菜品
+12-26 19:49:03.947 24190 24190 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-26 19:49:04.268 24190 24413 E innerRecognize: recognizeByFilter1
+12-26 19:49:04.268 24190 24413 E recognize: 291ms   /storage/emulated/0/shifang/ai_dish/image/20231226/ee9ddc35-0fe8-4d87-8875-f8de19e5c81f.jpg  
+12-26 19:49:04.311 24190 24190 E resultDishCount: 1 个菜品
+12-26 19:49:04.688 24190 24190 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-26 19:49:05.003 24190 24418 E innerRecognize: recognizeByFilter1
+12-26 19:49:05.003 24190 24418 E recognize: 271ms   /storage/emulated/0/shifang/ai_dish/image/20231226/13e8d483-f1b2-43c5-a188-bc218395ce76.jpg  
+12-26 19:49:05.042 24190 24190 E resultDishCount: 1 个菜品
+12-26 19:49:05.936 24190 24190 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-26 19:49:06.315 24190 24422 E innerRecognize: recognizeByFilter1
+12-26 19:49:06.315 24190 24422 E recognize: 314ms   /storage/emulated/0/shifang/ai_dish/image/20231226/1adfd4f9-560b-44bb-8dbe-57aedd450afa.jpg  
+12-26 19:49:06.369 24190 24190 E resultDishCount: 1 个菜品
+12-26 19:49:07.125 24190 24369 E ts_scan_state_fun: 1 
+12-26 19:49:12.502 24190 24190 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-26 19:49:13.337 24190 24435 E innerRecognize: recognizeByFilter1
+12-26 19:49:13.338 24190 24435 E recognize: 282ms   /storage/emulated/0/shifang/ai_dish/image/20231226/e2ad8158-631b-4fa4-9dfa-7c7bd1e47dc3.jpg  
+12-26 19:49:13.380 24190 24190 E resultDishCount: 1 个菜品
+12-26 19:49:17.612 24190 24190 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-26 19:49:18.439 24190 24444 E innerRecognize: recognizeByFilter1
+12-26 19:49:18.439 24190 24444 E recognize: 284ms   /storage/emulated/0/shifang/ai_dish/image/20231226/f8f6da1b-b5fb-4539-8129-afb6b9ec7b5b.jpg  
+12-26 19:49:18.468 24190 24190 E resultDishCount: 1 个菜品
+12-26 19:49:56.020 24190 24349 E syncSubImage: 9 
+12-26 19:50:56.291 24190 24349 E syncSubImage: 0 
+12-26 19:51:56.313 24190 24349 E syncSubImage: 0 
+12-26 19:52:56.340 24190 24349 E syncSubImage: 0 
+12-26 19:53:56.354 24190 24349 E syncSubImage: 0 
+12-26 19:54:56.383 24190 24349 E syncSubImage: 0 
+12-26 19:55:56.415 24190 24349 E syncSubImage: 0 
+12-26 19:56:56.430 24190 24349 E syncSubImage: 0 
+12-26 19:57:56.446 24190 24349 E syncSubImage: 0 
+12-26 19:58:56.463 24190 24349 E syncSubImage: 0 
+12-26 19:59:56.476 24190 24349 E syncSubImage: 0 
+12-26 20:00:56.502 24190 24349 E syncSubImage: 0 
+12-26 20:01:56.536 24190 24349 E syncSubImage: 0 
+12-26 20:02:56.566 24190 24349 E syncSubImage: 0 
+12-26 20:03:56.585 24190 24349 E syncSubImage: 0 
+12-26 20:04:56.600 24190 24349 E syncSubImage: 0 
+12-26 20:05:56.623 24190 24349 E syncSubImage: 0 
+12-26 20:06:56.659 24190 24349 E syncSubImage: 0 
+12-26 20:07:56.682 24190 24349 E syncSubImage: 0 
+12-26 20:08:56.701 24190 24349 E syncSubImage: 0 
+12-26 20:09:03.528 24190 24190 E surfaceDestroyed: ------
+12-26 20:09:03.533 24190 24190 E surfaceDestroyed: ------
+12-26 20:09:03.533 24190 24190 E Surface : freeAllBuffers: 1 buffers were freed while being dequeued!
+12-26 20:09:03.533 24190 24374 E Surface : getSlotFromBufferLocked: unknown buffer: 0x708041a3f0
+12-26 20:09:03.536 24190 24372 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.DetectCalcActivity]#4(BLAST Consumer)4](id:5e7e00000004,api:0,p:-1,c:24190) dequeueBuffer: BufferQueue has no connected producer
+12-26 20:09:03.536 24190 24372 E mali_so : encounter the first mali_error : 0x0002 : failed to allocate CPU memory (gles_fb_first_operation_cb at hardware/arm/maliT760/driver/product/gles/src/fb/mali_gles_fb_module_api.c:987)
+12-26 20:09:03.536 24190 24372 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.DetectCalcActivity]#4(BLAST Consumer)4](id:5e7e00000004,api:0,p:-1,c:24190) dequeueBuffer: BufferQueue has no connected producer
+12-26 20:09:03.542 24190 24374 E Surface : freeAllBuffers: 1 buffers were freed while being dequeued!
+12-26 20:09:03.542 24190 24374 E BufferQueueProducer: [SurfaceView[]#5(BLAST Consumer)5](id:5e7e00000006,api:0,p:-1,c:24190) disconnect: not connected (req=1)
+12-26 20:09:03.543 24190 24372 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.DetectCalcActivity]#4(BLAST Consumer)4](id:5e7e00000004,api:0,p:-1,c:24190) disconnect: not connected (req=1)
+12-26 20:09:03.695 24190 25683 E getNewVersion: null

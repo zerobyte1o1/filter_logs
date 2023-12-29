@@ -1,0 +1,30 @@
+12-26 13:59:37.818  3920  3920 E Tinker.TinkerManager: NOT tinker ApplicationLike object
+12-26 13:59:37.905  3920  3953 E Bundle  : putString->_track_generation:null
+12-26 13:59:38.000  3920  3953 E Bundle  : putString->_track_generation:null
+12-26 13:59:39.178  3920  3920 E Bundle  : putString->_prefix:textclassifier/
+12-26 13:59:39.178  3920  3920 E Bundle  : putString->_track_generation:null
+12-26 13:59:39.191  3920  3920 E checkLicense: checkLicense
+12-26 13:59:39.730  3920  3920 E checkLicense sfAuthErrorCode:      true
+12-26 13:59:42.110  3920  3920 E audit   : rate limit exceeded
+12-26 13:59:39.742  3920  3920 E paymentProviderType: {"channelName":"测试","paymentProviderType":"ppt_SF_Test"}
+12-26 13:59:40.084  3920  4004 E loadModel: ---true
+12-26 13:59:40.953  3920  4004 E loadModel: 1    /storage/emulated/0/shifang/ai_dish/model/dish_v5.1.1.rk.sfm
+12-26 13:59:41.142  3920  4004 E linker  : library "/vendor/lib64/libvpu.so" ("/vendor/lib64/libvpu.so") needed or dlopened by "/data/app/~~e7vTujSWzLyGHfIfLsVrgg==/com.shifang.aidish.offline-ugA_phFS4KjKasLyg5Kdcg==/lib/arm64/libarcsoft_face.so" is not accessible for the namespace: [name="classloader-namespace", ld_library_paths="", default_library_paths="/data/app/~~e7vTujSWzLyGHfIfLsVrgg==/com.shifang.aidish.offline-ugA_phFS4KjKasLyg5Kdcg==/lib/arm64:/data/app/~~e7vTujSWzLyGHfIfLsVrgg==/com.shifang.aidish.offline-ugA_phFS4KjKasLyg5Kdcg==/base.apk!/lib/arm64-v8a", permitted_paths="/data:/mnt/expand:/data/user/0/com.shifang.aidish.offline"]
+12-26 13:59:41.190  3920  4004 E activeFaceSdk: 98310 
+12-26 13:59:41.190  3920  4004 E SdkInitService_initFaceSdk: false   
+12-26 13:59:41.656  3920  3920 E Bundle  : putString->_track_generation:null
+12-26 13:59:41.729  3920  3920 E deviceInfo: TOT2D PRODUCT USB UART  44953  32771
+12-26 13:59:41.729  3920  3920 E deviceInfo: RGB Camera  3034  1393
+12-26 13:59:41.729  3920  3920 E deviceInfo: ILITEK-TP  8746  1
+12-26 13:59:41.729  3920  3920 E deviceInfo: ILITEK-TP  8746  1
+12-26 13:59:41.729  3920  3920 E deviceInfo: RP26LD IR  6257  15177
+12-26 13:59:41.729  3920  3920 E deviceInfo: RP26PWD RGB  6257  14921
+12-26 13:59:41.784  3920  3920 E SyncDataService_onStartCommand: false
+12-26 13:59:41.787  3920  3920 E PaymentProvider__syncData: 13 
+12-26 13:59:41.800  3920  4043 E fileDir : /storage/emulated/0/shifang/ai_dish
+12-26 13:59:41.886  3920  4027 E getNewVersion: null
+12-26 13:59:43.572  3920  3920 E Bundle  : putString->args_tag:null
+12-26 13:59:43.572  3920  3920 E Bundle  : putString->args_tag:null
+12-26 13:59:43.572  3920  3920 E Bundle  : putString->args_tag:null
+12-26 13:59:43.574  3920  3920 E Bundle  : putString->args_tag:null
+12-26 13:59:43.633  3920  3920 E language: ch

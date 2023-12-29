@@ -1,0 +1,1303 @@
+12-26 15:59:31.079  1331  1331 E Tinker.TinkerManager: NOT tinker ApplicationLike object
+12-26 15:59:31.134  1331  1383 E Bundle  : putString->_track_generation:null
+12-26 15:59:31.206  1331  1385 E Bundle  : putString->_track_generation:null
+12-26 15:59:31.955  1331  1331 E Bundle  : putString->_prefix:textclassifier/
+12-26 15:59:31.955  1331  1331 E Bundle  : putString->_track_generation:null
+12-26 15:59:31.969  1331  1331 E checkLicense: checkLicense
+12-26 15:59:32.508  1331  1331 E checkLicense sfAuthErrorCode:      true
+12-26 15:59:32.519  1331  1331 E paymentProviderType: {"channelName":"测试","paymentProviderType":"ppt_SF_Test"}
+12-26 15:59:32.877  1331  1489 E loadModel: ---true
+12-26 15:59:33.746  1331  1489 E loadModel: 1    /storage/emulated/0/shifang/ai_dish/model/dish_v5.1.1.rk.sfm
+12-26 15:59:33.979  1331  1489 E linker  : library "/vendor/lib64/libvpu.so" ("/vendor/lib64/libvpu.so") needed or dlopened by "/data/app/~~9eI8LWstRvSECNisGUzjhw==/com.shifang.aidish.offline-Ilal8EihEEkTKkQ3oLHGxQ==/lib/arm64/libarcsoft_face.so" is not accessible for the namespace: [name="classloader-namespace", ld_library_paths="", default_library_paths="/data/app/~~9eI8LWstRvSECNisGUzjhw==/com.shifang.aidish.offline-Ilal8EihEEkTKkQ3oLHGxQ==/lib/arm64:/data/app/~~9eI8LWstRvSECNisGUzjhw==/com.shifang.aidish.offline-Ilal8EihEEkTKkQ3oLHGxQ==/base.apk!/lib/arm64-v8a", permitted_paths="/data:/mnt/expand:/data/user/0/com.shifang.aidish.offline"]
+12-26 15:59:34.066  1331  1489 E activeFaceSdk: 98310 
+12-26 15:59:34.066  1331  1489 E SdkInitService_initFaceSdk: false   
+12-26 16:00:02.417  1331  1331 E Bundle  : putString->_track_generation:null
+12-26 16:00:02.561  1331  1593 E SyncDataService_onStartCommand: false
+12-26 16:00:02.726  1331  1589 E getNewVersion: null
+12-26 16:00:03.315  1331  1331 E Bundle  : putString->args_tag:null
+12-26 16:00:03.315  1331  1331 E Bundle  : putString->args_tag:null
+12-26 16:00:03.315  1331  1331 E Bundle  : putString->args_tag:null
+12-26 16:00:03.316  1331  1331 E Bundle  : putString->args_tag:null
+12-26 16:00:03.372  1331  1331 E language: ch
+12-26 16:00:21.573  1331  1593 E PaymentProvider__syncData: 13 
+12-26 16:00:21.598  1331  1680 E registerBgr24: 1 
+12-26 16:00:21.598  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:21.598  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:00:21.631  1331  1680 E registerBgr24: 2 
+12-26 16:00:21.631  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:21.631  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:00:21.644  1331  1680 E registerBgr24: 3 
+12-26 16:00:21.644  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:21.644  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:00:21.658  1331  1680 E registerBgr24: 4 
+12-26 16:00:21.658  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:21.658  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:00:21.680  1331  1680 E registerBgr24: 5 
+12-26 16:00:21.680  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:21.680  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:00:21.814  1331  1331 E TradeOrderPresenter__doSearchTradeOrder  srcUserName:  
+12-26 16:00:21.814  1331  1331 E getTradeOrders:       2023-12-26 00:00:00 2023-12-26 16:03:59
+12-26 16:00:21.823  1331  1331 E findTraderOrders: 0   7
+12-26 16:00:21.824  1331  1331 E doSearchTradeOrder: 0  7  
+12-26 16:00:21.829  1331  1331 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-26 16:00:21.871  1331  1695 E ts_scan_state_fun: 1 
+12-26 16:00:22.097  1331  1703 E ywl5320 : fbo success
+12-26 16:00:22.097  1331  1703 E mali_so : encounter the first gles_error : 0x0001; gles_state_error_info : <param> is not an accepted value (gles_texturep_tex_parameteri_input_param_validation at hardware/arm/maliT760/driver/product/gles/src/texture/mali_gles_texture_helpers.c:1095)
+12-26 16:00:22.704  1331  1680 E registerBgr24: 1 
+12-26 16:00:22.704  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:22.704  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:00:22.737  1331  1680 E registerBgr24: 2 
+12-26 16:00:22.738  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:22.738  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:00:22.753  1331  1680 E registerBgr24: 3 
+12-26 16:00:22.753  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:22.753  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:00:22.767  1331  1680 E registerBgr24: 4 
+12-26 16:00:22.768  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:22.768  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:00:22.791  1331  1680 E registerBgr24: 5 
+12-26 16:00:22.791  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:22.791  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:00:22.811  1331  1331 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-26 16:00:23.651  1331  1737 E innerRecognize: recognizeByFilter5
+12-26 16:00:23.652  1331  1737 E recognize: 565ms   /storage/emulated/0/shifang/ai_dish/image/20231226/ae8f65fc-26ad-4b79-b52e-44269793b0da.jpg  
+12-26 16:00:23.744  1331  1331 E resultDishCount: 5 个菜品
+12-26 16:00:23.817  1331  1680 E registerBgr24: 1 
+12-26 16:00:23.817  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:23.817  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:00:23.851  1331  1680 E registerBgr24: 2 
+12-26 16:00:23.851  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:23.851  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:00:23.865  1331  1680 E registerBgr24: 3 
+12-26 16:00:23.865  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:23.865  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:00:23.879  1331  1680 E registerBgr24: 4 
+12-26 16:00:23.879  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:23.879  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:00:23.907  1331  1680 E registerBgr24: 5 
+12-26 16:00:23.907  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:23.907  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:00:24.928  1331  1680 E registerBgr24: 1 
+12-26 16:00:24.928  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:24.928  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:00:24.960  1331  1680 E registerBgr24: 2 
+12-26 16:00:24.960  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:24.961  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:00:24.974  1331  1680 E registerBgr24: 3 
+12-26 16:00:24.974  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:24.974  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:00:24.989  1331  1680 E registerBgr24: 4 
+12-26 16:00:24.989  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:24.989  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:00:25.014  1331  1680 E registerBgr24: 5 
+12-26 16:00:25.014  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:25.014  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:00:25.517  1331  1331 E processSearchInput:     0
+12-26 16:00:25.541  1331  1331 E resultDishCount: 5 个菜品
+12-26 16:00:26.034  1331  1680 E registerBgr24: 1 
+12-26 16:00:26.034  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:26.034  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:00:26.067  1331  1680 E registerBgr24: 2 
+12-26 16:00:26.067  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:26.067  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:00:26.080  1331  1680 E registerBgr24: 3 
+12-26 16:00:26.080  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:26.080  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:00:26.094  1331  1680 E registerBgr24: 4 
+12-26 16:00:26.094  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:26.094  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:00:26.121  1331  1680 E registerBgr24: 5 
+12-26 16:00:26.121  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:26.121  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:00:26.760  1331  1331 E resultDishCount: 4 个菜品
+12-26 16:00:27.143  1331  1680 E registerBgr24: 1 
+12-26 16:00:27.143  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:27.143  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:00:27.175  1331  1680 E registerBgr24: 2 
+12-26 16:00:27.175  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:27.175  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:00:27.188  1331  1680 E registerBgr24: 3 
+12-26 16:00:27.188  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:27.188  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:00:27.203  1331  1680 E registerBgr24: 4 
+12-26 16:00:27.203  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:27.203  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:00:27.226  1331  1680 E registerBgr24: 5 
+12-26 16:00:27.226  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:27.226  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:00:28.250  1331  1680 E registerBgr24: 1 
+12-26 16:00:28.250  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:28.250  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:00:28.287  1331  1680 E registerBgr24: 2 
+12-26 16:00:28.287  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:28.287  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:00:28.305  1331  1680 E registerBgr24: 3 
+12-26 16:00:28.306  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:28.306  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:00:28.321  1331  1680 E registerBgr24: 4 
+12-26 16:00:28.321  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:28.321  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:00:28.344  1331  1680 E registerBgr24: 5 
+12-26 16:00:28.344  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:28.344  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:00:29.363  1331  1680 E registerBgr24: 1 
+12-26 16:00:29.363  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:29.363  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:00:29.396  1331  1680 E registerBgr24: 2 
+12-26 16:00:29.397  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:29.397  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:00:29.410  1331  1680 E registerBgr24: 3 
+12-26 16:00:29.410  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:29.410  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:00:29.422  1331  1680 E registerBgr24: 4 
+12-26 16:00:29.422  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:29.422  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:00:29.445  1331  1680 E registerBgr24: 5 
+12-26 16:00:29.445  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:29.445  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:00:30.469  1331  1680 E registerBgr24: 1 
+12-26 16:00:30.469  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:30.469  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:00:30.502  1331  1680 E registerBgr24: 2 
+12-26 16:00:30.502  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:30.502  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:00:30.517  1331  1680 E registerBgr24: 3 
+12-26 16:00:30.517  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:30.517  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:00:30.531  1331  1680 E registerBgr24: 4 
+12-26 16:00:30.531  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:30.532  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:00:30.553  1331  1680 E registerBgr24: 5 
+12-26 16:00:30.554  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:30.554  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:00:31.576  1331  1680 E registerBgr24: 1 
+12-26 16:00:31.576  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:31.576  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:00:31.609  1331  1680 E registerBgr24: 2 
+12-26 16:00:31.609  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:31.609  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:00:31.629  1331  1680 E registerBgr24: 3 
+12-26 16:00:31.629  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:31.629  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:00:31.643  1331  1680 E registerBgr24: 4 
+12-26 16:00:31.644  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:31.644  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:00:31.669  1331  1680 E registerBgr24: 5 
+12-26 16:00:31.669  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:31.669  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:00:32.703  1331  1680 E registerBgr24: 1 
+12-26 16:00:32.703  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:32.703  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:00:32.736  1331  1680 E registerBgr24: 2 
+12-26 16:00:32.736  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:32.736  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:00:32.751  1331  1680 E registerBgr24: 3 
+12-26 16:00:32.751  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:32.751  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:00:32.765  1331  1680 E registerBgr24: 4 
+12-26 16:00:32.765  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:32.765  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:00:32.788  1331  1680 E registerBgr24: 5 
+12-26 16:00:32.788  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:32.788  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:00:33.812  1331  1680 E registerBgr24: 1 
+12-26 16:00:33.812  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:33.812  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:00:33.847  1331  1680 E registerBgr24: 2 
+12-26 16:00:33.847  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:33.847  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:00:33.861  1331  1680 E registerBgr24: 3 
+12-26 16:00:33.861  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:33.862  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:00:33.874  1331  1680 E registerBgr24: 4 
+12-26 16:00:33.875  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:33.875  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:00:33.900  1331  1680 E registerBgr24: 5 
+12-26 16:00:33.900  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:33.900  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:00:34.931  1331  1680 E registerBgr24: 1 
+12-26 16:00:34.931  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:34.931  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:00:34.964  1331  1680 E registerBgr24: 2 
+12-26 16:00:34.964  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:34.964  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:00:34.977  1331  1680 E registerBgr24: 3 
+12-26 16:00:34.977  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:34.977  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:00:34.989  1331  1680 E registerBgr24: 4 
+12-26 16:00:34.989  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:34.989  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:00:35.012  1331  1680 E registerBgr24: 5 
+12-26 16:00:35.012  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:35.012  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:00:36.039  1331  1680 E registerBgr24: 1 
+12-26 16:00:36.039  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:36.039  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:00:36.080  1331  1680 E registerBgr24: 2 
+12-26 16:00:36.080  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:36.080  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:00:36.095  1331  1680 E registerBgr24: 3 
+12-26 16:00:36.095  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:36.095  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:00:36.109  1331  1680 E registerBgr24: 4 
+12-26 16:00:36.109  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:36.109  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:00:36.133  1331  1680 E registerBgr24: 5 
+12-26 16:00:36.133  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:36.133  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:00:37.156  1331  1680 E registerBgr24: 1 
+12-26 16:00:37.156  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:37.156  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:00:37.189  1331  1680 E registerBgr24: 2 
+12-26 16:00:37.189  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:37.189  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:00:37.204  1331  1680 E registerBgr24: 3 
+12-26 16:00:37.204  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:37.204  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:00:37.217  1331  1680 E registerBgr24: 4 
+12-26 16:00:37.217  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:37.217  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:00:37.240  1331  1680 E registerBgr24: 5 
+12-26 16:00:37.240  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:37.241  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:00:38.268  1331  1680 E registerBgr24: 1 
+12-26 16:00:38.268  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:38.268  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:00:38.301  1331  1680 E registerBgr24: 2 
+12-26 16:00:38.301  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:38.301  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:00:38.316  1331  1680 E registerBgr24: 3 
+12-26 16:00:38.316  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:38.316  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:00:38.330  1331  1680 E registerBgr24: 4 
+12-26 16:00:38.330  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:38.330  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:00:38.355  1331  1680 E registerBgr24: 5 
+12-26 16:00:38.355  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:38.355  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:00:39.377  1331  1680 E registerBgr24: 1 
+12-26 16:00:39.377  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:39.377  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:00:39.410  1331  1680 E registerBgr24: 2 
+12-26 16:00:39.410  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:39.410  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:00:39.425  1331  1680 E registerBgr24: 3 
+12-26 16:00:39.425  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:39.425  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:00:39.438  1331  1680 E registerBgr24: 4 
+12-26 16:00:39.438  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:39.438  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:00:39.463  1331  1680 E registerBgr24: 5 
+12-26 16:00:39.463  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:39.464  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:00:40.482  1331  1680 E registerBgr24: 1 
+12-26 16:00:40.482  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:40.482  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:00:40.514  1331  1680 E registerBgr24: 2 
+12-26 16:00:40.514  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:40.514  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:00:40.529  1331  1680 E registerBgr24: 3 
+12-26 16:00:40.529  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:40.529  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:00:40.543  1331  1680 E registerBgr24: 4 
+12-26 16:00:40.543  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:40.543  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:00:40.569  1331  1680 E registerBgr24: 5 
+12-26 16:00:40.569  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:40.569  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:00:41.589  1331  1680 E registerBgr24: 1 
+12-26 16:00:41.589  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:41.589  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:00:41.621  1331  1680 E registerBgr24: 2 
+12-26 16:00:41.622  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:41.622  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:00:41.637  1331  1680 E registerBgr24: 3 
+12-26 16:00:41.637  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:41.637  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:00:41.651  1331  1680 E registerBgr24: 4 
+12-26 16:00:41.651  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:41.651  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:00:41.677  1331  1680 E registerBgr24: 5 
+12-26 16:00:41.677  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:41.677  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:00:42.706  1331  1680 E registerBgr24: 1 
+12-26 16:00:42.706  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:42.706  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:00:42.738  1331  1680 E registerBgr24: 2 
+12-26 16:00:42.738  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:42.738  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:00:42.751  1331  1680 E registerBgr24: 3 
+12-26 16:00:42.752  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:42.752  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:00:42.768  1331  1680 E registerBgr24: 4 
+12-26 16:00:42.769  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:42.769  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:00:42.792  1331  1680 E registerBgr24: 5 
+12-26 16:00:42.792  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:42.792  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:00:43.816  1331  1680 E registerBgr24: 1 
+12-26 16:00:43.816  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:43.816  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:00:43.854  1331  1680 E registerBgr24: 2 
+12-26 16:00:43.854  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:43.855  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:00:43.871  1331  1680 E registerBgr24: 3 
+12-26 16:00:43.871  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:43.871  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:00:43.884  1331  1680 E registerBgr24: 4 
+12-26 16:00:43.884  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:43.884  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:00:43.906  1331  1680 E registerBgr24: 5 
+12-26 16:00:43.906  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:43.906  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:00:44.925  1331  1680 E registerBgr24: 1 
+12-26 16:00:44.925  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:44.925  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:00:44.961  1331  1680 E registerBgr24: 2 
+12-26 16:00:44.961  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:44.961  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:00:44.974  1331  1680 E registerBgr24: 3 
+12-26 16:00:44.975  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:44.975  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:00:44.990  1331  1680 E registerBgr24: 4 
+12-26 16:00:44.990  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:44.990  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:00:45.014  1331  1680 E registerBgr24: 5 
+12-26 16:00:45.014  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:45.014  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:00:46.042  1331  1680 E registerBgr24: 1 
+12-26 16:00:46.042  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:46.042  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:00:46.075  1331  1680 E registerBgr24: 2 
+12-26 16:00:46.075  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:46.075  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:00:46.089  1331  1680 E registerBgr24: 3 
+12-26 16:00:46.089  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:46.089  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:00:46.102  1331  1680 E registerBgr24: 4 
+12-26 16:00:46.102  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:46.102  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:00:46.126  1331  1680 E registerBgr24: 5 
+12-26 16:00:46.126  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:46.126  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:00:47.153  1331  1680 E registerBgr24: 1 
+12-26 16:00:47.154  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:47.154  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:00:47.190  1331  1680 E registerBgr24: 2 
+12-26 16:00:47.190  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:47.190  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:00:47.204  1331  1680 E registerBgr24: 3 
+12-26 16:00:47.204  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:47.204  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:00:47.217  1331  1680 E registerBgr24: 4 
+12-26 16:00:47.217  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:47.217  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:00:47.239  1331  1680 E registerBgr24: 5 
+12-26 16:00:47.239  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:47.239  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:00:48.268  1331  1680 E registerBgr24: 1 
+12-26 16:00:48.268  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:48.268  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:00:48.301  1331  1680 E registerBgr24: 2 
+12-26 16:00:48.301  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:48.301  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:00:48.314  1331  1680 E registerBgr24: 3 
+12-26 16:00:48.314  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:48.314  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:00:48.327  1331  1680 E registerBgr24: 4 
+12-26 16:00:48.328  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:48.328  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:00:48.351  1331  1680 E registerBgr24: 5 
+12-26 16:00:48.351  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:48.351  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:00:49.386  1331  1680 E registerBgr24: 1 
+12-26 16:00:49.386  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:49.386  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:00:49.418  1331  1680 E registerBgr24: 2 
+12-26 16:00:49.418  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:49.418  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:00:49.431  1331  1680 E registerBgr24: 3 
+12-26 16:00:49.431  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:49.431  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:00:49.444  1331  1680 E registerBgr24: 4 
+12-26 16:00:49.444  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:49.444  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:00:49.472  1331  1680 E registerBgr24: 5 
+12-26 16:00:49.472  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:49.472  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:00:50.504  1331  1680 E registerBgr24: 1 
+12-26 16:00:50.504  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:50.504  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:00:50.536  1331  1680 E registerBgr24: 2 
+12-26 16:00:50.536  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:50.536  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:00:50.551  1331  1680 E registerBgr24: 3 
+12-26 16:00:50.551  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:50.551  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:00:50.565  1331  1680 E registerBgr24: 4 
+12-26 16:00:50.565  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:50.565  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:00:50.588  1331  1680 E registerBgr24: 5 
+12-26 16:00:50.588  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:50.588  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:00:51.608  1331  1680 E registerBgr24: 1 
+12-26 16:00:51.608  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:51.608  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:00:51.640  1331  1680 E registerBgr24: 2 
+12-26 16:00:51.640  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:51.640  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:00:51.653  1331  1680 E registerBgr24: 3 
+12-26 16:00:51.653  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:51.653  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:00:51.668  1331  1680 E registerBgr24: 4 
+12-26 16:00:51.668  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:51.668  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:00:51.691  1331  1680 E registerBgr24: 5 
+12-26 16:00:51.691  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:51.691  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:00:52.715  1331  1680 E registerBgr24: 1 
+12-26 16:00:52.715  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:52.715  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:00:52.750  1331  1680 E registerBgr24: 2 
+12-26 16:00:52.750  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:52.750  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:00:52.763  1331  1680 E registerBgr24: 3 
+12-26 16:00:52.763  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:52.763  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:00:52.780  1331  1680 E registerBgr24: 4 
+12-26 16:00:52.780  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:52.780  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:00:52.802  1331  1680 E registerBgr24: 5 
+12-26 16:00:52.802  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:52.802  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:00:53.829  1331  1680 E registerBgr24: 1 
+12-26 16:00:53.829  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:53.829  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:00:53.862  1331  1680 E registerBgr24: 2 
+12-26 16:00:53.862  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:53.862  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:00:53.876  1331  1680 E registerBgr24: 3 
+12-26 16:00:53.876  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:53.876  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:00:53.889  1331  1680 E registerBgr24: 4 
+12-26 16:00:53.889  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:53.889  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:00:53.913  1331  1680 E registerBgr24: 5 
+12-26 16:00:53.913  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:53.913  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:00:54.937  1331  1680 E registerBgr24: 1 
+12-26 16:00:54.937  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:54.937  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:00:54.969  1331  1680 E registerBgr24: 2 
+12-26 16:00:54.969  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:54.969  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:00:54.983  1331  1680 E registerBgr24: 3 
+12-26 16:00:54.983  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:54.983  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:00:54.997  1331  1680 E registerBgr24: 4 
+12-26 16:00:54.997  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:54.997  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:00:55.021  1331  1680 E registerBgr24: 5 
+12-26 16:00:55.021  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:55.021  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:00:56.045  1331  1680 E registerBgr24: 1 
+12-26 16:00:56.045  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:56.045  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:00:56.077  1331  1680 E registerBgr24: 2 
+12-26 16:00:56.077  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:56.077  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:00:56.091  1331  1680 E registerBgr24: 3 
+12-26 16:00:56.092  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:56.092  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:00:56.105  1331  1680 E registerBgr24: 4 
+12-26 16:00:56.105  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:56.105  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:00:56.128  1331  1680 E registerBgr24: 5 
+12-26 16:00:56.128  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:56.128  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:00:57.153  1331  1680 E registerBgr24: 1 
+12-26 16:00:57.153  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:57.153  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:00:57.185  1331  1680 E registerBgr24: 2 
+12-26 16:00:57.185  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:57.185  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:00:57.200  1331  1680 E registerBgr24: 3 
+12-26 16:00:57.200  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:57.200  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:00:57.220  1331  1680 E registerBgr24: 4 
+12-26 16:00:57.220  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:57.220  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:00:57.242  1331  1680 E registerBgr24: 5 
+12-26 16:00:57.242  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:57.242  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:00:58.269  1331  1680 E registerBgr24: 1 
+12-26 16:00:58.269  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:58.269  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:00:58.301  1331  1680 E registerBgr24: 2 
+12-26 16:00:58.302  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:58.302  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:00:58.314  1331  1680 E registerBgr24: 3 
+12-26 16:00:58.314  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:58.314  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:00:58.329  1331  1680 E registerBgr24: 4 
+12-26 16:00:58.329  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:58.329  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:00:58.361  1331  1680 E registerBgr24: 5 
+12-26 16:00:58.361  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:58.361  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:00:59.380  1331  1680 E registerBgr24: 1 
+12-26 16:00:59.380  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:59.380  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:00:59.413  1331  1680 E registerBgr24: 2 
+12-26 16:00:59.413  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:59.413  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:00:59.427  1331  1680 E registerBgr24: 3 
+12-26 16:00:59.427  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:59.427  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:00:59.440  1331  1680 E registerBgr24: 4 
+12-26 16:00:59.440  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:59.440  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:00:59.463  1331  1680 E registerBgr24: 5 
+12-26 16:00:59.463  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:00:59.463  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:00.491  1331  1680 E registerBgr24: 1 
+12-26 16:01:00.491  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:00.491  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:00.525  1331  1680 E registerBgr24: 2 
+12-26 16:01:00.525  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:00.525  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:00.539  1331  1680 E registerBgr24: 3 
+12-26 16:01:00.539  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:00.539  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:00.552  1331  1680 E registerBgr24: 4 
+12-26 16:01:00.552  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:00.552  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:00.575  1331  1680 E registerBgr24: 5 
+12-26 16:01:00.575  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:00.575  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:01.599  1331  1680 E registerBgr24: 1 
+12-26 16:01:01.599  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:01.599  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:01.631  1331  1680 E registerBgr24: 2 
+12-26 16:01:01.631  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:01.631  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:01.646  1331  1680 E registerBgr24: 3 
+12-26 16:01:01.646  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:01.646  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:01.661  1331  1680 E registerBgr24: 4 
+12-26 16:01:01.661  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:01.661  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:01.683  1331  1680 E registerBgr24: 5 
+12-26 16:01:01.683  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:01.684  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:02.712  1331  1680 E registerBgr24: 1 
+12-26 16:01:02.713  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:02.713  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:02.746  1331  1680 E registerBgr24: 2 
+12-26 16:01:02.746  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:02.746  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:02.759  1331  1680 E registerBgr24: 3 
+12-26 16:01:02.759  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:02.759  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:02.772  1331  1680 E registerBgr24: 4 
+12-26 16:01:02.772  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:02.772  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:02.794  1331  1680 E registerBgr24: 5 
+12-26 16:01:02.795  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:02.795  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:03.827  1331  1680 E registerBgr24: 1 
+12-26 16:01:03.827  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:03.827  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:03.860  1331  1680 E registerBgr24: 2 
+12-26 16:01:03.860  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:03.860  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:03.877  1331  1680 E registerBgr24: 3 
+12-26 16:01:03.877  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:03.877  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:03.891  1331  1680 E registerBgr24: 4 
+12-26 16:01:03.891  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:03.891  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:03.915  1331  1680 E registerBgr24: 5 
+12-26 16:01:03.915  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:03.915  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:04.940  1331  1680 E registerBgr24: 1 
+12-26 16:01:04.940  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:04.940  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:04.972  1331  1680 E registerBgr24: 2 
+12-26 16:01:04.972  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:04.972  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:04.985  1331  1680 E registerBgr24: 3 
+12-26 16:01:04.986  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:04.986  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:05.006  1331  1680 E registerBgr24: 4 
+12-26 16:01:05.006  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:05.006  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:05.031  1331  1680 E registerBgr24: 5 
+12-26 16:01:05.031  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:05.031  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:06.053  1331  1680 E registerBgr24: 1 
+12-26 16:01:06.053  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:06.053  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:06.085  1331  1680 E registerBgr24: 2 
+12-26 16:01:06.085  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:06.085  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:06.099  1331  1680 E registerBgr24: 3 
+12-26 16:01:06.099  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:06.099  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:06.113  1331  1680 E registerBgr24: 4 
+12-26 16:01:06.113  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:06.113  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:06.136  1331  1680 E registerBgr24: 5 
+12-26 16:01:06.136  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:06.136  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:07.167  1331  1680 E registerBgr24: 1 
+12-26 16:01:07.167  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:07.167  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:07.199  1331  1680 E registerBgr24: 2 
+12-26 16:01:07.199  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:07.199  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:07.213  1331  1680 E registerBgr24: 3 
+12-26 16:01:07.213  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:07.213  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:07.226  1331  1680 E registerBgr24: 4 
+12-26 16:01:07.226  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:07.226  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:07.249  1331  1680 E registerBgr24: 5 
+12-26 16:01:07.249  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:07.249  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:08.276  1331  1680 E registerBgr24: 1 
+12-26 16:01:08.276  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:08.276  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:08.309  1331  1680 E registerBgr24: 2 
+12-26 16:01:08.309  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:08.309  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:08.328  1331  1680 E registerBgr24: 3 
+12-26 16:01:08.328  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:08.328  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:08.341  1331  1680 E registerBgr24: 4 
+12-26 16:01:08.341  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:08.341  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:08.364  1331  1680 E registerBgr24: 5 
+12-26 16:01:08.364  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:08.364  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:09.386  1331  1680 E registerBgr24: 1 
+12-26 16:01:09.386  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:09.386  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:09.418  1331  1680 E registerBgr24: 2 
+12-26 16:01:09.418  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:09.418  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:09.431  1331  1680 E registerBgr24: 3 
+12-26 16:01:09.431  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:09.431  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:09.450  1331  1680 E registerBgr24: 4 
+12-26 16:01:09.450  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:09.450  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:09.474  1331  1680 E registerBgr24: 5 
+12-26 16:01:09.474  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:09.474  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:10.499  1331  1680 E registerBgr24: 1 
+12-26 16:01:10.499  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:10.499  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:10.531  1331  1680 E registerBgr24: 2 
+12-26 16:01:10.531  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:10.531  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:10.545  1331  1680 E registerBgr24: 3 
+12-26 16:01:10.545  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:10.545  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:10.559  1331  1680 E registerBgr24: 4 
+12-26 16:01:10.559  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:10.559  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:10.583  1331  1680 E registerBgr24: 5 
+12-26 16:01:10.583  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:10.583  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:11.606  1331  1680 E registerBgr24: 1 
+12-26 16:01:11.606  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:11.606  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:11.638  1331  1680 E registerBgr24: 2 
+12-26 16:01:11.638  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:11.638  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:11.652  1331  1680 E registerBgr24: 3 
+12-26 16:01:11.652  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:11.652  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:11.668  1331  1680 E registerBgr24: 4 
+12-26 16:01:11.668  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:11.668  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:11.694  1331  1680 E registerBgr24: 5 
+12-26 16:01:11.694  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:11.694  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:12.715  1331  1680 E registerBgr24: 1 
+12-26 16:01:12.716  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:12.716  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:12.749  1331  1680 E registerBgr24: 2 
+12-26 16:01:12.749  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:12.749  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:12.762  1331  1680 E registerBgr24: 3 
+12-26 16:01:12.762  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:12.762  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:12.776  1331  1680 E registerBgr24: 4 
+12-26 16:01:12.776  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:12.776  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:12.801  1331  1680 E registerBgr24: 5 
+12-26 16:01:12.801  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:12.801  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:13.829  1331  1680 E registerBgr24: 1 
+12-26 16:01:13.829  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:13.829  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:13.862  1331  1680 E registerBgr24: 2 
+12-26 16:01:13.862  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:13.862  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:13.876  1331  1680 E registerBgr24: 3 
+12-26 16:01:13.876  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:13.876  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:13.888  1331  1680 E registerBgr24: 4 
+12-26 16:01:13.888  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:13.888  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:13.911  1331  1680 E registerBgr24: 5 
+12-26 16:01:13.911  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:13.911  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:14.938  1331  1680 E registerBgr24: 1 
+12-26 16:01:14.939  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:14.939  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:14.978  1331  1680 E registerBgr24: 2 
+12-26 16:01:14.978  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:14.978  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:14.992  1331  1680 E registerBgr24: 3 
+12-26 16:01:14.992  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:14.992  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:15.005  1331  1680 E registerBgr24: 4 
+12-26 16:01:15.005  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:15.005  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:15.027  1331  1680 E registerBgr24: 5 
+12-26 16:01:15.027  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:15.027  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:16.052  1331  1680 E registerBgr24: 1 
+12-26 16:01:16.054  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:16.054  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:16.087  1331  1680 E registerBgr24: 2 
+12-26 16:01:16.087  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:16.087  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:16.101  1331  1680 E registerBgr24: 3 
+12-26 16:01:16.101  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:16.101  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:16.115  1331  1680 E registerBgr24: 4 
+12-26 16:01:16.115  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:16.115  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:16.139  1331  1680 E registerBgr24: 5 
+12-26 16:01:16.139  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:16.139  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:17.149  1331  1331 E processSearchInput:     13
+12-26 16:01:17.159  1331  1331 E resultDishCount: 4 个菜品
+12-26 16:01:17.166  1331  1680 E registerBgr24: 1 
+12-26 16:01:17.166  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:17.166  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:17.203  1331  1680 E registerBgr24: 2 
+12-26 16:01:17.203  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:17.203  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:17.230  1331  1680 E registerBgr24: 3 
+12-26 16:01:17.230  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:17.230  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:17.244  1331  1680 E registerBgr24: 4 
+12-26 16:01:17.244  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:17.244  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:17.268  1331  1680 E registerBgr24: 5 
+12-26 16:01:17.268  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:17.268  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:17.900  1331  1331 E resultDishCount: 4 个菜品
+12-26 16:01:18.295  1331  1680 E registerBgr24: 1 
+12-26 16:01:18.295  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:18.295  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:18.331  1331  1680 E registerBgr24: 2 
+12-26 16:01:18.331  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:18.331  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:18.344  1331  1680 E registerBgr24: 3 
+12-26 16:01:18.344  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:18.344  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:18.357  1331  1680 E registerBgr24: 4 
+12-26 16:01:18.357  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:18.357  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:18.380  1331  1680 E registerBgr24: 5 
+12-26 16:01:18.380  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:18.380  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:19.404  1331  1680 E registerBgr24: 1 
+12-26 16:01:19.404  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:19.404  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:19.437  1331  1680 E registerBgr24: 2 
+12-26 16:01:19.437  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:19.437  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:19.453  1331  1680 E registerBgr24: 3 
+12-26 16:01:19.453  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:19.453  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:19.467  1331  1680 E registerBgr24: 4 
+12-26 16:01:19.467  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:19.467  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:19.488  1331  1680 E registerBgr24: 5 
+12-26 16:01:19.489  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:19.489  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:19.619  1331  1331 E resultDishCount: 4 个菜品
+12-26 16:01:20.091  1331  1331 E resultDishCount: 4 个菜品
+12-26 16:01:20.468  1331  1331 E resultDishCount: 4 个菜品
+12-26 16:01:20.509  1331  1680 E registerBgr24: 1 
+12-26 16:01:20.509  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:20.509  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:20.542  1331  1680 E registerBgr24: 2 
+12-26 16:01:20.542  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:20.542  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:20.554  1331  1680 E registerBgr24: 3 
+12-26 16:01:20.554  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:20.554  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:20.567  1331  1680 E registerBgr24: 4 
+12-26 16:01:20.567  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:20.567  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:20.591  1331  1680 E registerBgr24: 5 
+12-26 16:01:20.591  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:20.591  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:21.618  1331  1680 E registerBgr24: 1 
+12-26 16:01:21.618  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:21.618  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:21.651  1331  1680 E registerBgr24: 2 
+12-26 16:01:21.651  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:21.651  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:21.664  1331  1680 E registerBgr24: 3 
+12-26 16:01:21.664  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:21.664  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:21.678  1331  1680 E registerBgr24: 4 
+12-26 16:01:21.678  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:21.678  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:21.702  1331  1680 E registerBgr24: 5 
+12-26 16:01:21.702  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:21.702  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:22.729  1331  1680 E registerBgr24: 1 
+12-26 16:01:22.729  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:22.729  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:22.763  1331  1680 E registerBgr24: 2 
+12-26 16:01:22.763  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:22.763  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:22.784  1331  1680 E registerBgr24: 3 
+12-26 16:01:22.784  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:22.784  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:22.800  1331  1680 E registerBgr24: 4 
+12-26 16:01:22.801  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:22.801  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:22.828  1331  1680 E registerBgr24: 5 
+12-26 16:01:22.828  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:22.828  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:23.850  1331  1680 E registerBgr24: 1 
+12-26 16:01:23.850  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:23.850  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:23.884  1331  1680 E registerBgr24: 2 
+12-26 16:01:23.884  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:23.884  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:23.899  1331  1680 E registerBgr24: 3 
+12-26 16:01:23.899  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:23.899  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:23.916  1331  1680 E registerBgr24: 4 
+12-26 16:01:23.916  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:23.916  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:23.944  1331  1680 E registerBgr24: 5 
+12-26 16:01:23.944  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:23.944  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:24.969  1331  1680 E registerBgr24: 1 
+12-26 16:01:24.969  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:24.969  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:25.003  1331  1680 E registerBgr24: 2 
+12-26 16:01:25.004  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:25.004  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:25.019  1331  1680 E registerBgr24: 3 
+12-26 16:01:25.019  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:25.019  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:25.036  1331  1680 E registerBgr24: 4 
+12-26 16:01:25.036  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:25.036  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:25.065  1331  1680 E registerBgr24: 5 
+12-26 16:01:25.065  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:25.065  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:26.092  1331  1680 E registerBgr24: 1 
+12-26 16:01:26.092  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:26.092  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:26.127  1331  1680 E registerBgr24: 2 
+12-26 16:01:26.127  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:26.127  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:26.145  1331  1680 E registerBgr24: 3 
+12-26 16:01:26.146  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:26.146  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:26.161  1331  1680 E registerBgr24: 4 
+12-26 16:01:26.161  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:26.161  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:26.185  1331  1680 E registerBgr24: 5 
+12-26 16:01:26.185  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:26.185  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:27.207  1331  1680 E registerBgr24: 1 
+12-26 16:01:27.207  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:27.207  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:27.243  1331  1680 E registerBgr24: 2 
+12-26 16:01:27.243  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:27.243  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:27.259  1331  1680 E registerBgr24: 3 
+12-26 16:01:27.259  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:27.259  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:27.274  1331  1680 E registerBgr24: 4 
+12-26 16:01:27.274  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:27.274  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:27.309  1331  1680 E registerBgr24: 5 
+12-26 16:01:27.309  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:27.309  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:28.329  1331  1680 E registerBgr24: 1 
+12-26 16:01:28.329  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:28.329  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:28.369  1331  1680 E registerBgr24: 2 
+12-26 16:01:28.369  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:28.369  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:28.385  1331  1680 E registerBgr24: 3 
+12-26 16:01:28.385  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:28.385  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:28.406  1331  1680 E registerBgr24: 4 
+12-26 16:01:28.406  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:28.406  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:28.430  1331  1680 E registerBgr24: 5 
+12-26 16:01:28.430  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:28.430  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:29.452  1331  1680 E registerBgr24: 1 
+12-26 16:01:29.452  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:29.452  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:29.487  1331  1680 E registerBgr24: 2 
+12-26 16:01:29.487  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:29.487  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:29.502  1331  1680 E registerBgr24: 3 
+12-26 16:01:29.502  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:29.502  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:29.526  1331  1680 E registerBgr24: 4 
+12-26 16:01:29.526  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:29.526  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:29.561  1331  1680 E registerBgr24: 5 
+12-26 16:01:29.561  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:29.562  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:30.581  1331  1680 E registerBgr24: 1 
+12-26 16:01:30.581  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:30.581  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:30.621  1331  1680 E registerBgr24: 2 
+12-26 16:01:30.621  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:30.621  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:30.636  1331  1680 E registerBgr24: 3 
+12-26 16:01:30.636  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:30.636  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:30.656  1331  1680 E registerBgr24: 4 
+12-26 16:01:30.656  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:30.656  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:30.684  1331  1680 E registerBgr24: 5 
+12-26 16:01:30.684  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:30.684  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:31.713  1331  1680 E registerBgr24: 1 
+12-26 16:01:31.713  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:31.714  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:31.751  1331  1680 E registerBgr24: 2 
+12-26 16:01:31.751  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:31.751  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:31.767  1331  1680 E registerBgr24: 3 
+12-26 16:01:31.767  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:31.767  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:31.781  1331  1680 E registerBgr24: 4 
+12-26 16:01:31.781  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:31.781  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:31.812  1331  1680 E registerBgr24: 5 
+12-26 16:01:31.812  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:31.812  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:32.832  1331  1680 E registerBgr24: 1 
+12-26 16:01:32.832  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:32.832  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:32.866  1331  1680 E registerBgr24: 2 
+12-26 16:01:32.866  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:32.866  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:32.895  1331  1680 E registerBgr24: 3 
+12-26 16:01:32.895  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:32.895  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:32.912  1331  1680 E registerBgr24: 4 
+12-26 16:01:32.912  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:32.912  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:32.943  1331  1680 E registerBgr24: 5 
+12-26 16:01:32.943  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:32.943  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:33.967  1331  1680 E registerBgr24: 1 
+12-26 16:01:33.967  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:33.967  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:34.009  1331  1680 E registerBgr24: 2 
+12-26 16:01:34.009  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:34.009  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:34.027  1331  1680 E registerBgr24: 3 
+12-26 16:01:34.027  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:34.027  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:34.042  1331  1680 E registerBgr24: 4 
+12-26 16:01:34.042  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:34.042  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:34.074  1331  1680 E registerBgr24: 5 
+12-26 16:01:34.074  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:34.074  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:35.099  1331  1680 E registerBgr24: 1 
+12-26 16:01:35.099  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:35.099  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:35.137  1331  1680 E registerBgr24: 2 
+12-26 16:01:35.137  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:35.137  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:35.153  1331  1680 E registerBgr24: 3 
+12-26 16:01:35.153  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:35.153  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:35.175  1331  1680 E registerBgr24: 4 
+12-26 16:01:35.176  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:35.176  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:35.204  1331  1680 E registerBgr24: 5 
+12-26 16:01:35.204  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:35.204  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:36.224  1331  1680 E registerBgr24: 1 
+12-26 16:01:36.224  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:36.224  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:36.262  1331  1680 E registerBgr24: 2 
+12-26 16:01:36.262  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:36.262  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:36.278  1331  1680 E registerBgr24: 3 
+12-26 16:01:36.278  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:36.278  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:36.293  1331  1680 E registerBgr24: 4 
+12-26 16:01:36.293  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:36.293  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:36.318  1331  1680 E registerBgr24: 5 
+12-26 16:01:36.318  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:36.318  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:37.339  1331  1680 E registerBgr24: 1 
+12-26 16:01:37.339  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:37.339  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:37.373  1331  1680 E registerBgr24: 2 
+12-26 16:01:37.373  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:37.373  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:37.399  1331  1680 E registerBgr24: 3 
+12-26 16:01:37.399  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:37.399  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:37.416  1331  1680 E registerBgr24: 4 
+12-26 16:01:37.416  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:37.416  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:37.448  1331  1680 E registerBgr24: 5 
+12-26 16:01:37.448  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:37.448  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:38.470  1331  1680 E registerBgr24: 1 
+12-26 16:01:38.470  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:38.471  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:38.509  1331  1680 E registerBgr24: 2 
+12-26 16:01:38.509  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:38.509  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:38.523  1331  1680 E registerBgr24: 3 
+12-26 16:01:38.523  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:38.523  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:38.546  1331  1680 E registerBgr24: 4 
+12-26 16:01:38.546  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:38.546  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:38.573  1331  1680 E registerBgr24: 5 
+12-26 16:01:38.573  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:38.573  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:39.604  1331  1680 E registerBgr24: 1 
+12-26 16:01:39.604  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:39.605  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:39.638  1331  1680 E registerBgr24: 2 
+12-26 16:01:39.638  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:39.638  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:39.656  1331  1680 E registerBgr24: 3 
+12-26 16:01:39.656  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:39.656  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:39.672  1331  1680 E registerBgr24: 4 
+12-26 16:01:39.672  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:39.672  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:39.706  1331  1680 E registerBgr24: 5 
+12-26 16:01:39.706  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:39.706  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:40.733  1331  1680 E registerBgr24: 1 
+12-26 16:01:40.734  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:40.734  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:40.778  1331  1680 E registerBgr24: 2 
+12-26 16:01:40.778  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:40.778  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:40.793  1331  1680 E registerBgr24: 3 
+12-26 16:01:40.793  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:40.793  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:40.812  1331  1680 E registerBgr24: 4 
+12-26 16:01:40.812  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:40.812  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:40.837  1331  1680 E registerBgr24: 5 
+12-26 16:01:40.837  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:40.837  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:41.860  1331  1680 E registerBgr24: 1 
+12-26 16:01:41.860  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:41.860  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:41.899  1331  1680 E registerBgr24: 2 
+12-26 16:01:41.899  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:41.899  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:41.914  1331  1680 E registerBgr24: 3 
+12-26 16:01:41.914  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:41.914  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:41.932  1331  1680 E registerBgr24: 4 
+12-26 16:01:41.932  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:41.932  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:41.962  1331  1680 E registerBgr24: 5 
+12-26 16:01:41.962  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:41.962  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:42.986  1331  1680 E registerBgr24: 1 
+12-26 16:01:42.986  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:42.986  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:43.020  1331  1680 E registerBgr24: 2 
+12-26 16:01:43.020  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:43.020  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:43.035  1331  1680 E registerBgr24: 3 
+12-26 16:01:43.036  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:43.036  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:43.051  1331  1680 E registerBgr24: 4 
+12-26 16:01:43.051  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:43.051  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:43.080  1331  1680 E registerBgr24: 5 
+12-26 16:01:43.080  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:43.080  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:44.098  1331  1680 E registerBgr24: 1 
+12-26 16:01:44.098  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:44.098  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:44.132  1331  1680 E registerBgr24: 2 
+12-26 16:01:44.132  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:44.132  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:44.146  1331  1680 E registerBgr24: 3 
+12-26 16:01:44.146  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:44.146  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:44.159  1331  1680 E registerBgr24: 4 
+12-26 16:01:44.159  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:44.159  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:44.181  1331  1680 E registerBgr24: 5 
+12-26 16:01:44.182  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:44.182  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:45.210  1331  1680 E registerBgr24: 1 
+12-26 16:01:45.210  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:45.210  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:45.243  1331  1680 E registerBgr24: 2 
+12-26 16:01:45.243  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:45.243  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:45.256  1331  1680 E registerBgr24: 3 
+12-26 16:01:45.256  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:45.256  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:45.270  1331  1680 E registerBgr24: 4 
+12-26 16:01:45.270  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:45.270  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:45.295  1331  1680 E registerBgr24: 5 
+12-26 16:01:45.295  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:45.295  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:46.314  1331  1680 E registerBgr24: 1 
+12-26 16:01:46.314  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:46.314  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:46.346  1331  1680 E registerBgr24: 2 
+12-26 16:01:46.346  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:46.346  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:46.359  1331  1680 E registerBgr24: 3 
+12-26 16:01:46.359  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:46.359  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:46.372  1331  1680 E registerBgr24: 4 
+12-26 16:01:46.372  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:46.372  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:46.398  1331  1680 E registerBgr24: 5 
+12-26 16:01:46.398  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:46.398  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:47.421  1331  1680 E registerBgr24: 1 
+12-26 16:01:47.422  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:47.422  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:47.457  1331  1680 E registerBgr24: 2 
+12-26 16:01:47.457  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:47.457  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:47.471  1331  1680 E registerBgr24: 3 
+12-26 16:01:47.471  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:47.471  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:47.484  1331  1680 E registerBgr24: 4 
+12-26 16:01:47.484  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:47.484  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:47.510  1331  1680 E registerBgr24: 5 
+12-26 16:01:47.510  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:47.510  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:48.534  1331  1680 E registerBgr24: 1 
+12-26 16:01:48.534  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:48.534  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:48.566  1331  1680 E registerBgr24: 2 
+12-26 16:01:48.566  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:48.566  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:48.580  1331  1680 E registerBgr24: 3 
+12-26 16:01:48.581  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:48.581  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:48.594  1331  1680 E registerBgr24: 4 
+12-26 16:01:48.594  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:48.594  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:48.618  1331  1680 E registerBgr24: 5 
+12-26 16:01:48.618  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:48.618  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:49.641  1331  1680 E registerBgr24: 1 
+12-26 16:01:49.641  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:49.641  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:49.674  1331  1680 E registerBgr24: 2 
+12-26 16:01:49.674  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:49.674  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:49.690  1331  1680 E registerBgr24: 3 
+12-26 16:01:49.690  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:49.690  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:49.704  1331  1680 E registerBgr24: 4 
+12-26 16:01:49.704  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:49.704  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:49.729  1331  1680 E registerBgr24: 5 
+12-26 16:01:49.730  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:49.730  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:50.754  1331  1680 E registerBgr24: 1 
+12-26 16:01:50.754  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:50.754  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:50.787  1331  1680 E registerBgr24: 2 
+12-26 16:01:50.787  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:50.787  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:50.800  1331  1680 E registerBgr24: 3 
+12-26 16:01:50.800  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:50.800  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:50.812  1331  1680 E registerBgr24: 4 
+12-26 16:01:50.813  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:50.813  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:50.837  1331  1680 E registerBgr24: 5 
+12-26 16:01:50.837  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:50.837  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:51.856  1331  1680 E registerBgr24: 1 
+12-26 16:01:51.856  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:51.856  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:51.889  1331  1680 E registerBgr24: 2 
+12-26 16:01:51.889  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:51.889  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:51.902  1331  1680 E registerBgr24: 3 
+12-26 16:01:51.902  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:51.902  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:51.915  1331  1680 E registerBgr24: 4 
+12-26 16:01:51.915  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:51.915  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:51.937  1331  1680 E registerBgr24: 5 
+12-26 16:01:51.937  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:51.937  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:52.964  1331  1680 E registerBgr24: 1 
+12-26 16:01:52.964  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:52.964  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:52.996  1331  1680 E registerBgr24: 2 
+12-26 16:01:52.996  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:52.996  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:53.010  1331  1680 E registerBgr24: 3 
+12-26 16:01:53.010  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:53.010  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:53.024  1331  1680 E registerBgr24: 4 
+12-26 16:01:53.024  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:53.024  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:53.048  1331  1680 E registerBgr24: 5 
+12-26 16:01:53.048  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:53.048  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-26 16:01:54.066  1331  1680 E registerBgr24: 1 
+12-26 16:01:54.066  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:54.066  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-26 16:01:54.099  1331  1680 E registerBgr24: 2 
+12-26 16:01:54.099  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:54.099  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-26 16:01:54.113  1331  1680 E registerBgr24: 3 
+12-26 16:01:54.113  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:54.113  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-26 16:01:54.127  1331  1680 E registerBgr24: 4 
+12-26 16:01:54.127  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:54.127  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-26 16:01:54.151  1331  1680 E registerBgr24: 5 
+12-26 16:01:54.151  1331  1680 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-26 16:01:54.151  1331  1680 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5

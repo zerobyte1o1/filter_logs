@@ -1,0 +1,272 @@
+12-26 16:51:39.383 10275 10275 E Tinker.TinkerManager: NOT tinker ApplicationLike object
+12-26 16:51:39.445 10275 10308 E Bundle  : putString->_track_generation:null
+12-26 16:51:41.833 10275 10275 E audit   : rate limit exceeded
+12-26 16:51:39.532 10275 10308 E Bundle  : putString->_track_generation:null
+12-26 16:51:40.271 10275 10275 E Bundle  : putString->_prefix:textclassifier/
+12-26 16:51:40.271 10275 10275 E Bundle  : putString->_track_generation:null
+12-26 16:51:40.285 10275 10275 E checkLicense: checkLicense
+12-26 16:51:40.823 10275 10275 E checkLicense sfAuthErrorCode:      true
+12-26 16:51:40.835 10275 10275 E paymentProviderType: {"channelName":"测试","paymentProviderType":"ppt_SF_Test"}
+12-26 16:51:41.163 10275 10361 E loadModel: ---true
+12-26 16:51:42.067 10275 10361 E loadModel: 1    /storage/emulated/0/shifang/ai_dish/model/dish_v5.1.1.rk.sfm
+12-26 16:51:42.073 10275 10361 E linker  : library "/vendor/lib64/libvpu.so" ("/vendor/lib64/libvpu.so") needed or dlopened by "/data/app/~~yw0SHc6wyqxW-Ab8dJ1TUg==/com.shifang.aidish.offline-ms9WJMmDuF9gAFk-LUJe3g==/lib/arm64/libarcsoft_face.so" is not accessible for the namespace: [name="classloader-namespace", ld_library_paths="", default_library_paths="/data/app/~~yw0SHc6wyqxW-Ab8dJ1TUg==/com.shifang.aidish.offline-ms9WJMmDuF9gAFk-LUJe3g==/lib/arm64:/data/app/~~yw0SHc6wyqxW-Ab8dJ1TUg==/com.shifang.aidish.offline-ms9WJMmDuF9gAFk-LUJe3g==/base.apk!/lib/arm64-v8a", permitted_paths="/data:/mnt/expand:/data/user/0/com.shifang.aidish.offline"]
+12-26 16:51:42.124 10275 10361 E activeFaceSdk: 98310 
+12-26 16:51:42.124 10275 10361 E SdkInitService_initFaceSdk: false   
+12-26 16:53:31.281 10275 10275 E Bundle  : putString->_track_generation:null
+12-26 16:53:31.413 10275 10508 E SyncDataService_onStartCommand: false
+12-26 16:53:31.416 10275 10508 E PaymentProvider__syncData: 13 
+12-26 16:53:31.437 10275 10516 E syncSubImage: 0 
+12-26 16:53:31.522 10275 10504 E getNewVersion: null
+12-26 16:53:32.044 10275 10275 E Bundle  : putString->args_tag:null
+12-26 16:53:32.045 10275 10275 E Bundle  : putString->args_tag:null
+12-26 16:53:32.045 10275 10275 E Bundle  : putString->args_tag:null
+12-26 16:53:32.046 10275 10275 E Bundle  : putString->args_tag:null
+12-26 16:53:32.097 10275 10275 E language: ch
+12-26 16:53:32.264 10275 10275 E TradeOrderPresenter__doSearchTradeOrder  srcUserName:  
+12-26 16:53:32.264 10275 10275 E getTradeOrders:       2023-12-26 00:00:00 2023-12-26 16:56:59
+12-26 16:53:32.274 10275 10275 E findTraderOrders: 0   7
+12-26 16:53:32.275 10275 10275 E doSearchTradeOrder: 0  7  
+12-26 16:53:32.278 10275 10275 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-26 16:53:37.533 10275 10552 E ywl5320 : fbo success
+12-26 16:53:37.533 10275 10552 E mali_so : encounter the first gles_error : 0x0001; gles_state_error_info : <param> is not an accepted value (gles_texturep_tex_parameteri_input_param_validation at hardware/arm/maliT760/driver/product/gles/src/texture/mali_gles_texture_helpers.c:1095)
+12-26 16:53:38.245 10275 10275 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-26 16:53:39.121 10275 10579 E innerRecognize: recognizeByFilter6
+12-26 16:53:39.121 10275 10579 E recognize: 615ms   /storage/emulated/0/shifang/ai_dish/image/20231226/71a3b913-925f-4978-9da9-1f69a8a24033.jpg  
+12-26 16:53:39.243 10275 10275 E resultDishCount: 6 个菜品
+12-26 16:53:41.187 10275 10275 E doFeedbackDishes: {"products":[{"classId":10,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/71a3b913-925f-4978-9da9-1f69a8a24033.jpg_0.jpg","operation":"NONE","posIndex":0,"predictClassId":10,"productName":"桃子","tag":""},{"classId":9,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/71a3b913-925f-4978-9da9-1f69a8a24033.jpg_1.jpg","operation":"NONE","posIndex":1,"predictClassId":9,"productName":"大面包","tag":""},{"classId":8,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/71a3b913-925f-4978-9da9-1f69a8a24033.jpg_3.jpg","operation":"NONE","posIndex":3,"predictClassId":8,"productName":"百世可乐","tag":""},{"classId":6,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/71a3b913-925f-4978-9da9-1f69a8a24033.jpg_4.jpg","operation":"NONE","posIndex":4,"predictClassId":6,"productName":"柿子","tag":""},{"classId":10,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/71a3b913-925f-4978-9da9-1f69a8a24033.jpg_5.jpg","operation":"NONE","posIndex":5,"predictClassId":10,"productName":"桃子","tag":""}],"requestId":"c65703cdb3e64662a94d46c132729b7b"}
+12-26 16:53:41.197 10275 10275 E updateSchedule: {"date":"2023-12-26","supper":"3329,3335,3337,3338,3339"}
+12-26 16:53:41.226 10275 10596 E currentDishSchedule_update: {"date":"2023-12-26","id":6,"supper":"3329,3335,3337,3338,3339"}
+12-26 16:53:41.751 10275 10595 E updateProductFeature: {"classId":10,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/71a3b913-925f-4978-9da9-1f69a8a24033.jpg_0.jpg","operation":"NONE","posIndex":0,"predictClassId":10,"productName":"桃子","tag":""}
+12-26 16:53:42.285 10275 10595 E updateProductFeature: {"classId":9,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/71a3b913-925f-4978-9da9-1f69a8a24033.jpg_1.jpg","operation":"NONE","posIndex":1,"predictClassId":9,"productName":"大面包","tag":""}
+12-26 16:53:42.540 10275 10541 E ts_scan_state_fun: 1 
+12-26 16:53:47.748 10275 10595 E updateProductFeature: {"classId":8,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/71a3b913-925f-4978-9da9-1f69a8a24033.jpg_3.jpg","operation":"NONE","posIndex":3,"predictClassId":8,"productName":"百世可乐","tag":""}
+12-26 16:53:52.979 10275 10595 E updateProductFeature: {"classId":6,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/71a3b913-925f-4978-9da9-1f69a8a24033.jpg_4.jpg","operation":"NONE","posIndex":4,"predictClassId":6,"productName":"柿子","tag":""}
+12-26 16:53:53.036 10275 10595 E updateProductFeature: {"classId":10,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/71a3b913-925f-4978-9da9-1f69a8a24033.jpg_5.jpg","operation":"NONE","posIndex":5,"predictClassId":10,"productName":"桃子","tag":""}
+12-26 16:53:57.354 10275 10275 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-26 16:53:59.837 10275 10275 E surfaceDestroyed: ------
+12-26 16:53:59.840 10275 10275 E surfaceDestroyed: ------
+12-26 16:53:59.850 10275 10556 E BufferQueueProducer: [SurfaceView[]#5(BLAST Consumer)5](id:282300000006,api:0,p:-1,c:10275) dequeueBuffer: BufferQueue has no connected producer
+12-26 16:53:59.850 10275 10556 E mali_so : encounter the first mali_error : 0x0002 : failed to allocate CPU memory (gles_fb_first_operation_cb at hardware/arm/maliT760/driver/product/gles/src/fb/mali_gles_fb_module_api.c:987)
+12-26 16:53:59.850 10275 10552 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.DetectCalcActivity]#4(BLAST Consumer)4](id:282300000004,api:0,p:-1,c:10275) dequeueBuffer: BufferQueue has no connected producer
+12-26 16:53:59.850 10275 10556 E BufferQueueProducer: [SurfaceView[]#5(BLAST Consumer)5](id:282300000006,api:0,p:-1,c:10275) dequeueBuffer: BufferQueue has no connected producer
+12-26 16:53:59.850 10275 10552 E mali_so : encounter the first mali_error : 0x0002 : failed to allocate CPU memory (gles_fb_first_operation_cb at hardware/arm/maliT760/driver/product/gles/src/fb/mali_gles_fb_module_api.c:987)
+12-26 16:53:59.851 10275 10556 E BufferQueueProducer: [SurfaceView[]#5(BLAST Consumer)5](id:282300000006,api:0,p:-1,c:10275) disconnect: not connected (req=1)
+12-26 16:53:59.851 10275 10552 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.DetectCalcActivity]#4(BLAST Consumer)4](id:282300000004,api:0,p:-1,c:10275) dequeueBuffer: BufferQueue has been abandoned
+12-26 16:54:03.021 10275 10635 E getNewVersion: null
+12-26 16:54:08.143 10275 10541 E UsbDeviceConnectionJNI: device is closed in native_control_request
+12-26 16:54:08.143 10275 10541 E UsbDeviceConnectionJNI: device is closed in native_control_request
+12-26 16:54:08.143 10275 10541 E UsbDeviceConnectionJNI: device is closed in native_control_request
+12-26 16:54:16.501 10275 10275 E checkLicense: checkLicense
+12-26 16:54:17.038 10275 10275 E checkLicense sfAuthErrorCode:      true
+12-26 16:54:20.357 10275 10275 E paymentProviderType: {"channelName":"测试","paymentProviderType":"ppt_SF_Test"}
+12-26 16:54:21.287 10275 10701 E SyncDataService_onStartCommand: false
+12-26 16:54:21.289 10275 10701 E PaymentProvider__syncData: 13 
+12-26 16:54:21.305 10275 10702 E syncSubImage: 1 
+12-26 16:54:21.364 10275 10699 E getNewVersion: null
+12-26 16:54:22.090 10275 10275 E language: ch
+12-26 16:54:22.209 10275 10275 E parseDishTag: 酒水饮料
+12-26 16:54:22.209 10275 10275 E parseDishTag: 非标品
+12-26 16:54:22.212 10275 10731 E showDishScheduleByDateList: {"breakfast":[],"date":"2023-12-26","lunch":[],"supper":[{"checkColor":true,"checkPlateArea":false,"checkShape":false,"classId":0,"color":"白色","confidence":1.0,"discount":0.0,"id":3329,"imageId":"edfb40a0f1814dd79339b4e0d5304a8a","name":"花卷","plateArea":37325,"price":1.0,"shape":"圆形","tag":"酒水饮料","weight":150},{"checkColor":false,"checkPlateArea":false,"checkShape":false,"classId":6,"color":"不锈钢","confidence":0.0,"discount":0.0,"id":3335,"imageId":"1b7e116d434b4bf391f5ce250928d470","name":"柿子","plateArea":28952,"price":14.0,"shape":"圆形","tag":"","weight":150},{"checkColor":false,"checkPlateArea":false,"checkShape":false,"classId":8,"confidence":0.0,"discount":0.0,"id":3337,"imageId":"fcd5db9288904ffe8da05ff028002905","name":"百世可乐","price":10.0,"tag":"","weight":150},{"checkColor":false,"checkPlateArea":false,"checkShape":false,"classId":9,"color":"白色","confidence":0.0,"discount":0.0,"id":3338,"imageId":"98bf84d0b000421cb90ba05e401a0f5b","name":"大面包","plateArea":24884,"price":6.0,"shape":"圆形","tag":"","weight":150},{"checkColor":false,"checkPlateArea":false,"checkShape":false,"classId":10,"confidence":0.0,"discount":0.0,"id":3339,"imageId":"2e81643ef2824450bca1de807f04c921","name":"桃子","price":4.0,"tag":"","weight":150}]}
+12-26 16:54:22.257 10275 10702 E UploadDishTaskService_setGroundTruth: {"products":[{"classId":10,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/71a3b913-925f-4978-9da9-1f69a8a24033.jpg_0.jpg","operation":"NONE","posIndex":0,"predictClassId":10,"productName":"桃子","tag":""},{"classId":9,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/71a3b913-925f-4978-9da9-1f69a8a24033.jpg_1.jpg","operation":"NONE","posIndex":1,"predictClassId":9,"productName":"大面包","tag":""},{"classId":8,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/71a3b913-925f-4978-9da9-1f69a8a24033.jpg_3.jpg","operation":"NONE","posIndex":3,"predictClassId":8,"productName":"百世可乐","tag":""},{"classId":6,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/71a3b913-925f-4978-9da9-1f69a8a24033.jpg_4.jpg","operation":"NONE","posIndex":4,"predictClassId":6,"productName":"柿子","tag":""},{"classId":10,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/71a3b913-925f-4978-9da9-1f69a8a24033.jpg_5.jpg","operation":"NONE","posIndex":5,"predictClassId":10,"productName":"桃子","tag":""}],"requestId":"c65703cdb3e64662a94d46c132729b7b"}
+12-26 16:54:24.387 10275 10735 E getNewVersion: null
+12-26 16:54:25.097 10275 10275 E Bundle  : putString->args_tag:null
+12-26 16:54:25.097 10275 10275 E Bundle  : putString->args_tag:null
+12-26 16:54:25.097 10275 10275 E Bundle  : putString->args_tag:null
+12-26 16:54:25.097 10275 10275 E Bundle  : putString->args_tag:null
+12-26 16:54:25.116 10275 10275 E language: ch
+12-26 16:54:25.199 10275 10275 E TradeOrderPresenter__doSearchTradeOrder  srcUserName:  
+12-26 16:54:25.199 10275 10275 E getTradeOrders:       2023-12-26 00:00:00 2023-12-26 16:57:59
+12-26 16:54:25.205 10275 10275 E findTraderOrders: 0   7
+12-26 16:54:25.206 10275 10275 E doSearchTradeOrder: 0  7  
+12-26 16:54:25.208 10275 10275 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-26 16:54:25.243 10275 10742 E ts_scan_state_fun: 1 
+12-26 16:54:25.244 10275 10745 E ts_scan_state_fun: 1 
+12-26 16:54:25.368 10275 10752 E ywl5320 : fbo success
+12-26 16:54:25.368 10275 10752 E mali_so : encounter the first gles_error : 0x0001; gles_state_error_info : <param> is not an accepted value (gles_texturep_tex_parameteri_input_param_validation at hardware/arm/maliT760/driver/product/gles/src/texture/mali_gles_texture_helpers.c:1095)
+12-26 16:54:26.137 10275 10275 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-26 16:54:27.008 10275 10767 E innerRecognize: recognizeByFilter6
+12-26 16:54:27.008 10275 10767 E recognize: 619ms   /storage/emulated/0/shifang/ai_dish/image/20231226/25ba1a16-56f4-481b-8da6-e57a6664f1e0.jpg  
+12-26 16:54:27.092 10275 10275 E resultDishCount: 6 个菜品
+12-26 16:54:28.471 10275 10275 E doFeedbackDishes: {"products":[{"classId":9,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/25ba1a16-56f4-481b-8da6-e57a6664f1e0.jpg_0.jpg","operation":"NONE","posIndex":0,"predictClassId":9,"productName":"大面包","tag":""},{"classId":10,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/25ba1a16-56f4-481b-8da6-e57a6664f1e0.jpg_2.jpg","operation":"NONE","posIndex":2,"predictClassId":10,"productName":"桃子","tag":""},{"classId":8,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/25ba1a16-56f4-481b-8da6-e57a6664f1e0.jpg_3.jpg","operation":"NONE","posIndex":3,"predictClassId":8,"productName":"百世可乐","tag":""},{"classId":10,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/25ba1a16-56f4-481b-8da6-e57a6664f1e0.jpg_4.jpg","operation":"NONE","posIndex":4,"predictClassId":10,"productName":"桃子","tag":""},{"classId":6,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/25ba1a16-56f4-481b-8da6-e57a6664f1e0.jpg_5.jpg","operation":"NONE","posIndex":5,"predictClassId":6,"productName":"柿子","tag":""}],"requestId":"1fb07b34c26d4ec783532c18bf110043"}
+12-26 16:54:28.479 10275 10275 E updateSchedule: {"date":"2023-12-26","supper":"3329,3335,3337,3338,3339"}
+12-26 16:54:28.480 10275 10596 E currentDishSchedule_update: {"date":"2023-12-26","id":6,"supper":"3329,3335,3337,3338,3339"}
+12-26 16:54:28.616 10275 10780 E updateProductFeature: {"classId":9,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/25ba1a16-56f4-481b-8da6-e57a6664f1e0.jpg_0.jpg","operation":"NONE","posIndex":0,"predictClassId":9,"productName":"大面包","tag":""}
+12-26 16:54:28.670 10275 10780 E updateProductFeature: {"classId":10,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/25ba1a16-56f4-481b-8da6-e57a6664f1e0.jpg_2.jpg","operation":"NONE","posIndex":2,"predictClassId":10,"productName":"桃子","tag":""}
+12-26 16:54:28.747 10275 10780 E updateProductFeature: {"classId":8,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/25ba1a16-56f4-481b-8da6-e57a6664f1e0.jpg_3.jpg","operation":"NONE","posIndex":3,"predictClassId":8,"productName":"百世可乐","tag":""}
+12-26 16:54:28.808 10275 10780 E updateProductFeature: {"classId":10,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/25ba1a16-56f4-481b-8da6-e57a6664f1e0.jpg_4.jpg","operation":"NONE","posIndex":4,"predictClassId":10,"productName":"桃子","tag":""}
+12-26 16:54:28.865 10275 10780 E updateProductFeature: {"classId":6,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/25ba1a16-56f4-481b-8da6-e57a6664f1e0.jpg_5.jpg","operation":"NONE","posIndex":5,"predictClassId":6,"productName":"柿子","tag":""}
+12-26 16:54:31.777 10275 10516 E syncSubImage: 1 
+12-26 16:54:32.319 10275 10516 E UploadDishTaskService_setGroundTruth: {"products":[{"classId":9,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/25ba1a16-56f4-481b-8da6-e57a6664f1e0.jpg_0.jpg","operation":"NONE","posIndex":0,"predictClassId":9,"productName":"大面包","tag":""},{"classId":10,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/25ba1a16-56f4-481b-8da6-e57a6664f1e0.jpg_2.jpg","operation":"NONE","posIndex":2,"predictClassId":10,"productName":"桃子","tag":""},{"classId":8,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/25ba1a16-56f4-481b-8da6-e57a6664f1e0.jpg_3.jpg","operation":"NONE","posIndex":3,"predictClassId":8,"productName":"百世可乐","tag":""},{"classId":10,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/25ba1a16-56f4-481b-8da6-e57a6664f1e0.jpg_4.jpg","operation":"NONE","posIndex":4,"predictClassId":10,"productName":"桃子","tag":""},{"classId":6,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/25ba1a16-56f4-481b-8da6-e57a6664f1e0.jpg_5.jpg","operation":"NONE","posIndex":5,"predictClassId":6,"productName":"柿子","tag":""}],"requestId":"1fb07b34c26d4ec783532c18bf110043"}
+12-26 16:54:32.602 10275 10738 E scanResult: NFC162999845    
+12-26 16:54:32.609 10275 10800 E setReaderCode: NFC162999845  true    true   PAY_WAIT
+12-26 16:54:32.609 10275 10800 E readIdResult: 162999845   kCard
+12-26 16:54:32.631 10275 10800 E PaymentProvider___innerPay_paymentResult: {"amount":38.0,"balance":7522.0,"fee":38.0,"params":{"beforeDiscountAmount":38.0,"discount":100.0,"orderId":"1703580872614","orders":[{"name":"大面包","price":6.0,"trayOrderItemType":"DISTINGUISH"},{"name":"桃子","price":4.0,"trayOrderItemType":"DISTINGUISH"},{"name":"百世可乐","price":10.0,"trayOrderItemType":"DISTINGUISH"},{"name":"桃子","price":4.0,"trayOrderItemType":"DISTINGUISH"},{"name":"柿子","price":14.0,"trayOrderItemType":"DISTINGUISH"}],"ordertype":"ot_Consume","payId":"0162999845","paytype":"kCard","totalAmount":38.0},"payId":"0162999845","payStatus":"PAY_SUCCESS","payType":"kCard","paymentProviderType":"ppt_SF_Test","tradeNo":"1703580872629","userId":"testUser"}
+12-26 16:54:32.631 10275 10800 E PaymentProvider__updateUserInfo: {"amount":38.0,"balance":7522.0,"fee":38.0,"params":{"beforeDiscountAmount":38.0,"discount":100.0,"orderId":"1703580872614","orders":[{"name":"大面包","price":6.0,"trayOrderItemType":"DISTINGUISH"},{"name":"桃子","price":4.0,"trayOrderItemType":"DISTINGUISH"},{"name":"百世可乐","price":10.0,"trayOrderItemType":"DISTINGUISH"},{"name":"桃子","price":4.0,"trayOrderItemType":"DISTINGUISH"},{"name":"柿子","price":14.0,"trayOrderItemType":"DISTINGUISH"}],"ordertype":"ot_Consume","payId":"0162999845","paytype":"kCard","totalAmount":38.0},"payId":"0162999845","payStatus":"PAY_SUCCESS","payType":"kCard","paymentProviderType":"ppt_SF_Test","tradeNo":"1703580872629","userId":"testUser"}
+12-26 16:54:32.638 10275 10800 E scanResult: NFC162999845  完成
+12-26 16:54:32.761 10275 10275 E TradeOrderPresenter__createTradeOrder: 1703580872629 
+12-26 16:54:32.761 10275 10275 E TradeOrderPresenter__doSearchTradeOrder  srcUserName:  
+12-26 16:54:32.761 10275 10275 E getTradeOrders:       2023-12-26 00:00:00 2023-12-26 16:57:59
+12-26 16:54:32.777 10275 10275 E findTraderOrders: 1   8
+12-26 16:54:32.779 10275 10275 E doSearchTradeOrder: 1  8  
+12-26 16:54:34.628 10275 10738 E scanResult: NFC162999845    
+12-26 16:54:34.628 10275 10806 E setReaderCode: NFC162999845  true    false   PAY_SUCCESS
+12-26 16:54:36.676 10275 10738 E scanResult: NFC162999845    
+12-26 16:54:36.676 10275 10809 E setReaderCode: NFC162999845  true    false   PAY_SUCCESS
+12-26 16:54:41.665 10275 10275 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-26 16:55:22.896 10275 10702 E syncSubImage: 0 
+12-26 16:55:27.148 10275 10275 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-26 16:55:27.880 10275 10863 E innerRecognize: recognizeByFilter6
+12-26 16:55:27.880 10275 10863 E recognize: 669ms   /storage/emulated/0/shifang/ai_dish/image/20231226/04c93548-9e37-476b-b162-e7432261ecef.jpg  
+12-26 16:55:27.990 10275 10275 E resultDishCount: 6 个菜品
+12-26 16:55:29.110 10275 10275 E resultDishCount: 6 个菜品
+12-26 16:55:32.419 10275 10516 E syncSubImage: 1 
+12-26 16:55:32.898 10275 10275 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-26 16:55:33.692 10275 10882 E innerRecognize: recognizeByFilter5
+12-26 16:55:33.692 10275 10882 E recognize: 536ms   /storage/emulated/0/shifang/ai_dish/image/20231226/f0c51bd3-8670-4553-9d38-68d26c6879f9.jpg  
+12-26 16:55:33.740 10275 10275 E resultDishCount: 5 个菜品
+12-26 16:55:37.164 10275 10275 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-26 16:55:38.075 10275 10894 E innerRecognize: recognizeByFilter5
+12-26 16:55:38.075 10275 10894 E recognize: 644ms   /storage/emulated/0/shifang/ai_dish/image/20231226/8f26a231-0fda-422f-848e-8aad2bd1c683.jpg  
+12-26 16:55:38.165 10275 10275 E resultDishCount: 5 个菜品
+12-26 16:56:18.158 10275 10275 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-26 16:56:19.049 10275 10948 E innerRecognize: recognizeByFilter6
+12-26 16:56:19.049 10275 10948 E recognize: 646ms   /storage/emulated/0/shifang/ai_dish/image/20231226/235d5aac-ad27-496b-95e2-d861d9408fc1.jpg  
+12-26 16:56:19.104 10275 10275 E resultDishCount: 6 个菜品
+12-26 16:56:21.078 10275 10275 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-26 16:56:21.962 10275 10960 E innerRecognize: recognizeByFilter6
+12-26 16:56:21.962 10275 10960 E recognize: 632ms   /storage/emulated/0/shifang/ai_dish/image/20231226/7fa679ca-7412-4625-8f90-ca3385804893.jpg  
+12-26 16:56:22.075 10275 10275 E resultDishCount: 6 个菜品
+12-26 16:56:22.955 10275 10702 E syncSubImage: 4 
+12-26 16:56:23.659 10275 10275 E doFeedbackDishes: {"products":[{"classId":9,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/235d5aac-ad27-496b-95e2-d861d9408fc1.jpg_0.jpg","operation":"NONE","posIndex":0,"predictClassId":9,"productName":"大面包","tag":""},{"classId":8,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/235d5aac-ad27-496b-95e2-d861d9408fc1.jpg_1.jpg","operation":"NONE","posIndex":1,"predictClassId":8,"productName":"百世可乐","tag":""},{"classId":10,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/235d5aac-ad27-496b-95e2-d861d9408fc1.jpg_2.jpg","operation":"NONE","posIndex":2,"predictClassId":10,"productName":"桃子","tag":""},{"classId":6,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/235d5aac-ad27-496b-95e2-d861d9408fc1.jpg_3.jpg","operation":"NONE","posIndex":3,"predictClassId":6,"productName":"柿子","tag":""},{"classId":10,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/235d5aac-ad27-496b-95e2-d861d9408fc1.jpg_4.jpg","operation":"NONE","posIndex":4,"predictClassId":10,"productName":"桃子","tag":""}],"requestId":"b70f635a437348e79bf81a5a78811ade"}
+12-26 16:56:23.661 10275 10275 E doFeedbackDishes: {"products":[{"classId":9,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/7fa679ca-7412-4625-8f90-ca3385804893.jpg_0.jpg","operation":"NONE","posIndex":0,"predictClassId":9,"productName":"大面包","tag":""},{"classId":8,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/7fa679ca-7412-4625-8f90-ca3385804893.jpg_1.jpg","operation":"NONE","posIndex":1,"predictClassId":8,"productName":"百世可乐","tag":""},{"classId":10,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/7fa679ca-7412-4625-8f90-ca3385804893.jpg_2.jpg","operation":"NONE","posIndex":2,"predictClassId":10,"productName":"桃子","tag":""},{"classId":6,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/7fa679ca-7412-4625-8f90-ca3385804893.jpg_3.jpg","operation":"NONE","posIndex":3,"predictClassId":6,"productName":"柿子","tag":""}],"requestId":"a9e8bc7c90934f15abba998d51109bc1"}
+12-26 16:56:23.683 10275 10275 E updateSchedule: {"date":"2023-12-26","supper":"3329,3335,3337,3338,3339"}
+12-26 16:56:23.684 10275 10974 E currentDishSchedule_update: {"date":"2023-12-26","id":6,"supper":"3329,3335,3337,3338,3339"}
+12-26 16:56:23.771 10275 10971 E updateProductFeature: {"classId":9,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/235d5aac-ad27-496b-95e2-d861d9408fc1.jpg_0.jpg","operation":"NONE","posIndex":0,"predictClassId":9,"productName":"大面包","tag":""}
+12-26 16:56:23.788 10275 10972 E updateProductFeature: {"classId":9,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/7fa679ca-7412-4625-8f90-ca3385804893.jpg_0.jpg","operation":"NONE","posIndex":0,"predictClassId":9,"productName":"大面包","tag":""}
+12-26 16:56:23.831 10275 10971 E updateProductFeature: {"classId":8,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/235d5aac-ad27-496b-95e2-d861d9408fc1.jpg_1.jpg","operation":"NONE","posIndex":1,"predictClassId":8,"productName":"百世可乐","tag":""}
+12-26 16:56:23.852 10275 10972 E updateProductFeature: {"classId":8,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/7fa679ca-7412-4625-8f90-ca3385804893.jpg_1.jpg","operation":"NONE","posIndex":1,"predictClassId":8,"productName":"百世可乐","tag":""}
+12-26 16:56:23.889 10275 10971 E updateProductFeature: {"classId":10,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/235d5aac-ad27-496b-95e2-d861d9408fc1.jpg_2.jpg","operation":"NONE","posIndex":2,"predictClassId":10,"productName":"桃子","tag":""}
+12-26 16:56:23.909 10275 10972 E updateProductFeature: {"classId":10,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/7fa679ca-7412-4625-8f90-ca3385804893.jpg_2.jpg","operation":"NONE","posIndex":2,"predictClassId":10,"productName":"桃子","tag":""}
+12-26 16:56:23.951 10275 10971 E updateProductFeature: {"classId":6,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/235d5aac-ad27-496b-95e2-d861d9408fc1.jpg_3.jpg","operation":"NONE","posIndex":3,"predictClassId":6,"productName":"柿子","tag":""}
+12-26 16:56:23.985 10275 10972 E updateProductFeature: {"classId":6,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/7fa679ca-7412-4625-8f90-ca3385804893.jpg_3.jpg","operation":"NONE","posIndex":3,"predictClassId":6,"productName":"柿子","tag":""}
+12-26 16:56:24.007 10275 10971 E updateProductFeature: {"classId":10,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/235d5aac-ad27-496b-95e2-d861d9408fc1.jpg_4.jpg","operation":"NONE","posIndex":4,"predictClassId":10,"productName":"桃子","tag":""}
+12-26 16:56:24.660 10275 10275 E USBTransferUtil: 当前可用 usb 设备数量: 0
+12-26 16:56:32.505 10275 10516 E syncSubImage: 0 
+12-26 16:56:32.540 10275 10516 E UploadDishTaskService_setGroundTruth: {"products":[{"classId":9,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/235d5aac-ad27-496b-95e2-d861d9408fc1.jpg_0.jpg","operation":"NONE","posIndex":0,"predictClassId":9,"productName":"大面包","tag":""},{"classId":8,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/235d5aac-ad27-496b-95e2-d861d9408fc1.jpg_1.jpg","operation":"NONE","posIndex":1,"predictClassId":8,"productName":"百世可乐","tag":""},{"classId":10,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/235d5aac-ad27-496b-95e2-d861d9408fc1.jpg_2.jpg","operation":"NONE","posIndex":2,"predictClassId":10,"productName":"桃子","tag":""},{"classId":6,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/235d5aac-ad27-496b-95e2-d861d9408fc1.jpg_3.jpg","operation":"NONE","posIndex":3,"predictClassId":6,"productName":"柿子","tag":""},{"classId":10,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/235d5aac-ad27-496b-95e2-d861d9408fc1.jpg_4.jpg","operation":"NONE","posIndex":4,"predictClassId":10,"productName":"桃子","tag":""}],"requestId":"b70f635a437348e79bf81a5a78811ade"}
+12-26 16:56:32.542 10275 10516 E UploadDishTaskService_setGroundTruth: {"products":[{"classId":9,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/7fa679ca-7412-4625-8f90-ca3385804893.jpg_0.jpg","operation":"NONE","posIndex":0,"predictClassId":9,"productName":"大面包","tag":""},{"classId":8,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/7fa679ca-7412-4625-8f90-ca3385804893.jpg_1.jpg","operation":"NONE","posIndex":1,"predictClassId":8,"productName":"百世可乐","tag":""},{"classId":10,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/7fa679ca-7412-4625-8f90-ca3385804893.jpg_2.jpg","operation":"NONE","posIndex":2,"predictClassId":10,"productName":"桃子","tag":""},{"classId":6,"cropImagePath":"/storage/emulated/0/shifang/ai_dish/image//20231226/7fa679ca-7412-4625-8f90-ca3385804893.jpg_3.jpg","operation":"NONE","posIndex":3,"predictClassId":6,"productName":"柿子","tag":""}],"requestId":"a9e8bc7c90934f15abba998d51109bc1"}
+12-26 16:57:23.166 10275 10702 E syncSubImage: 0 
+12-26 16:57:32.777 10275 10516 E syncSubImage: 0 
+12-26 16:58:23.226 10275 10702 E syncSubImage: 0 
+12-26 16:58:26.467 10275 10275 E surfaceDestroyed: ------
+12-26 16:58:26.469 10275 10275 E surfaceDestroyed: ------
+12-26 16:58:26.471 10275 10754 E BufferQueueProducer: [SurfaceView[]#20(BLAST Consumer)20](id:282300000017,api:0,p:-1,c:10275) dequeueBuffer: BufferQueue has no connected producer
+12-26 16:58:26.471 10275 10754 E mali_so : encounter the first mali_error : 0x0002 : failed to allocate CPU memory (gles_fb_first_operation_cb at hardware/arm/maliT760/driver/product/gles/src/fb/mali_gles_fb_module_api.c:987)
+12-26 16:58:26.471 10275 10754 E BufferQueueProducer: [SurfaceView[]#20(BLAST Consumer)20](id:282300000017,api:0,p:-1,c:10275) dequeueBuffer: BufferQueue has no connected producer
+12-26 16:58:26.473 10275 10754 E BufferQueueProducer: [SurfaceView[]#20(BLAST Consumer)20](id:282300000017,api:0,p:-1,c:10275) disconnect: not connected (req=1)
+12-26 16:58:26.477 10275 10752 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.DetectCalcActivity]#19(BLAST Consumer)19](id:282300000015,api:0,p:-1,c:10275) dequeueBuffer: BufferQueue has been abandoned
+12-26 16:58:26.477 10275 10752 E mali_so : encounter the first mali_error : 0x0002 : failed to allocate CPU memory (gles_fb_first_operation_cb at hardware/arm/maliT760/driver/product/gles/src/fb/mali_gles_fb_module_api.c:987)
+12-26 16:58:26.478 10275 10752 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.DetectCalcActivity]#19(BLAST Consumer)19](id:282300000015,api:0,p:-1,c:10275) dequeueBuffer: BufferQueue has been abandoned
+12-26 16:58:26.529 10275 10275 E TradeOrderPresenter__doSearchTradeOrder  srcUserName:  
+12-26 16:58:26.529 10275 10275 E getTradeOrders:       2023-12-26 00:00:00 2023-12-26 17:01:59
+12-26 16:58:26.535 10275 10275 E findTraderOrders: 1   8
+12-26 16:58:26.536 10275 10275 E doSearchTradeOrder: 1  8  
+12-26 16:58:32.856 10275 10516 E syncSubImage: 0 
+12-26 16:58:42.246 10275 10275 E getRefundTradeOrder: []     38.0
+12-26 16:58:42.248 10275 10275 E refund_amount  canRefundAmount: 38.0 
+12-26 16:59:23.284 10275 10702 E syncSubImage: 0 
+12-26 16:59:32.930 10275 10516 E syncSubImage: 0 
+12-26 17:00:23.350 10275 10702 E syncSubImage: 0 
+12-26 17:00:33.010 10275 10516 E syncSubImage: 0 
+12-26 17:01:23.411 10275 10702 E syncSubImage: 0 
+12-26 17:01:33.086 10275 10516 E syncSubImage: 0 
+12-26 17:01:50.928 10275 10275 E SysEventReceiver: 安装包被替换了
+12-26 17:01:50.929 10275 10275 E SysEventReceiver: 安装包被替换了
+12-26 17:01:50.929 10275 10275 E SysEventReceiver: 重启完成
+12-26 17:02:23.491 10275 10702 E syncSubImage: 0 
+12-26 17:02:33.173 10275 10516 E syncSubImage: 0 
+12-26 17:03:06.427 10275 10275 E getRefundTradeOrder: []     38.0
+12-26 17:03:06.428 10275 10275 E refund_amount  canRefundAmount: 38.0 
+12-26 17:03:15.758 10275 10275 E getRefundTradeOrder: []     38.0
+12-26 17:03:15.759 10275 10275 E refund_amount  canRefundAmount: 38.0 
+12-26 17:03:23.565 10275 10702 E syncSubImage: 0 
+12-26 17:03:33.241 10275 10516 E syncSubImage: 0 
+12-26 17:04:23.644 10275 10702 E syncSubImage: 0 
+12-26 17:04:33.307 10275 10516 E syncSubImage: 0 
+12-26 17:06:24.867 10275 10275 E TradeOrderPresenter__doSearchTradeOrder  srcUserName:  
+12-26 17:06:24.867 10275 10275 E getTradeOrders:       2023-12-26 00:00:00 2023-12-26 17:09:59
+12-26 17:06:24.869 10275 10275 E AndroidRuntime: FATAL EXCEPTION: main
+12-26 17:06:24.869 10275 10275 E AndroidRuntime: Process: com.shifang.aidish.offline, PID: 10275
+12-26 17:06:24.869 10275 10275 E AndroidRuntime: java.lang.RuntimeException: Unable to resume activity {com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.DetectCalcActivity}: net.sqlcipher.database.SQLiteDiskIOException: disk I/O error
+12-26 17:06:24.869 10275 10275 E AndroidRuntime: 	at android.app.ActivityThread.performResumeActivity(ActivityThread.java:4824)
+12-26 17:06:24.869 10275 10275 E AndroidRuntime: 	at android.app.ActivityThread.handleResumeActivity(ActivityThread.java:4857)
+12-26 17:06:24.869 10275 10275 E AndroidRuntime: 	at android.app.servertransaction.ResumeActivityItem.execute(ResumeActivityItem.java:54)
+12-26 17:06:24.869 10275 10275 E AndroidRuntime: 	at android.app.servertransaction.ActivityTransactionItem.execute(ActivityTransactionItem.java:45)
+12-26 17:06:24.869 10275 10275 E AndroidRuntime: 	at android.app.servertransaction.TransactionExecutor.executeLifecycleState(TransactionExecutor.java:176)
+12-26 17:06:24.869 10275 10275 E AndroidRuntime: 	at android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:97)
+12-26 17:06:24.869 10275 10275 E AndroidRuntime: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2253)
+12-26 17:06:24.869 10275 10275 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:106)
+12-26 17:06:24.869 10275 10275 E AndroidRuntime: 	at android.os.Looper.loopOnce(Looper.java:201)
+12-26 17:06:24.869 10275 10275 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:288)
+12-26 17:06:24.869 10275 10275 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:7870)
+12-26 17:06:24.869 10275 10275 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Native Method)
+12-26 17:06:24.869 10275 10275 E AndroidRuntime: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:548)
+12-26 17:06:24.869 10275 10275 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1003)
+12-26 17:06:24.869 10275 10275 E AndroidRuntime: Caused by: net.sqlcipher.database.SQLiteDiskIOException: disk I/O error
+12-26 17:06:24.869 10275 10275 E AndroidRuntime: 	at net.sqlcipher.database.SQLiteQuery.native_fill_window(Native Method)
+12-26 17:06:24.869 10275 10275 E AndroidRuntime: 	at net.sqlcipher.database.SQLiteQuery.fillWindow(SQLiteQuery.java:79)
+12-26 17:06:24.869 10275 10275 E AndroidRuntime: 	at net.sqlcipher.database.SQLiteCursor.fillWindow(SQLiteCursor.java:299)
+12-26 17:06:24.869 10275 10275 E AndroidRuntime: 	at net.sqlcipher.database.SQLiteCursor.getCount(SQLiteCursor.java:280)
+12-26 17:06:24.869 10275 10275 E AndroidRuntime: 	at android.database.CursorWrapper.getCount(CursorWrapper.java:64)
+12-26 17:06:24.869 10275 10275 E AndroidRuntime: 	at org.greenrobot.greendao.AbstractDao.loadAllFromCursor(AbstractDao.java:453)
+12-26 17:06:24.869 10275 10275 E AndroidRuntime: 	at org.greenrobot.greendao.AbstractDao.loadAllAndCloseCursor(AbstractDao.java:203)
+12-26 17:06:24.869 10275 10275 E AndroidRuntime: 	at org.greenrobot.greendao.InternalQueryDaoAccess.loadAllAndCloseCursor(InternalQueryDaoAccess.java:37)
+12-26 17:06:24.869 10275 10275 E AndroidRuntime: 	at org.greenrobot.greendao.query.Query.list(Query.java:89)
+12-26 17:06:24.869 10275 10275 E AndroidRuntime: 	at org.greenrobot.greendao.query.QueryBuilder.list(QueryBuilder.java:425)
+12-26 17:06:24.869 10275 10275 E AndroidRuntime: 	at com.shifang.ai.dish.utils.DishTradeOrderDaoUtil.findAll(DishTradeOrderDaoUtil.java:1)
+12-26 17:06:24.869 10275 10275 E AndroidRuntime: 	at com.shifang.ai.dish.utils.DishTradeOrderDaoUtil.findTraderOrders(DishTradeOrderDaoUtil.java:2)
+12-26 17:06:24.869 10275 10275 E AndroidRuntime: 	at com.shifang.ai.dish.service.order.DishTradeOrderServiceImpl.findTraderOrders(DishTradeOrderServiceImpl.java:1)
+12-26 17:06:24.869 10275 10275 E AndroidRuntime: 	at a.b.a.a.a.a.getTradeOrders(SFDishManagerImpl.java:7)
+12-26 17:06:24.869 10275 10275 E AndroidRuntime: 	at com.shifang.aidish.mvp.presenter.TradeOrderPresenter.doSearchTradeOrder(TradeOrderPresenter.java:161)
+12-26 17:06:24.869 10275 10275 E AndroidRuntime: 	at com.shifang.aidish.mvp.ui.DetectCalcActivity.getTodayTradeOrder(DetectCalcActivity.java:689)
+12-26 17:06:24.869 10275 10275 E AndroidRuntime: 	at com.shifang.aidish.mvp.ui.DetectCalcActivity.onResume(DetectCalcActivity.java:497)
+12-26 17:06:24.869 10275 10275 E AndroidRuntime: 	at android.app.Instrumentation.callActivityOnResume(Instrumentation.java:1488)
+12-26 17:06:24.869 10275 10275 E AndroidRuntime: 	at android.app.Activity.performResume(Activity.java:8222)
+12-26 17:06:24.869 10275 10275 E AndroidRuntime: 	at android.app.ActivityThread.performResumeActivity(ActivityThread.java:4814)
+12-26 17:06:24.869 10275 10275 E AndroidRuntime: 	... 13 more
+12-26 17:06:25.502 10275 10275 E CrashHandler: java.lang.RuntimeException: Unable to resume activity {com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.DetectCalcActivity}: net.sqlcipher.database.SQLiteDiskIOException: disk I/O error
+12-26 17:06:25.502 10275 10275 E CrashHandler: 	at android.app.ActivityThread.performResumeActivity(ActivityThread.java:4824)
+12-26 17:06:25.502 10275 10275 E CrashHandler: 	at android.app.ActivityThread.handleResumeActivity(ActivityThread.java:4857)
+12-26 17:06:25.502 10275 10275 E CrashHandler: 	at android.app.servertransaction.ResumeActivityItem.execute(ResumeActivityItem.java:54)
+12-26 17:06:25.502 10275 10275 E CrashHandler: 	at android.app.servertransaction.ActivityTransactionItem.execute(ActivityTransactionItem.java:45)
+12-26 17:06:25.502 10275 10275 E CrashHandler: 	at android.app.servertransaction.TransactionExecutor.executeLifecycleState(TransactionExecutor.java:176)
+12-26 17:06:25.502 10275 10275 E CrashHandler: 	at android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:97)
+12-26 17:06:25.502 10275 10275 E CrashHandler: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2253)
+12-26 17:06:25.502 10275 10275 E CrashHandler: 	at android.os.Handler.dispatchMessage(Handler.java:106)
+12-26 17:06:25.502 10275 10275 E CrashHandler: 	at android.os.Looper.loopOnce(Looper.java:201)
+12-26 17:06:25.502 10275 10275 E CrashHandler: 	at android.os.Looper.loop(Looper.java:288)
+12-26 17:06:25.502 10275 10275 E CrashHandler: 	at android.app.ActivityThread.main(ActivityThread.java:7870)
+12-26 17:06:25.502 10275 10275 E CrashHandler: 	at java.lang.reflect.Method.invoke(Native Method)
+12-26 17:06:25.502 10275 10275 E CrashHandler: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:548)
+12-26 17:06:25.502 10275 10275 E CrashHandler: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1003)
+12-26 17:06:25.502 10275 10275 E CrashHandler: Caused by: net.sqlcipher.database.SQLiteDiskIOException: disk I/O error
+12-26 17:06:25.502 10275 10275 E CrashHandler: 	at net.sqlcipher.database.SQLiteQuery.native_fill_window(Native Method)
+12-26 17:06:25.502 10275 10275 E CrashHandler: 	at net.sqlcipher.database.SQLiteQuery.fillWindow(SQLiteQuery.java:79)
+12-26 17:06:25.502 10275 10275 E CrashHandler: 	at net.sqlcipher.database.SQLiteCursor.fillWindow(SQLiteCursor.java:299)
+12-26 17:06:25.502 10275 10275 E CrashHandler: 	at net.sqlcipher.database.SQLiteCursor.getCount(SQLiteCursor.java:280)
+12-26 17:06:25.502 10275 10275 E CrashHandler: 	at android.database.CursorWrapper.getCount(CursorWrapper.java:64)
+12-26 17:06:25.502 10275 10275 E CrashHandler: 	at org.greenrobot.greendao.AbstractDao.loadAllFromCursor(AbstractDao.java:453)
+12-26 17:06:25.502 10275 10275 E CrashHandler: 	at org.greenrobot.greendao.AbstractDao.loadAllAndCloseCursor(AbstractDao.java:203)
+12-26 17:06:25.502 10275 10275 E CrashHandler: 	at org.greenrobot.greendao.InternalQueryDaoAccess.loadAllAndCloseCursor(InternalQueryDaoAccess.java:37)
+12-26 17:06:25.502 10275 10275 E CrashHandler: 	at org.greenrobot.greendao.query.Query.list(Query.java:89)
+12-26 17:06:25.502 10275 10275 E CrashHandler: 	at org.greenrobot.greendao.query.QueryBuilder.list(QueryBuilder.java:425)
+12-26 17:06:25.502 10275 10275 E CrashHandler: 	at com.shifang.ai.dish.utils.DishTradeOrderDaoUtil.findAll(DishTradeOrderDaoUtil.java:1)
+12-26 17:06:25.502 10275 10275 E CrashHandler: 	at com.shifang.ai.dish.utils.DishTradeOrderDaoUtil.findTraderOrders(DishTradeOrderDaoUtil.java:2)
+12-26 17:06:25.502 10275 10275 E CrashHandler: 	at com.shifang.ai.dish.service.order.DishTradeOrderServiceImpl.findTraderOrders(DishTradeOrderServiceImpl.java:1)
+12-26 17:06:25.502 10275 10275 E CrashHandler: 	at a.b.a.a.a.a.getTradeOrders(SFDishManagerImpl.java:7)
+12-26 17:06:25.502 10275 10275 E CrashHandler: 	at com.shifang.aidish.mvp.presenter.TradeOrderPresenter.doSearchTradeOrder(TradeOrderPresenter.java:161)
+12-26 17:06:25.502 10275 10275 E CrashHandler: 	at com.shifang.aidish.mvp.ui.DetectCalcActivity.getTodayTradeOrder(DetectCalcActivity.java:689)
+12-26 17:06:25.502 10275 10275 E CrashHandler: 	at com.shifang.aidish.mvp.ui.DetectCalcActivity.onResume(DetectCalcActivity.java:497)
+12-26 17:06:25.502 10275 10275 E CrashHandler: 	at android.app.Instrumentation.callActivityOnResume(Instrumentation.java:1488)
+12-26 17:06:25.502 10275 10275 E CrashHandler: 	at android.app.Activity.performResume(Activity.java:8222)
+12-26 17:06:25.502 10275 10275 E CrashHandler: 	at android.app.ActivityThread.performResumeActivity(ActivityThread.java:4814)
+12-26 17:06:25.502 10275 10275 E CrashHandler: 	... 13 more

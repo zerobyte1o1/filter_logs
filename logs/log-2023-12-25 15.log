@@ -1,0 +1,1042 @@
+12-25 15:48:30.739 15785 15785 E Tinker.TinkerManager: NOT tinker ApplicationLike object
+12-25 15:48:30.777 15785 15811 E Bundle  : putString->_track_generation:null
+12-25 15:48:31.045 15785 15828 E loadModel: ---true
+12-25 15:48:31.545 15785 15848 E Bundle  : putString->_track_generation:null
+12-25 15:48:31.930 15785 15828 E loadModel: 1    /storage/emulated/0/shifang/ai_dish/model/dish_v5.1.1.rk.sfm
+12-25 15:48:31.991 15785 15828 E linker  : library "/vendor/lib64/libvpu.so" ("/vendor/lib64/libvpu.so") needed or dlopened by "/data/app/~~-XlBIwetrQVWmXWxjrZxpw==/com.shifang.aidish.offline-6suZ4ikDf9BIVoB_GPUUeA==/lib/arm64/libarcsoft_face.so" is not accessible for the namespace: [name="classloader-namespace", ld_library_paths="", default_library_paths="/data/app/~~-XlBIwetrQVWmXWxjrZxpw==/com.shifang.aidish.offline-6suZ4ikDf9BIVoB_GPUUeA==/lib/arm64:/data/app/~~-XlBIwetrQVWmXWxjrZxpw==/com.shifang.aidish.offline-6suZ4ikDf9BIVoB_GPUUeA==/base.apk!/lib/arm64-v8a", permitted_paths="/data:/mnt/expand:/data/user/0/com.shifang.aidish.offline"]
+12-25 15:48:32.028 15785 15828 E activeFaceSdk: 98310 
+12-25 15:48:32.028 15785 15828 E SdkInitService_initFaceSdk: false   
+12-25 15:48:32.178 15785 15785 E Bundle  : putString->_prefix:textclassifier/
+12-25 15:48:32.178 15785 15785 E Bundle  : putString->_track_generation:null
+12-25 15:48:32.181 15785 15785 E checkLicense: checkLicense
+12-25 15:48:32.710 15785 15785 E checkLicense sfAuthErrorCode:      true
+12-25 15:48:35.089 15785 15785 E audit   : rate limit exceeded
+12-25 15:48:32.714 15785 15785 E paymentProviderType: {"channelName":"测试","paymentProviderType":"ppt_SF_Test"}
+12-25 15:48:32.849 15785 15868 E loadModel: ---true
+12-25 15:48:32.849 15785 15868 E loadModel: 1    /storage/emulated/0/shifang/ai_dish/model/dish_v5.1.1.rk.sfm
+12-25 15:48:32.942 15785 15868 E activeFaceSdk: 98310 
+12-25 15:48:32.942 15785 15868 E SdkInitService_initFaceSdk: false   
+12-25 15:51:17.192 15785 15785 E Bundle  : putString->_track_generation:null
+12-25 15:51:17.287 15785 15785 E SyncDataService_onStartCommand: false
+12-25 15:51:17.289 15785 15785 E PaymentProvider__syncData: 6 
+12-25 15:51:17.312 15785 16278 E registerBgr24: 1 
+12-25 15:51:17.312 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:51:17.312 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 15:51:17.350 15785 16278 E registerBgr24: 2 
+12-25 15:51:17.350 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:51:17.350 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 15:51:17.367 15785 16278 E registerBgr24: 3 
+12-25 15:51:17.367 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:51:17.367 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 15:51:17.381 15785 16278 E registerBgr24: 4 
+12-25 15:51:17.382 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:51:17.382 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 15:51:17.397 15785 15796 E Database: close() was never explicitly called on database '/storage/emulated/0/shifang/ai_dish/db/dish/ai_dish' 
+12-25 15:51:17.397 15785 15796 E Database: net.sqlcipher.database.DatabaseObjectNotClosedException: Application did not close the cursor or database object that was opened here
+12-25 15:51:17.397 15785 15796 E Database: 	at net.sqlcipher.database.SQLiteDatabase.<init>(SQLiteDatabase.java:2402)
+12-25 15:51:17.397 15785 15796 E Database: 	at net.sqlcipher.database.SQLiteDatabase.openDatabase(SQLiteDatabase.java:1148)
+12-25 15:51:17.397 15785 15796 E Database: 	at net.sqlcipher.database.SQLiteDatabase.openOrCreateDatabase(SQLiteDatabase.java:1212)
+12-25 15:51:17.397 15785 15796 E Database: 	at net.sqlcipher.database.SQLiteOpenHelper.getWritableDatabase(SQLiteOpenHelper.java:162)
+12-25 15:51:17.397 15785 15796 E Database: 	at net.sqlcipher.database.SQLiteOpenHelper.getWritableDatabase(SQLiteOpenHelper.java:129)
+12-25 15:51:17.397 15785 15796 E Database: 	at org.greenrobot.greendao.database.SqlCipherEncryptedHelper.getEncryptedWritableDb(SqlCipherEncryptedHelper.java:51)
+12-25 15:51:17.397 15785 15796 E Database: 	at org.greenrobot.greendao.database.DatabaseOpenHelper.getEncryptedWritableDb(DatabaseOpenHelper.java:175)
+12-25 15:51:17.397 15785 15796 E Database: 	at com.shifang.ai.dish.dao.AIDbManager.setupDatabase(AIDbManager.java:2)
+12-25 15:51:17.397 15785 15796 E Database: 	at com.shifang.ai.dish.dao.AIDbManager.initDB(AIDbManager.java:1)
+12-25 15:51:17.397 15785 15796 E Database: 	at a.b.a.a.a.a.initSdk(SFDishManagerImpl.java:1)
+12-25 15:51:17.397 15785 15796 E Database: 	at com.shifang.aidish.service.SdkInitService.initAISdk(SdkInitService.java:70)
+12-25 15:51:17.397 15785 15796 E Database: 	at com.shifang.aidish.service.SdkInitService.lambda$onCreate$0$SdkInitService(SdkInitService.java:51)
+12-25 15:51:17.397 15785 15796 E Database: 	at com.shifang.aidish.service.-$$Lambda$SdkInitService$JhcyCeWBVkD-eR_eeOkpahQGzUI.run(Unknown Source:2)
+12-25 15:51:17.397 15785 15796 E Database: 	at java.lang.Thread.run(Thread.java:920)
+12-25 15:51:17.408 15785 16278 E registerBgr24: 5 
+12-25 15:51:17.408 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:51:17.408 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 15:51:17.439 15785 16266 E getNewVersion: null
+12-25 15:51:55.308 15785 15785 E checkLicense: checkLicense
+12-25 15:51:55.832 15785 15785 E checkLicense sfAuthErrorCode:      true
+12-25 15:51:55.836 15785 15785 E paymentProviderType: {"channelName":"测试","paymentProviderType":"ppt_SF_Test"}
+12-25 15:52:17.430 15785 16278 E registerBgr24: 1 
+12-25 15:52:17.431 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:52:17.431 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 15:52:17.462 15785 16278 E registerBgr24: 2 
+12-25 15:52:17.462 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:52:17.462 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 15:52:17.473 15785 16278 E registerBgr24: 3 
+12-25 15:52:17.474 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:52:17.474 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 15:52:17.486 15785 16278 E registerBgr24: 4 
+12-25 15:52:17.486 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:52:17.486 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 15:52:17.507 15785 16278 E registerBgr24: 5 
+12-25 15:52:17.507 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:52:17.507 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 15:53:17.529 15785 16278 E registerBgr24: 1 
+12-25 15:53:17.529 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:53:17.529 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 15:53:17.560 15785 16278 E registerBgr24: 2 
+12-25 15:53:17.560 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:53:17.560 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 15:53:17.573 15785 16278 E registerBgr24: 3 
+12-25 15:53:17.573 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:53:17.573 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 15:53:17.585 15785 16278 E registerBgr24: 4 
+12-25 15:53:17.585 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:53:17.585 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 15:53:17.606 15785 16278 E registerBgr24: 5 
+12-25 15:53:17.606 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:53:17.606 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 15:54:17.623 15785 16278 E registerBgr24: 1 
+12-25 15:54:17.623 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:54:17.623 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 15:54:17.655 15785 16278 E registerBgr24: 2 
+12-25 15:54:17.655 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:54:17.655 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 15:54:17.667 15785 16278 E registerBgr24: 3 
+12-25 15:54:17.667 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:54:17.667 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 15:54:17.680 15785 16278 E registerBgr24: 4 
+12-25 15:54:17.680 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:54:17.680 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 15:54:17.701 15785 16278 E registerBgr24: 5 
+12-25 15:54:17.701 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:54:17.701 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 15:55:17.723 15785 16278 E registerBgr24: 1 
+12-25 15:55:17.723 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:55:17.723 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 15:55:17.754 15785 16278 E registerBgr24: 2 
+12-25 15:55:17.754 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:55:17.754 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 15:55:17.767 15785 16278 E registerBgr24: 3 
+12-25 15:55:17.767 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:55:17.767 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 15:55:17.779 15785 16278 E registerBgr24: 4 
+12-25 15:55:17.779 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:55:17.779 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 15:55:17.800 15785 16278 E registerBgr24: 5 
+12-25 15:55:17.800 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:55:17.800 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 15:56:17.817 15785 16278 E registerBgr24: 1 
+12-25 15:56:17.817 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:56:17.817 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 15:56:17.849 15785 16278 E registerBgr24: 2 
+12-25 15:56:17.849 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:56:17.849 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 15:56:17.862 15785 16278 E registerBgr24: 3 
+12-25 15:56:17.862 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:56:17.862 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 15:56:17.874 15785 16278 E registerBgr24: 4 
+12-25 15:56:17.874 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:56:17.874 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 15:56:17.895 15785 16278 E registerBgr24: 5 
+12-25 15:56:17.895 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:56:17.895 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 15:57:02.382 15785 15785 E SyncDataService_onStartCommand: false
+12-25 15:57:02.383 15785 15785 E PaymentProvider__syncData: 6 
+12-25 15:57:02.409 15785 16659 E registerBgr24: 1 
+12-25 15:57:02.409 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:57:02.409 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 15:57:02.445 15785 16659 E registerBgr24: 2 
+12-25 15:57:02.445 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:57:02.445 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 15:57:02.459 15785 16659 E registerBgr24: 3 
+12-25 15:57:02.459 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:57:02.459 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 15:57:02.475 15785 16659 E registerBgr24: 4 
+12-25 15:57:02.475 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:57:02.475 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 15:57:02.500 15785 16659 E registerBgr24: 5 
+12-25 15:57:02.500 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:57:02.500 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 15:57:02.508 15785 16653 E getNewVersion: null
+12-25 15:57:17.918 15785 16278 E registerBgr24: 1 
+12-25 15:57:17.918 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:57:17.918 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 15:57:17.950 15785 16278 E registerBgr24: 2 
+12-25 15:57:17.950 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:57:17.950 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 15:57:17.962 15785 16278 E registerBgr24: 3 
+12-25 15:57:17.962 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:57:17.962 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 15:57:17.974 15785 16278 E registerBgr24: 4 
+12-25 15:57:17.974 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:57:17.974 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 15:57:17.996 15785 16278 E registerBgr24: 5 
+12-25 15:57:17.996 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:57:17.996 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 15:58:02.518 15785 16659 E registerBgr24: 1 
+12-25 15:58:02.518 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:58:02.518 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 15:58:02.548 15785 16659 E registerBgr24: 2 
+12-25 15:58:02.548 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:58:02.548 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 15:58:02.561 15785 16659 E registerBgr24: 3 
+12-25 15:58:02.561 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:58:02.561 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 15:58:02.573 15785 16659 E registerBgr24: 4 
+12-25 15:58:02.574 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:58:02.574 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 15:58:02.594 15785 16659 E registerBgr24: 5 
+12-25 15:58:02.594 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:58:02.594 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 15:58:18.018 15785 16278 E registerBgr24: 1 
+12-25 15:58:18.018 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:58:18.018 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 15:58:18.049 15785 16278 E registerBgr24: 2 
+12-25 15:58:18.050 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:58:18.050 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 15:58:18.062 15785 16278 E registerBgr24: 3 
+12-25 15:58:18.062 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:58:18.062 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 15:58:18.074 15785 16278 E registerBgr24: 4 
+12-25 15:58:18.074 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:58:18.074 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 15:58:18.095 15785 16278 E registerBgr24: 5 
+12-25 15:58:18.095 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:58:18.095 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 15:59:02.617 15785 16659 E registerBgr24: 1 
+12-25 15:59:02.617 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:59:02.617 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 15:59:02.647 15785 16659 E registerBgr24: 2 
+12-25 15:59:02.647 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:59:02.647 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 15:59:02.660 15785 16659 E registerBgr24: 3 
+12-25 15:59:02.660 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:59:02.660 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 15:59:02.672 15785 16659 E registerBgr24: 4 
+12-25 15:59:02.672 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:59:02.672 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 15:59:02.692 15785 16659 E registerBgr24: 5 
+12-25 15:59:02.692 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:59:02.692 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 15:59:18.118 15785 16278 E registerBgr24: 1 
+12-25 15:59:18.118 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:59:18.118 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 15:59:18.149 15785 16278 E registerBgr24: 2 
+12-25 15:59:18.149 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:59:18.149 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 15:59:18.161 15785 16278 E registerBgr24: 3 
+12-25 15:59:18.162 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:59:18.162 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 15:59:18.174 15785 16278 E registerBgr24: 4 
+12-25 15:59:18.174 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:59:18.174 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 15:59:18.195 15785 16278 E registerBgr24: 5 
+12-25 15:59:18.195 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 15:59:18.195 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 15:59:52.446 15785 15785 E Bundle  : putString->args_tag:null
+12-25 15:59:52.446 15785 15785 E Bundle  : putString->args_tag:null
+12-25 15:59:52.446 15785 15785 E Bundle  : putString->args_tag:null
+12-25 15:59:52.446 15785 15785 E Bundle  : putString->args_tag:null
+12-25 15:59:52.463 15785 15785 E language: ch
+12-25 15:59:52.534 15785 15785 E TradeOrderPresenter__doSearchTradeOrder  srcUserName:  
+12-25 15:59:52.534 15785 15785 E getTradeOrders:       2023-12-25 00:00:00 2023-12-25 16:02:59
+12-25 15:59:52.535 15785 15785 E findTraderOrders: 0   7
+12-25 15:59:52.536 15785 15785 E doSearchTradeOrder: 0  7  
+12-25 15:59:52.563 15785 16860 E ts_scan_state_fun: 1 
+12-25 15:59:52.653 15785 16866 E ywl5320 : fbo success
+12-25 15:59:52.653 15785 16866 E mali_so : encounter the first gles_error : 0x0001; gles_state_error_info : <param> is not an accepted value (gles_texturep_tex_parameteri_input_param_validation at hardware/arm/maliT760/driver/product/gles/src/texture/mali_gles_texture_helpers.c:1095)
+12-25 16:00:02.710 15785 16659 E registerBgr24: 1 
+12-25 16:00:02.710 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:00:02.710 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 16:00:02.749 15785 16659 E registerBgr24: 2 
+12-25 16:00:02.749 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:00:02.749 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 16:00:02.764 15785 16659 E registerBgr24: 3 
+12-25 16:00:02.764 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:00:02.764 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 16:00:02.777 15785 16659 E registerBgr24: 4 
+12-25 16:00:02.777 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:00:02.777 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 16:00:02.800 15785 16659 E registerBgr24: 5 
+12-25 16:00:02.800 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:00:02.800 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 16:00:18.214 15785 16278 E registerBgr24: 1 
+12-25 16:00:18.214 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:00:18.214 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 16:00:18.253 15785 16278 E registerBgr24: 2 
+12-25 16:00:18.253 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:00:18.253 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 16:00:18.267 15785 16278 E registerBgr24: 3 
+12-25 16:00:18.267 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:00:18.267 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 16:00:18.281 15785 16278 E registerBgr24: 4 
+12-25 16:00:18.281 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:00:18.281 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 16:00:18.303 15785 16278 E registerBgr24: 5 
+12-25 16:00:18.303 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:00:18.303 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 16:01:02.834 15785 16659 E registerBgr24: 1 
+12-25 16:01:02.834 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:01:02.834 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 16:01:02.870 15785 16659 E registerBgr24: 2 
+12-25 16:01:02.870 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:01:02.870 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 16:01:02.883 15785 16659 E registerBgr24: 3 
+12-25 16:01:02.883 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:01:02.883 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 16:01:02.895 15785 16659 E registerBgr24: 4 
+12-25 16:01:02.895 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:01:02.895 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 16:01:02.920 15785 16659 E registerBgr24: 5 
+12-25 16:01:02.921 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:01:02.921 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 16:01:18.323 15785 16278 E registerBgr24: 1 
+12-25 16:01:18.323 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:01:18.323 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 16:01:18.355 15785 16278 E registerBgr24: 2 
+12-25 16:01:18.355 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:01:18.355 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 16:01:18.368 15785 16278 E registerBgr24: 3 
+12-25 16:01:18.368 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:01:18.368 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 16:01:18.381 15785 16278 E registerBgr24: 4 
+12-25 16:01:18.381 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:01:18.381 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 16:01:18.408 15785 16278 E registerBgr24: 5 
+12-25 16:01:18.408 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:01:18.408 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 16:02:02.942 15785 16659 E registerBgr24: 1 
+12-25 16:02:02.942 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:02:02.942 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 16:02:02.974 15785 16659 E registerBgr24: 2 
+12-25 16:02:02.974 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:02:02.974 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 16:02:02.988 15785 16659 E registerBgr24: 3 
+12-25 16:02:02.988 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:02:02.988 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 16:02:03.002 15785 16659 E registerBgr24: 4 
+12-25 16:02:03.002 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:02:03.002 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 16:02:03.028 15785 16659 E registerBgr24: 5 
+12-25 16:02:03.028 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:02:03.028 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 16:02:18.426 15785 16278 E registerBgr24: 1 
+12-25 16:02:18.426 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:02:18.426 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 16:02:18.458 15785 16278 E registerBgr24: 2 
+12-25 16:02:18.458 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:02:18.458 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 16:02:18.472 15785 16278 E registerBgr24: 3 
+12-25 16:02:18.472 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:02:18.472 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 16:02:18.485 15785 16278 E registerBgr24: 4 
+12-25 16:02:18.485 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:02:18.486 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 16:02:18.515 15785 16278 E registerBgr24: 5 
+12-25 16:02:18.515 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:02:18.516 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 16:02:43.886 15785 15785 E surfaceDestroyed: ------
+12-25 16:02:43.887 15785 15785 E surfaceDestroyed: ------
+12-25 16:02:43.897 15785 16866 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.DetectCalcActivity]#7(BLAST Consumer)7](id:3da900000007,api:0,p:-1,c:15785) dequeueBuffer: BufferQueue has no connected producer
+12-25 16:02:43.897 15785 16866 E mali_so : encounter the first mali_error : 0x0002 : failed to allocate CPU memory (gles_fb_first_operation_cb at hardware/arm/maliT760/driver/product/gles/src/fb/mali_gles_fb_module_api.c:987)
+12-25 16:02:43.898 15785 16866 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.DetectCalcActivity]#7(BLAST Consumer)7](id:3da900000007,api:0,p:-1,c:15785) dequeueBuffer: BufferQueue has no connected producer
+12-25 16:02:43.898 15785 16869 E BufferQueueProducer: [SurfaceView[]#8(BLAST Consumer)8](id:3da900000009,api:0,p:-1,c:15785) dequeueBuffer: BufferQueue has no connected producer
+12-25 16:02:43.898 15785 16869 E mali_so : encounter the first mali_error : 0x0002 : failed to allocate CPU memory (gles_fb_first_operation_cb at hardware/arm/maliT760/driver/product/gles/src/fb/mali_gles_fb_module_api.c:987)
+12-25 16:02:43.898 15785 16869 E BufferQueueProducer: [SurfaceView[]#8(BLAST Consumer)8](id:3da900000009,api:0,p:-1,c:15785) dequeueBuffer: BufferQueue has no connected producer
+12-25 16:02:43.902 15785 16866 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.DetectCalcActivity]#7(BLAST Consumer)7](id:3da900000007,api:0,p:-1,c:15785) disconnect: not connected (req=1)
+12-25 16:02:43.904 15785 16869 E BufferQueueProducer: [SurfaceView[]#8(BLAST Consumer)8](id:3da900000009,api:0,p:-1,c:15785) disconnect: not connected (req=1)
+12-25 16:02:43.943 15785 15785 E TradeOrderPresenter__doSearchTradeOrder  srcUserName:  
+12-25 16:02:43.943 15785 15785 E getTradeOrders:       2023-12-25 00:00:00 2023-12-25 16:05:59
+12-25 16:02:43.945 15785 15785 E findTraderOrders: 0   7
+12-25 16:02:43.946 15785 15785 E doSearchTradeOrder: 0  7  
+12-25 16:02:43.977 15785 17202 E ywl5320 : fbo success
+12-25 16:02:43.977 15785 17202 E mali_so : encounter the first gles_error : 0x0001; gles_state_error_info : <param> is not an accepted value (gles_texturep_tex_parameteri_input_param_validation at hardware/arm/maliT760/driver/product/gles/src/texture/mali_gles_texture_helpers.c:1095)
+12-25 16:03:03.046 15785 16659 E registerBgr24: 1 
+12-25 16:03:03.046 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:03:03.046 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 16:03:03.079 15785 16659 E registerBgr24: 2 
+12-25 16:03:03.079 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:03:03.079 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 16:03:03.094 15785 16659 E registerBgr24: 3 
+12-25 16:03:03.094 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:03:03.094 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 16:03:03.106 15785 16659 E registerBgr24: 4 
+12-25 16:03:03.107 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:03:03.107 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 16:03:03.132 15785 16659 E registerBgr24: 5 
+12-25 16:03:03.132 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:03:03.132 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 16:03:18.535 15785 16278 E registerBgr24: 1 
+12-25 16:03:18.535 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:03:18.535 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 16:03:18.567 15785 16278 E registerBgr24: 2 
+12-25 16:03:18.567 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:03:18.567 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 16:03:18.580 15785 16278 E registerBgr24: 3 
+12-25 16:03:18.580 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:03:18.580 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 16:03:18.598 15785 16278 E registerBgr24: 4 
+12-25 16:03:18.598 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:03:18.598 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 16:03:18.621 15785 16278 E registerBgr24: 5 
+12-25 16:03:18.621 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:03:18.621 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 16:04:03.152 15785 16659 E registerBgr24: 1 
+12-25 16:04:03.152 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:04:03.152 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 16:04:03.187 15785 16659 E registerBgr24: 2 
+12-25 16:04:03.187 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:04:03.187 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 16:04:03.200 15785 16659 E registerBgr24: 3 
+12-25 16:04:03.200 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:04:03.200 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 16:04:03.213 15785 16659 E registerBgr24: 4 
+12-25 16:04:03.213 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:04:03.213 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 16:04:03.237 15785 16659 E registerBgr24: 5 
+12-25 16:04:03.237 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:04:03.237 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 16:04:18.644 15785 16278 E registerBgr24: 1 
+12-25 16:04:18.644 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:04:18.644 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 16:04:18.679 15785 16278 E registerBgr24: 2 
+12-25 16:04:18.679 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:04:18.679 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 16:04:18.692 15785 16278 E registerBgr24: 3 
+12-25 16:04:18.692 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:04:18.692 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 16:04:18.705 15785 16278 E registerBgr24: 4 
+12-25 16:04:18.705 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:04:18.705 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 16:04:18.729 15785 16278 E registerBgr24: 5 
+12-25 16:04:18.729 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:04:18.729 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 16:05:03.259 15785 16659 E registerBgr24: 1 
+12-25 16:05:03.259 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:05:03.259 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 16:05:03.294 15785 16659 E registerBgr24: 2 
+12-25 16:05:03.294 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:05:03.294 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 16:05:03.307 15785 16659 E registerBgr24: 3 
+12-25 16:05:03.307 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:05:03.307 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 16:05:03.320 15785 16659 E registerBgr24: 4 
+12-25 16:05:03.320 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:05:03.320 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 16:05:03.341 15785 16659 E registerBgr24: 5 
+12-25 16:05:03.341 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:05:03.341 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 16:05:18.747 15785 16278 E registerBgr24: 1 
+12-25 16:05:18.747 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:05:18.747 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 16:05:18.783 15785 16278 E registerBgr24: 2 
+12-25 16:05:18.783 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:05:18.783 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 16:05:18.801 15785 16278 E registerBgr24: 3 
+12-25 16:05:18.801 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:05:18.801 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 16:05:18.815 15785 16278 E registerBgr24: 4 
+12-25 16:05:18.815 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:05:18.815 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 16:05:18.838 15785 16278 E registerBgr24: 5 
+12-25 16:05:18.838 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:05:18.838 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 16:06:03.359 15785 16659 E registerBgr24: 1 
+12-25 16:06:03.359 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:06:03.359 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 16:06:03.392 15785 16659 E registerBgr24: 2 
+12-25 16:06:03.392 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:06:03.392 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 16:06:03.407 15785 16659 E registerBgr24: 3 
+12-25 16:06:03.407 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:06:03.407 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 16:06:03.421 15785 16659 E registerBgr24: 4 
+12-25 16:06:03.421 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:06:03.421 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 16:06:03.449 15785 16659 E registerBgr24: 5 
+12-25 16:06:03.449 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:06:03.449 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 16:06:18.856 15785 16278 E registerBgr24: 1 
+12-25 16:06:18.856 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:06:18.856 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 16:06:18.893 15785 16278 E registerBgr24: 2 
+12-25 16:06:18.893 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:06:18.893 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 16:06:18.906 15785 16278 E registerBgr24: 3 
+12-25 16:06:18.906 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:06:18.906 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 16:06:18.920 15785 16278 E registerBgr24: 4 
+12-25 16:06:18.920 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:06:18.920 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 16:06:18.946 15785 16278 E registerBgr24: 5 
+12-25 16:06:18.946 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:06:18.946 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 16:07:03.468 15785 16659 E registerBgr24: 1 
+12-25 16:07:03.468 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:07:03.468 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 16:07:03.500 15785 16659 E registerBgr24: 2 
+12-25 16:07:03.500 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:07:03.500 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 16:07:03.513 15785 16659 E registerBgr24: 3 
+12-25 16:07:03.513 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:07:03.513 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 16:07:03.526 15785 16659 E registerBgr24: 4 
+12-25 16:07:03.526 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:07:03.526 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 16:07:03.547 15785 16659 E registerBgr24: 5 
+12-25 16:07:03.548 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:07:03.548 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 16:07:18.972 15785 16278 E registerBgr24: 1 
+12-25 16:07:18.972 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:07:18.972 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 16:07:19.004 15785 16278 E registerBgr24: 2 
+12-25 16:07:19.004 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:07:19.004 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 16:07:19.017 15785 16278 E registerBgr24: 3 
+12-25 16:07:19.017 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:07:19.017 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 16:07:19.031 15785 16278 E registerBgr24: 4 
+12-25 16:07:19.031 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:07:19.031 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 16:07:19.053 15785 16278 E registerBgr24: 5 
+12-25 16:07:19.053 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:07:19.053 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 16:08:03.571 15785 16659 E registerBgr24: 1 
+12-25 16:08:03.571 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:08:03.571 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 16:08:03.606 15785 16659 E registerBgr24: 2 
+12-25 16:08:03.606 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:08:03.606 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 16:08:03.620 15785 16659 E registerBgr24: 3 
+12-25 16:08:03.620 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:08:03.620 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 16:08:03.638 15785 16659 E registerBgr24: 4 
+12-25 16:08:03.638 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:08:03.638 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 16:08:03.660 15785 16659 E registerBgr24: 5 
+12-25 16:08:03.660 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:08:03.660 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 16:08:19.076 15785 16278 E registerBgr24: 1 
+12-25 16:08:19.076 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:08:19.076 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 16:08:19.110 15785 16278 E registerBgr24: 2 
+12-25 16:08:19.110 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:08:19.110 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 16:08:19.123 15785 16278 E registerBgr24: 3 
+12-25 16:08:19.123 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:08:19.123 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 16:08:19.139 15785 16278 E registerBgr24: 4 
+12-25 16:08:19.139 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:08:19.139 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 16:08:19.162 15785 16278 E registerBgr24: 5 
+12-25 16:08:19.162 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:08:19.162 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 16:09:03.679 15785 16659 E registerBgr24: 1 
+12-25 16:09:03.680 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:09:03.680 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 16:09:03.711 15785 16659 E registerBgr24: 2 
+12-25 16:09:03.711 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:09:03.711 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 16:09:03.725 15785 16659 E registerBgr24: 3 
+12-25 16:09:03.725 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:09:03.725 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 16:09:03.742 15785 16659 E registerBgr24: 4 
+12-25 16:09:03.743 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:09:03.743 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 16:09:03.768 15785 16659 E registerBgr24: 5 
+12-25 16:09:03.768 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:09:03.768 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 16:09:19.183 15785 16278 E registerBgr24: 1 
+12-25 16:09:19.183 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:09:19.183 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 16:09:19.216 15785 16278 E registerBgr24: 2 
+12-25 16:09:19.216 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:09:19.216 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 16:09:19.232 15785 16278 E registerBgr24: 3 
+12-25 16:09:19.232 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:09:19.232 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 16:09:19.245 15785 16278 E registerBgr24: 4 
+12-25 16:09:19.245 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:09:19.245 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 16:09:19.271 15785 16278 E registerBgr24: 5 
+12-25 16:09:19.271 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:09:19.271 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 16:10:03.794 15785 16659 E registerBgr24: 1 
+12-25 16:10:03.794 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:10:03.794 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 16:10:03.831 15785 16659 E registerBgr24: 2 
+12-25 16:10:03.831 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:10:03.831 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 16:10:03.845 15785 16659 E registerBgr24: 3 
+12-25 16:10:03.845 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:10:03.845 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 16:10:03.863 15785 16659 E registerBgr24: 4 
+12-25 16:10:03.863 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:10:03.863 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 16:10:03.886 15785 16659 E registerBgr24: 5 
+12-25 16:10:03.886 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:10:03.886 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 16:10:19.294 15785 16278 E registerBgr24: 1 
+12-25 16:10:19.294 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:10:19.294 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 16:10:19.326 15785 16278 E registerBgr24: 2 
+12-25 16:10:19.326 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:10:19.326 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 16:10:19.343 15785 16278 E registerBgr24: 3 
+12-25 16:10:19.343 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:10:19.343 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 16:10:19.357 15785 16278 E registerBgr24: 4 
+12-25 16:10:19.357 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:10:19.357 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 16:10:19.382 15785 16278 E registerBgr24: 5 
+12-25 16:10:19.382 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:10:19.382 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 16:11:03.904 15785 16659 E registerBgr24: 1 
+12-25 16:11:03.904 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:11:03.904 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 16:11:03.937 15785 16659 E registerBgr24: 2 
+12-25 16:11:03.937 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:11:03.937 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 16:11:03.951 15785 16659 E registerBgr24: 3 
+12-25 16:11:03.951 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:11:03.952 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 16:11:03.967 15785 16659 E registerBgr24: 4 
+12-25 16:11:03.967 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:11:03.967 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 16:11:03.992 15785 16659 E registerBgr24: 5 
+12-25 16:11:03.992 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:11:03.992 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 16:11:19.406 15785 16278 E registerBgr24: 1 
+12-25 16:11:19.406 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:11:19.406 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 16:11:19.440 15785 16278 E registerBgr24: 2 
+12-25 16:11:19.440 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:11:19.440 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 16:11:19.454 15785 16278 E registerBgr24: 3 
+12-25 16:11:19.454 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:11:19.454 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 16:11:19.468 15785 16278 E registerBgr24: 4 
+12-25 16:11:19.468 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:11:19.468 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 16:11:19.491 15785 16278 E registerBgr24: 5 
+12-25 16:11:19.491 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:11:19.491 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 16:12:04.011 15785 16659 E registerBgr24: 1 
+12-25 16:12:04.011 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:12:04.011 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 16:12:04.044 15785 16659 E registerBgr24: 2 
+12-25 16:12:04.044 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:12:04.044 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 16:12:04.058 15785 16659 E registerBgr24: 3 
+12-25 16:12:04.058 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:12:04.058 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 16:12:04.074 15785 16659 E registerBgr24: 4 
+12-25 16:12:04.074 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:12:04.074 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 16:12:04.100 15785 16659 E registerBgr24: 5 
+12-25 16:12:04.100 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:12:04.100 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 16:12:19.514 15785 16278 E registerBgr24: 1 
+12-25 16:12:19.514 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:12:19.514 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 16:12:19.550 15785 16278 E registerBgr24: 2 
+12-25 16:12:19.550 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:12:19.550 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 16:12:19.564 15785 16278 E registerBgr24: 3 
+12-25 16:12:19.564 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:12:19.564 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 16:12:19.577 15785 16278 E registerBgr24: 4 
+12-25 16:12:19.577 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:12:19.577 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 16:12:19.610 15785 16278 E registerBgr24: 5 
+12-25 16:12:19.610 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:12:19.610 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 16:13:04.122 15785 16659 E registerBgr24: 1 
+12-25 16:13:04.122 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:13:04.122 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 16:13:04.155 15785 16659 E registerBgr24: 2 
+12-25 16:13:04.155 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:13:04.155 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 16:13:04.169 15785 16659 E registerBgr24: 3 
+12-25 16:13:04.169 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:13:04.169 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 16:13:04.182 15785 16659 E registerBgr24: 4 
+12-25 16:13:04.182 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:13:04.182 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 16:13:04.207 15785 16659 E registerBgr24: 5 
+12-25 16:13:04.207 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:13:04.207 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 16:13:19.628 15785 16278 E registerBgr24: 1 
+12-25 16:13:19.628 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:13:19.628 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 16:13:19.661 15785 16278 E registerBgr24: 2 
+12-25 16:13:19.661 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:13:19.661 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 16:13:19.675 15785 16278 E registerBgr24: 3 
+12-25 16:13:19.675 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:13:19.675 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 16:13:19.689 15785 16278 E registerBgr24: 4 
+12-25 16:13:19.689 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:13:19.689 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 16:13:19.714 15785 16278 E registerBgr24: 5 
+12-25 16:13:19.714 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:13:19.714 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 16:14:04.225 15785 16659 E registerBgr24: 1 
+12-25 16:14:04.225 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:14:04.225 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 16:14:04.256 15785 16659 E registerBgr24: 2 
+12-25 16:14:04.256 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:14:04.256 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 16:14:04.270 15785 16659 E registerBgr24: 3 
+12-25 16:14:04.270 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:14:04.270 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 16:14:04.283 15785 16659 E registerBgr24: 4 
+12-25 16:14:04.283 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:14:04.283 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 16:14:04.320 15785 16659 E registerBgr24: 5 
+12-25 16:14:04.320 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:14:04.320 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 16:14:19.734 15785 16278 E registerBgr24: 1 
+12-25 16:14:19.734 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:14:19.734 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 16:14:19.769 15785 16278 E registerBgr24: 2 
+12-25 16:14:19.769 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:14:19.769 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 16:14:19.783 15785 16278 E registerBgr24: 3 
+12-25 16:14:19.783 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:14:19.783 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 16:14:19.797 15785 16278 E registerBgr24: 4 
+12-25 16:14:19.797 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:14:19.797 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 16:14:19.822 15785 16278 E registerBgr24: 5 
+12-25 16:14:19.822 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:14:19.822 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 16:15:04.344 15785 16659 E registerBgr24: 1 
+12-25 16:15:04.344 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:15:04.344 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 16:15:04.377 15785 16659 E registerBgr24: 2 
+12-25 16:15:04.377 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:15:04.377 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 16:15:04.391 15785 16659 E registerBgr24: 3 
+12-25 16:15:04.391 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:15:04.391 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 16:15:04.404 15785 16659 E registerBgr24: 4 
+12-25 16:15:04.404 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:15:04.404 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 16:15:04.428 15785 16659 E registerBgr24: 5 
+12-25 16:15:04.429 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:15:04.429 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 16:15:19.854 15785 16278 E registerBgr24: 1 
+12-25 16:15:19.854 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:15:19.854 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 16:15:19.893 15785 16278 E registerBgr24: 2 
+12-25 16:15:19.893 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:15:19.893 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 16:15:19.906 15785 16278 E registerBgr24: 3 
+12-25 16:15:19.907 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:15:19.907 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 16:15:19.919 15785 16278 E registerBgr24: 4 
+12-25 16:15:19.919 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:15:19.919 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 16:15:19.942 15785 16278 E registerBgr24: 5 
+12-25 16:15:19.942 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:15:19.942 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 16:15:44.095 15785 15785 E surfaceDestroyed: ------
+12-25 16:15:44.096 15785 15785 E surfaceDestroyed: ------
+12-25 16:15:44.106 15785 17202 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.DetectCalcActivity]#9(BLAST Consumer)9](id:3da90000000a,api:0,p:-1,c:15785) dequeueBuffer: BufferQueue has no connected producer
+12-25 16:15:44.106 15785 17202 E mali_so : encounter the first mali_error : 0x0002 : failed to allocate CPU memory (gles_fb_first_operation_cb at hardware/arm/maliT760/driver/product/gles/src/fb/mali_gles_fb_module_api.c:987)
+12-25 16:15:44.107 15785 17207 E BufferQueueProducer: [SurfaceView[]#11(BLAST Consumer)11](id:3da90000000d,api:0,p:-1,c:15785) dequeueBuffer: BufferQueue has no connected producer
+12-25 16:15:44.107 15785 17207 E mali_so : encounter the first mali_error : 0x0002 : failed to allocate CPU memory (gles_fb_first_operation_cb at hardware/arm/maliT760/driver/product/gles/src/fb/mali_gles_fb_module_api.c:987)
+12-25 16:15:44.107 15785 17207 E BufferQueueProducer: [SurfaceView[]#11(BLAST Consumer)11](id:3da90000000d,api:0,p:-1,c:15785) dequeueBuffer: BufferQueue has no connected producer
+12-25 16:15:44.107 15785 17202 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.DetectCalcActivity]#9(BLAST Consumer)9](id:3da90000000a,api:0,p:-1,c:15785) dequeueBuffer: BufferQueue has no connected producer
+12-25 16:15:44.110 15785 17207 E BufferQueueProducer: [SurfaceView[]#11(BLAST Consumer)11](id:3da90000000d,api:0,p:-1,c:15785) disconnect: not connected (req=1)
+12-25 16:15:44.111 15785 17202 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.DetectCalcActivity]#9(BLAST Consumer)9](id:3da90000000a,api:0,p:-1,c:15785) disconnect: not connected (req=1)
+12-25 16:15:44.153 15785 15785 E TradeOrderPresenter__doSearchTradeOrder  srcUserName:  
+12-25 16:15:44.153 15785 15785 E getTradeOrders:       2023-12-25 00:00:00 2023-12-25 16:18:59
+12-25 16:15:44.155 15785 15785 E findTraderOrders: 0   7
+12-25 16:15:44.155 15785 15785 E doSearchTradeOrder: 0  7  
+12-25 16:15:44.192 15785 18144 E ywl5320 : fbo success
+12-25 16:15:44.192 15785 18144 E mali_so : encounter the first gles_error : 0x0001; gles_state_error_info : <param> is not an accepted value (gles_texturep_tex_parameteri_input_param_validation at hardware/arm/maliT760/driver/product/gles/src/texture/mali_gles_texture_helpers.c:1095)
+12-25 16:16:04.454 15785 16659 E registerBgr24: 1 
+12-25 16:16:04.454 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:16:04.454 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 16:16:04.490 15785 16659 E registerBgr24: 2 
+12-25 16:16:04.490 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:16:04.490 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 16:16:04.507 15785 16659 E registerBgr24: 3 
+12-25 16:16:04.507 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:16:04.507 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 16:16:04.520 15785 16659 E registerBgr24: 4 
+12-25 16:16:04.521 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:16:04.521 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 16:16:04.543 15785 16659 E registerBgr24: 5 
+12-25 16:16:04.543 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:16:04.543 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 16:16:15.287 15785 15785 E surfaceDestroyed: ------
+12-25 16:16:15.288 15785 15785 E surfaceDestroyed: ------
+12-25 16:16:15.292 15785 18148 E BufferQueueProducer: [SurfaceView[]#14(BLAST Consumer)14](id:3da900000011,api:0,p:-1,c:15785) dequeueBuffer: BufferQueue has no connected producer
+12-25 16:16:15.292 15785 18148 E mali_so : encounter the first mali_error : 0x0002 : failed to allocate CPU memory (gles_fb_first_operation_cb at hardware/arm/maliT760/driver/product/gles/src/fb/mali_gles_fb_module_api.c:987)
+12-25 16:16:15.292 15785 18148 E BufferQueueProducer: [SurfaceView[]#14(BLAST Consumer)14](id:3da900000011,api:0,p:-1,c:15785) dequeueBuffer: BufferQueue has no connected producer
+12-25 16:16:15.293 15785 18148 E BufferQueueProducer: [SurfaceView[]#14(BLAST Consumer)14](id:3da900000011,api:0,p:-1,c:15785) disconnect: not connected (req=1)
+12-25 16:16:15.294 15785 18144 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.DetectCalcActivity]#12(BLAST Consumer)12](id:3da90000000e,api:0,p:-1,c:15785) dequeueBuffer: BufferQueue has no connected producer
+12-25 16:16:15.294 15785 18144 E mali_so : encounter the first mali_error : 0x0002 : failed to allocate CPU memory (gles_fb_first_operation_cb at hardware/arm/maliT760/driver/product/gles/src/fb/mali_gles_fb_module_api.c:987)
+12-25 16:16:15.294 15785 18144 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.DetectCalcActivity]#12(BLAST Consumer)12](id:3da90000000e,api:0,p:-1,c:15785) dequeueBuffer: BufferQueue has no connected producer
+12-25 16:16:15.297 15785 18144 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.DetectCalcActivity]#12(BLAST Consumer)12](id:3da90000000e,api:0,p:-1,c:15785) disconnect: not connected (req=1)
+12-25 16:16:15.451 15785 18198 E getNewVersion: null
+12-25 16:16:19.965 15785 16278 E registerBgr24: 1 
+12-25 16:16:19.965 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:16:19.965 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 16:16:20.009 15785 16278 E registerBgr24: 2 
+12-25 16:16:20.009 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:16:20.009 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 16:16:20.022 15785 16278 E registerBgr24: 3 
+12-25 16:16:20.022 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:16:20.022 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 16:16:20.036 15785 16278 E registerBgr24: 4 
+12-25 16:16:20.036 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:16:20.036 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 16:16:20.057 15785 16278 E registerBgr24: 5 
+12-25 16:16:20.057 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:16:20.057 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 16:16:20.403 15785 15785 E .aidish.offlin: Invalid ID 0x00000a03.
+12-25 16:16:21.896 15785 18232 E ywl5320 : fbo success
+12-25 16:16:21.896 15785 18232 E mali_so : encounter the first gles_error : 0x0001; gles_state_error_info : <param> is not an accepted value (gles_texturep_tex_parameteri_input_param_validation at hardware/arm/maliT760/driver/product/gles/src/texture/mali_gles_texture_helpers.c:1095)
+12-25 16:16:21.896 15785 18232 E onReaderCreate: 1476  830  0
+12-25 16:16:22.711 15785 15785 E surfaceDestroyed: ------
+12-25 16:16:22.721 15785 18232 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.SettingActivity]#18(BLAST Consumer)18](id:3da900000015,api:0,p:-1,c:15785) dequeueBuffer: BufferQueue has no connected producer
+12-25 16:16:22.721 15785 18232 E mali_so : encounter the first mali_error : 0x0002 : failed to allocate CPU memory (gles_fb_first_operation_cb at hardware/arm/maliT760/driver/product/gles/src/fb/mali_gles_fb_module_api.c:987)
+12-25 16:16:22.721 15785 18232 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.SettingActivity]#18(BLAST Consumer)18](id:3da900000015,api:0,p:-1,c:15785) dequeueBuffer: BufferQueue has no connected producer
+12-25 16:16:22.722 15785 18232 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.SettingActivity]#18(BLAST Consumer)18](id:3da900000015,api:0,p:-1,c:15785) disconnect: not connected (req=1)
+12-25 16:16:23.389 15785 18246 E ywl5320 : fbo success
+12-25 16:16:23.389 15785 18246 E mali_so : encounter the first gles_error : 0x0001; gles_state_error_info : <param> is not an accepted value (gles_texturep_tex_parameteri_input_param_validation at hardware/arm/maliT760/driver/product/gles/src/texture/mali_gles_texture_helpers.c:1095)
+12-25 16:16:23.390 15785 18246 E onReaderCreate: 1476  830  0
+12-25 16:16:24.562 15785 15785 E ----------------ACTION_MOVE: 168   150
+12-25 16:16:24.580 15785 15785 E ----------------ACTION_MOVE: 168   150
+12-25 16:16:24.598 15785 15785 E ----------------ACTION_MOVE: 168   150
+12-25 16:16:24.616 15785 15785 E ----------------ACTION_MOVE: 169   150
+12-25 16:16:24.634 15785 15785 E ----------------ACTION_MOVE: 173   152
+12-25 16:16:24.652 15785 15785 E ----------------ACTION_MOVE: 182   156
+12-25 16:16:24.670 15785 15785 E ----------------ACTION_MOVE: 191   162
+12-25 16:16:24.688 15785 15785 E ----------------ACTION_MOVE: 208   170
+12-25 16:16:24.706 15785 15785 E ----------------ACTION_MOVE: 222   176
+12-25 16:16:24.724 15785 15785 E ----------------ACTION_MOVE: 244   184
+12-25 16:16:24.742 15785 15785 E ----------------ACTION_MOVE: 261   190
+12-25 16:16:24.759 15785 15785 E ----------------ACTION_MOVE: 282   197
+12-25 16:16:24.777 15785 15785 E ----------------ACTION_MOVE: 304   205
+12-25 16:16:24.795 15785 15785 E ----------------ACTION_MOVE: 320   210
+12-25 16:16:24.813 15785 15785 E ----------------ACTION_MOVE: 340   218
+12-25 16:16:24.831 15785 15785 E ----------------ACTION_MOVE: 354   224
+12-25 16:16:24.849 15785 15785 E ----------------ACTION_MOVE: 373   231
+12-25 16:16:24.867 15785 15785 E ----------------ACTION_MOVE: 387   236
+12-25 16:16:24.885 15785 15785 E ----------------ACTION_MOVE: 400   241
+12-25 16:16:24.903 15785 15785 E ----------------ACTION_MOVE: 412   245
+12-25 16:16:24.921 15785 15785 E ----------------ACTION_MOVE: 420   249
+12-25 16:16:24.939 15785 15785 E ----------------ACTION_MOVE: 431   252
+12-25 16:16:24.957 15785 15785 E ----------------ACTION_MOVE: 437   255
+12-25 16:16:24.975 15785 15785 E ----------------ACTION_MOVE: 445   259
+12-25 16:16:24.995 15785 15785 E ----------------ACTION_MOVE: 450   263
+12-25 16:16:25.012 15785 15785 E ----------------ACTION_MOVE: 454   266
+12-25 16:16:25.029 15785 15785 E ----------------ACTION_MOVE: 458   270
+12-25 16:16:25.047 15785 15785 E ----------------ACTION_MOVE: 461   273
+12-25 16:16:25.065 15785 15785 E ----------------ACTION_MOVE: 464   276
+12-25 16:16:25.083 15785 15785 E ----------------ACTION_MOVE: 467   279
+12-25 16:16:25.100 15785 15785 E ----------------ACTION_MOVE: 472   283
+12-25 16:16:25.119 15785 15785 E ----------------ACTION_MOVE: 477   286
+12-25 16:16:25.136 15785 15785 E ----------------ACTION_MOVE: 480   289
+12-25 16:16:25.154 15785 15785 E ----------------ACTION_MOVE: 484   291
+12-25 16:16:25.172 15785 15785 E ----------------ACTION_MOVE: 486   293
+12-25 16:16:25.190 15785 15785 E ----------------ACTION_MOVE: 490   295
+12-25 16:16:25.208 15785 15785 E ----------------ACTION_MOVE: 493   296
+12-25 16:16:25.226 15785 15785 E ----------------ACTION_MOVE: 496   298
+12-25 16:16:25.244 15785 15785 E ----------------ACTION_MOVE: 500   299
+12-25 16:16:25.262 15785 15785 E ----------------ACTION_MOVE: 503   300
+12-25 16:16:25.280 15785 15785 E ----------------ACTION_MOVE: 507   301
+12-25 16:16:25.298 15785 15785 E ----------------ACTION_MOVE: 509   303
+12-25 16:16:25.316 15785 15785 E ----------------ACTION_MOVE: 511   303
+12-25 16:16:25.334 15785 15785 E ----------------ACTION_MOVE: 513   303
+12-25 16:16:25.352 15785 15785 E ----------------ACTION_MOVE: 513   304
+12-25 16:16:25.370 15785 15785 E ----------------ACTION_MOVE: 514   304
+12-25 16:16:25.388 15785 15785 E ----------------ACTION_MOVE: 514   304
+12-25 16:16:25.406 15785 15785 E ----------------ACTION_MOVE: 514   304
+12-25 16:16:25.424 15785 15785 E ----------------ACTION_MOVE: 514   304
+12-25 16:16:25.442 15785 15785 E ----------------ACTION_MOVE: 515   304
+12-25 16:16:25.459 15785 15785 E ----------------ACTION_MOVE: 515   304
+12-25 16:16:25.477 15785 15785 E ----------------ACTION_MOVE: 515   304
+12-25 16:16:25.495 15785 15785 E ----------------ACTION_MOVE: 515   304
+12-25 16:16:25.513 15785 15785 E ----------------ACTION_MOVE: 515   304
+12-25 16:16:25.531 15785 15785 E ----------------ACTION_MOVE: 515   304
+12-25 16:16:25.549 15785 15785 E ----------------ACTION_MOVE: 515   304
+12-25 16:16:25.567 15785 15785 E ----------------ACTION_MOVE: 515   304
+12-25 16:16:25.585 15785 15785 E ----------------ACTION_MOVE: 515   302
+12-25 16:16:25.603 15785 15785 E ----------------ACTION_MOVE: 515   301
+12-25 16:16:25.621 15785 15785 E ----------------ACTION_MOVE: 515   301
+12-25 16:16:25.639 15785 15785 E ----------------ACTION_MOVE: 515   301
+12-25 16:16:25.657 15785 15785 E ----------------ACTION_MOVE: 515   301
+12-25 16:16:25.675 15785 15785 E ----------------ACTION_MOVE: 515   301
+12-25 16:16:25.691 15785 15785 E ----------------ACTION_MOVE: 515   301
+12-25 16:16:26.126 15785 15785 E ----------------ACTION_MOVE: 633   375
+12-25 16:16:26.142 15785 15785 E ----------------ACTION_MOVE: 633   375
+12-25 16:16:26.160 15785 15785 E ----------------ACTION_MOVE: 633   375
+12-25 16:16:26.178 15785 15785 E ----------------ACTION_MOVE: 633   375
+12-25 16:16:26.196 15785 15785 E ----------------ACTION_MOVE: 633   375
+12-25 16:16:26.213 15785 15785 E ----------------ACTION_MOVE: 636   377
+12-25 16:16:26.231 15785 15785 E ----------------ACTION_MOVE: 640   380
+12-25 16:16:26.250 15785 15785 E ----------------ACTION_MOVE: 649   388
+12-25 16:16:26.267 15785 15785 E ----------------ACTION_MOVE: 659   397
+12-25 16:16:26.285 15785 15785 E ----------------ACTION_MOVE: 675   414
+12-25 16:16:26.303 15785 15785 E ----------------ACTION_MOVE: 696   436
+12-25 16:16:26.322 15785 15785 E ----------------ACTION_MOVE: 715   454
+12-25 16:16:26.339 15785 15785 E ----------------ACTION_MOVE: 742   480
+12-25 16:16:26.357 15785 15785 E ----------------ACTION_MOVE: 763   500
+12-25 16:16:26.375 15785 15785 E ----------------ACTION_MOVE: 793   528
+12-25 16:16:26.393 15785 15785 E ----------------ACTION_MOVE: 821   553
+12-25 16:16:26.411 15785 15785 E ----------------ACTION_MOVE: 850   577
+12-25 16:16:26.429 15785 15785 E ----------------ACTION_MOVE: 884   603
+12-25 16:16:26.447 15785 15785 E ----------------ACTION_MOVE: 910   623
+12-25 16:16:26.465 15785 15785 E ----------------ACTION_MOVE: 946   649
+12-25 16:16:26.483 15785 15785 E ----------------ACTION_MOVE: 971   666
+12-25 16:16:26.501 15785 15785 E ----------------ACTION_MOVE: 1004   686
+12-25 16:16:26.519 15785 15785 E ----------------ACTION_MOVE: 1035   704
+12-25 16:16:26.537 15785 15785 E ----------------ACTION_MOVE: 1061   717
+12-25 16:16:26.555 15785 15785 E ----------------ACTION_MOVE: 1089   731
+12-25 16:16:26.573 15785 15785 E ----------------ACTION_MOVE: 1107   739
+12-25 16:16:26.591 15785 15785 E ----------------ACTION_MOVE: 1131   749
+12-25 16:16:26.609 15785 15785 E ----------------ACTION_MOVE: 1145   754
+12-25 16:16:26.627 15785 15785 E ----------------ACTION_MOVE: 1162   759
+12-25 16:16:26.644 15785 15785 E ----------------ACTION_MOVE: 1177   763
+12-25 16:16:26.662 15785 15785 E ----------------ACTION_MOVE: 1187   764
+12-25 16:16:26.680 15785 15785 E ----------------ACTION_MOVE: 1198   766
+12-25 16:16:26.698 15785 15785 E ----------------ACTION_MOVE: 1203   767
+12-25 16:16:26.717 15785 15785 E ----------------ACTION_MOVE: 1209   769
+12-25 16:16:26.734 15785 15785 E ----------------ACTION_MOVE: 1211   770
+12-25 16:16:26.752 15785 15785 E ----------------ACTION_MOVE: 1213   771
+12-25 16:16:26.770 15785 15785 E ----------------ACTION_MOVE: 1214   773
+12-25 16:16:26.788 15785 15785 E ----------------ACTION_MOVE: 1214   773
+12-25 16:16:26.808 15785 15785 E ----------------ACTION_MOVE: 1214   773
+12-25 16:16:26.827 15785 15785 E ----------------ACTION_MOVE: 1214   773
+12-25 16:16:26.842 15785 15785 E ----------------ACTION_MOVE: 1214   773
+12-25 16:16:26.860 15785 15785 E ----------------ACTION_MOVE: 1214   773
+12-25 16:16:26.878 15785 15785 E ----------------ACTION_MOVE: 1214   773
+12-25 16:16:26.896 15785 15785 E ----------------ACTION_MOVE: 1214   773
+12-25 16:16:26.914 15785 15785 E ----------------ACTION_MOVE: 1214   773
+12-25 16:16:26.932 15785 15785 E ----------------ACTION_MOVE: 1211   772
+12-25 16:16:26.950 15785 15785 E ----------------ACTION_MOVE: 1211   772
+12-25 16:16:26.968 15785 15785 E ----------------ACTION_MOVE: 1210   772
+12-25 16:16:26.986 15785 15785 E ----------------ACTION_MOVE: 1209   772
+12-25 16:16:27.003 15785 15785 E ----------------ACTION_MOVE: 1209   772
+12-25 16:16:27.021 15785 15785 E ----------------ACTION_MOVE: 1208   772
+12-25 16:16:27.039 15785 15785 E ----------------ACTION_MOVE: 1207   772
+12-25 16:16:27.057 15785 15785 E ----------------ACTION_MOVE: 1207   772
+12-25 16:16:27.075 15785 15785 E ----------------ACTION_MOVE: 1206   772
+12-25 16:16:27.093 15785 15785 E ----------------ACTION_MOVE: 1204   771
+12-25 16:16:27.112 15785 15785 E ----------------ACTION_MOVE: 1198   770
+12-25 16:16:27.129 15785 15785 E ----------------ACTION_MOVE: 1188   768
+12-25 16:16:27.147 15785 15785 E ----------------ACTION_MOVE: 1170   765
+12-25 16:16:27.165 15785 15785 E ----------------ACTION_MOVE: 1154   763
+12-25 16:16:27.183 15785 15785 E ----------------ACTION_MOVE: 1134   760
+12-25 16:16:27.201 15785 15785 E ----------------ACTION_MOVE: 1123   758
+12-25 16:16:27.219 15785 15785 E ----------------ACTION_MOVE: 1114   754
+12-25 16:16:27.237 15785 15785 E ----------------ACTION_MOVE: 1108   749
+12-25 16:16:27.255 15785 15785 E ----------------ACTION_MOVE: 1105   744
+12-25 16:16:27.273 15785 15785 E ----------------ACTION_MOVE: 1103   737
+12-25 16:16:27.291 15785 15785 E ----------------ACTION_MOVE: 1102   733
+12-25 16:16:27.309 15785 15785 E ----------------ACTION_MOVE: 1101   726
+12-25 16:16:27.327 15785 15785 E ----------------ACTION_MOVE: 1100   721
+12-25 16:16:27.345 15785 15785 E ----------------ACTION_MOVE: 1100   715
+12-25 16:16:27.363 15785 15785 E ----------------ACTION_MOVE: 1100   710
+12-25 16:16:27.380 15785 15785 E ----------------ACTION_MOVE: 1100   707
+12-25 16:16:27.399 15785 15785 E ----------------ACTION_MOVE: 1099   703
+12-25 16:16:27.420 15785 15785 E ----------------ACTION_MOVE: 1099   701
+12-25 16:16:27.439 15785 15785 E ----------------ACTION_MOVE: 1099   699
+12-25 16:16:27.457 15785 15785 E ----------------ACTION_MOVE: 1099   699
+12-25 16:16:27.477 15785 15785 E ----------------ACTION_MOVE: 1099   699
+12-25 16:16:27.495 15785 15785 E ----------------ACTION_MOVE: 1099   699
+12-25 16:16:27.513 15785 15785 E ----------------ACTION_MOVE: 1099   699
+12-25 16:16:27.531 15785 15785 E ----------------ACTION_MOVE: 1099   699
+12-25 16:16:27.545 15785 15785 E ----------------ACTION_MOVE: 1098   700
+12-25 16:16:27.564 15785 15785 E ----------------ACTION_MOVE: 1098   700
+12-25 16:16:27.580 15785 15785 E ----------------ACTION_MOVE: 1098   701
+12-25 16:16:27.600 15785 15785 E ----------------ACTION_MOVE: 1098   701
+12-25 16:16:27.620 15785 15785 E ----------------ACTION_MOVE: 1098   701
+12-25 16:16:27.640 15785 15785 E ----------------ACTION_MOVE: 1098   701
+12-25 16:16:27.655 15785 15785 E ----------------ACTION_MOVE: 1098   701
+12-25 16:16:27.671 15785 15785 E ----------------ACTION_MOVE: 1098   701
+12-25 16:16:27.689 15785 15785 E ----------------ACTION_MOVE: 1098   701
+12-25 16:16:27.707 15785 15785 E ----------------ACTION_MOVE: 1098   701
+12-25 16:16:27.726 15785 15785 E ----------------ACTION_MOVE: 1098   701
+12-25 16:16:27.746 15785 15785 E ----------------ACTION_MOVE: 1098   701
+12-25 16:16:27.765 15785 15785 E ----------------ACTION_MOVE: 1098   701
+12-25 16:16:27.782 15785 15785 E ----------------ACTION_MOVE: 1098   701
+12-25 16:16:30.841 15785 15785 E surfaceDestroyed: ------
+12-25 16:16:30.845 15785 18246 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.SettingActivity]#19(BLAST Consumer)19](id:3da900000017,api:0,p:-1,c:15785) dequeueBuffer: BufferQueue has no connected producer
+12-25 16:16:30.845 15785 18246 E mali_so : encounter the first mali_error : 0x0002 : failed to allocate CPU memory (gles_fb_first_operation_cb at hardware/arm/maliT760/driver/product/gles/src/fb/mali_gles_fb_module_api.c:987)
+12-25 16:16:30.845 15785 18246 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.SettingActivity]#19(BLAST Consumer)19](id:3da900000017,api:0,p:-1,c:15785) dequeueBuffer: BufferQueue has no connected producer
+12-25 16:16:30.846 15785 18246 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.SettingActivity]#19(BLAST Consumer)19](id:3da900000017,api:0,p:-1,c:15785) disconnect: not connected (req=1)
+12-25 16:16:30.870 15785 15785 E saveRotateAngle: 0 
+12-25 16:16:30.871 15785 15785 E surfaceDestroyed: ------
+12-25 16:16:30.890 15785 18270 E ywl5320 : fbo success
+12-25 16:16:30.890 15785 18270 E mali_so : encounter the first gles_error : 0x0001; gles_state_error_info : <param> is not an accepted value (gles_texturep_tex_parameteri_input_param_validation at hardware/arm/maliT760/driver/product/gles/src/texture/mali_gles_texture_helpers.c:1095)
+12-25 16:16:30.891 15785 18270 E onReaderCreate: 1159  651  0
+12-25 16:16:30.904 15785 18247 E Camera1 : setPreviewTexture failed
+12-25 16:16:30.905 15785 18247 E Camera  : Error 2
+12-25 16:16:31.589 15785 15785 E surfaceDestroyed: ------
+12-25 16:16:31.590 15785 15785 E onDestroyView: closeCamera
+12-25 16:16:31.591 15785 18270 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.SettingActivity]#22(BLAST Consumer)22](id:3da90000001b,api:0,p:-1,c:15785) dequeueBuffer: BufferQueue has no connected producer
+12-25 16:16:31.591 15785 18270 E mali_so : encounter the first mali_error : 0x0002 : failed to allocate CPU memory (gles_fb_first_operation_cb at hardware/arm/maliT760/driver/product/gles/src/fb/mali_gles_fb_module_api.c:987)
+12-25 16:16:31.591 15785 18270 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.SettingActivity]#22(BLAST Consumer)22](id:3da90000001b,api:0,p:-1,c:15785) dequeueBuffer: BufferQueue has no connected producer
+12-25 16:16:31.592 15785 18270 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.SettingActivity]#22(BLAST Consumer)22](id:3da90000001b,api:0,p:-1,c:15785) disconnect: not connected (req=1)
+12-25 16:16:32.501 15785 18284 E ywl5320 : fbo success
+12-25 16:16:32.501 15785 18284 E mali_so : encounter the first gles_error : 0x0001; gles_state_error_info : <param> is not an accepted value (gles_texturep_tex_parameteri_input_param_validation at hardware/arm/maliT760/driver/product/gles/src/texture/mali_gles_texture_helpers.c:1095)
+12-25 16:16:32.501 15785 18284 E onReaderCreate: 1476  830  0
+12-25 16:16:32.834 15785 15785 E surfaceDestroyed: ------
+12-25 16:16:32.840 15785 18284 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.SettingActivity]#23(BLAST Consumer)23](id:3da90000001d,api:0,p:-1,c:15785) dequeueBuffer: BufferQueue has no connected producer
+12-25 16:16:32.840 15785 18284 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.SettingActivity]#23(BLAST Consumer)23](id:3da90000001d,api:0,p:-1,c:15785) dequeueBuffer: BufferQueue has no connected producer
+12-25 16:16:32.840 15785 18284 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.SettingActivity]#23(BLAST Consumer)23](id:3da90000001d,api:0,p:-1,c:15785) disconnect: not connected (req=1)
+12-25 16:16:35.539 15785 15785 E saveRotateAngle: 0 
+12-25 16:16:35.539 15785 15785 E surfaceDestroyed: ------
+12-25 16:16:35.555 15785 18302 E ywl5320 : fbo success
+12-25 16:16:35.555 15785 18302 E mali_so : encounter the first gles_error : 0x0001; gles_state_error_info : <param> is not an accepted value (gles_texturep_tex_parameteri_input_param_validation at hardware/arm/maliT760/driver/product/gles/src/texture/mali_gles_texture_helpers.c:1095)
+12-25 16:16:35.556 15785 18302 E onReaderCreate: 1159  651  0
+12-25 16:16:35.873 15785 15785 E surfaceDestroyed: ------
+12-25 16:16:35.874 15785 15785 E onDestroyView: closeCamera
+12-25 16:16:35.875 15785 18302 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.SettingActivity]#25(BLAST Consumer)25](id:3da900000020,api:0,p:-1,c:15785) dequeueBuffer: BufferQueue has no connected producer
+12-25 16:16:35.875 15785 18302 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.SettingActivity]#25(BLAST Consumer)25](id:3da900000020,api:0,p:-1,c:15785) dequeueBuffer: BufferQueue has no connected producer
+12-25 16:16:35.875 15785 18302 E BufferQueueProducer: [SurfaceView[com.shifang.aidish.offline/com.shifang.aidish.mvp.ui.SettingActivity]#25(BLAST Consumer)25](id:3da900000020,api:0,p:-1,c:15785) disconnect: not connected (req=1)
+12-25 16:16:37.300 15785 15785 E .aidish.offlin: Invalid ID 0x00000a03.
+12-25 16:16:37.307 15785 15785 E SyncDataService_onStartCommand: false
+12-25 16:16:37.309 15785 15785 E PaymentProvider__syncData: 6 
+12-25 16:16:37.328 15785 18317 E registerBgr24: 1 
+12-25 16:16:37.328 15785 18317 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:16:37.328 15785 18317 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 16:16:37.360 15785 18317 E registerBgr24: 2 
+12-25 16:16:37.360 15785 18317 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:16:37.360 15785 18317 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 16:16:37.373 15785 18317 E registerBgr24: 3 
+12-25 16:16:37.374 15785 18317 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:16:37.374 15785 18317 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 16:16:37.388 15785 18317 E registerBgr24: 4 
+12-25 16:16:37.388 15785 18317 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:16:37.388 15785 18317 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 16:16:37.413 15785 18317 E registerBgr24: 5 
+12-25 16:16:37.413 15785 18317 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:16:37.413 15785 18317 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 16:16:38.714 15785 18322 E getNewVersion: null
+12-25 16:17:04.566 15785 16659 E registerBgr24: 1 
+12-25 16:17:04.566 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:17:04.566 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 16:17:04.597 15785 16659 E registerBgr24: 2 
+12-25 16:17:04.597 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:17:04.597 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 16:17:04.609 15785 16659 E registerBgr24: 3 
+12-25 16:17:04.609 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:17:04.609 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 16:17:04.621 15785 16659 E registerBgr24: 4 
+12-25 16:17:04.621 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:17:04.621 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 16:17:04.643 15785 16659 E registerBgr24: 5 
+12-25 16:17:04.643 15785 16659 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:17:04.643 15785 16659 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
+12-25 16:17:20.075 15785 16278 E registerBgr24: 1 
+12-25 16:17:20.075 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:17:20.075 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 吴彦祖  1
+12-25 16:17:20.106 15785 16278 E registerBgr24: 2 
+12-25 16:17:20.106 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:17:20.106 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 郭富城  2
+12-25 16:17:20.118 15785 16278 E registerBgr24: 3 
+12-25 16:17:20.118 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:17:20.118 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 谢霆锋  3
+12-25 16:17:20.130 15785 16278 E registerBgr24: 4 
+12-25 16:17:20.130 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:17:20.130 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 摩卡  4
+12-25 16:17:20.152 15785 16278 E registerBgr24: 5 
+12-25 16:17:20.152 15785 16278 E FaceServer__: registerBgr24:  ErrorInfo.MOK
+12-25 16:17:20.152 15785 16278 E SyncFacePresenter__addFaceLocal_register  fail: 李连杰  5
